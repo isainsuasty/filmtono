@@ -1,7 +1,0 @@
-//Recaptcha
-Del sitio: 6LdErd0pAAAAAH6zMR7aF0fP9CAZpZDWCC0EKpFU
-Secreta: 6LdErd0pAAAAAPHTvAFVSJCWoyznzgaDUFqtvhb7
-
-URL: https://www.google.com/recaptcha/admin/site/702393668?hl=es-419
-
-CLAVE DE API: AIzaSyD__9zClCLKVwD3H7oDePalPBuKPGhDKv0
