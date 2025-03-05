@@ -1,0 +1,62 @@
+@use '../base/variables' as v;
+@use '../base/mixins' as m;
+
+.contrato{
+    background-color: v.$white;
+    margin-top: 3.5rem;
+    padding: 2rem 1rem;
+
+    @include m.tablet{
+        padding: 4rem 5rem;
+    }
+    h1, h2, h3, p{
+        color: v.$black;
+        line-height: 1.4;
+    }
+    h1, h2, h3{
+        font-weight: v.$bold;
+    }
+
+    h1{
+        font-size: 2rem;
+        margin-bottom: 1.5rem;
+    }
+
+    h2, h3{
+        font-size: 1.8rem;
+        margin-bottom: 1.2rem;
+    }
+
+    p{
+        font-size: 1.6rem;
+    }
+}
+
+.firma{
+    color: v.$yellow;
+    text-align: center;
+    font-size: 2.2rem;
+    &__info{
+        font-size: 1.8rem;
+        font-weight: v.$thin;
+    }
+}
+
+.grid-firmas{
+    display: grid;    
+    grid-gap: .5rem;
+    margin-top: 3rem;
+    @include m.tablet{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    &__campo{
+        border: 0.2rem solid v.$gray-dark;
+        p{
+            padding: 1rem;
+            margin: .5rem;
+        }
+        &--span{
+            font-weight: v.$bold;
+        }
+    }
+}

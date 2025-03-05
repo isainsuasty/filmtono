@@ -1,0 +1,62 @@
+@use "sass:math";
+@use "../../base/variables" as v;
+@use "../../base/mixins" as m;
+
+.menu{
+    position: fixed;
+    display: flex;    
+    background-color: v.$gray-light;
+    border-radius:  1rem 1rem 0 0;    
+    justify-content: space-between;
+    padding: 2rem;
+    width: 100%;
+    bottom: 0;
+    z-index: 11;
+    align-items: center;
+    @include m.phone{
+        justify-content: space-around;
+    }
+
+    @include m.tablet{
+        flex-direction: column;
+        border-radius: 0 1rem 1rem 0;
+        top: 22vh;
+        padding: v.$separate 2rem;
+        row-gap: v.$separate; 
+        width: auto;
+        bottom: auto;
+    }
+
+    &__dropdown{
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(78, 84, 105, 0.9);
+        border: 1.5px solid v.$gray-soft;
+        border-bottom: none;
+        padding: 2rem 3rem;
+        width: max-content;
+        min-width: 20rem;
+        position: absolute;
+        border-radius: 0 1rem 1rem 0;
+        bottom: 6.4rem;
+        right: 0;    
+    
+        @include m.tablet{
+            left: 7rem;
+            bottom: 0;
+            right: auto;
+            border-left: none;
+            border-bottom: 1.5px solid v.$gray-soft;
+        }
+    
+        & a{
+            color: v.$white;
+            padding: 0.5rem 0;
+    
+            &:hover{
+                color: v.$yellow;
+            }
+        }
+    }
+}
+

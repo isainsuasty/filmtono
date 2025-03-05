@@ -1,0 +1,170 @@
+.loadingScreen{
+    position: fixed; /* Sit on top of the page content */
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    top: 0; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.9); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a z-index scale */
+    cursor: progress; /* Add a loading cursor */
+    display: flex;
+    z-index: 111;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader {
+    width: 100vw;
+    display:grid;
+    place-items:center;    
+    &--span {
+            position: relative;
+            width: 140px;
+            height: 85px;
+            background-repeat: no-repeat;
+            background-image: linear-gradient(#FFF 85px, transparent 0),
+                              linear-gradient(#FFF 85px, transparent 0),
+                              linear-gradient(#FFF 85px, transparent 0),
+                              linear-gradient(#FFF 85px, transparent 0),
+                              linear-gradient(#FFF 85px, transparent 0),
+                              linear-gradient(#FFF 85px, transparent 0);
+            background-position: 0px center, 25px center, 50px center, 75px center, 100px center, 125px center, 145px center;
+            animation: rikSpikeRoll 1.8s linear infinite alternate;
+
+            &::before{
+                content: '';
+                display: block;
+                position: absolute;
+                width: 7px;
+                height: 7px;
+                background-color: #FFF;
+                border-radius: 50%;
+                display: block;
+                top: 45%;
+                left: -15%;
+            }
+            &::after{
+                content: '';
+                display: block;
+                position: absolute;
+                width: 7px;
+                height: 7px;
+                background-color: #FFF;
+                border-radius: 50%;
+                display: block;
+                top: 45%;
+                right: -10%;
+            }
+
+            &__back{
+              position: relative;
+              width: 140px;
+              height: 85px;
+              background-repeat: no-repeat;
+              background-image: linear-gradient(rgba(255,255,255,0.3) 85px, transparent 0),
+                                linear-gradient(rgba(255,255,255,0.3) 85px, transparent 0),
+                                linear-gradient(rgba(255,255,255,0.3) 85px, transparent 0),
+                                linear-gradient(rgba(255,255,255,0.3) 85px, transparent 0),
+                                linear-gradient(rgba(255,255,255,0.3) 85px, transparent 0),
+                                linear-gradient(rgba(255,255,255,0.3) 85px, transparent 0);
+              background-position: 0px center, 25px center, 50px center, 75px center, 100px center, 125px center, 145px center;
+              animation: rikSpikeRoll 2.2s linear infinite alternate;
+              transform: translateY(-100%);
+            }
+
+        @keyframes rikSpikeRoll {
+          0% { background-size: 10px 3px;}
+          16% { background-size: 10px 85px, 10px 3px, 10px 3px, 10px 3px, 10px 3px, 10px 3px}
+          33% { background-size: 10px 30px, 10px 85px, 10px 3px, 10px 3px, 10px 3px, 10px 3px}
+          50% { background-size: 10px 10px, 10px 30px, 10px 85px, 10px 3px, 10px 3px, 10px 3px}
+          66% { background-size: 10px 3px, 10px 10px, 10px 30px, 10px 85px, 10px 3px, 10px 3px}
+          83% { background-size: 10px 3px, 10px 3px,  10px 10px, 10px 30px, 10px 85px, 10px 3px}
+          100% { background-size: 10px 3px, 10px 3px, 10px 3px,  10px 10px, 10px 30px, 10px 85px}
+        }            
+    }
+    &__wrapper--text{
+        margin: 0;
+        padding: 0;
+        font-weight: 100;
+        color: #FD9526;
+        font-weight: 700;
+        transform: translateY(-120%);
+        letter-spacing: -0.35rem;
+        & p {
+            color: #FD9526;
+            position: relative;
+            top: 0;  
+            display: inline-block;
+            text-transform: uppercase;  
+            opacity: 0;
+            transform: rotateX(-90deg);
+            font-size: 3.6rem;
+          }
+    }
+}
+  
+  .let1 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.2s;
+  }
+  
+  .let2 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.3s;
+  }
+  
+  .let3 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.4s;
+  }
+  
+  .let4 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.5s;
+  
+  }
+  
+  .let5 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.6s;
+  }
+  
+  .let6 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.7s;
+  }
+  
+  .let7 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.8s;
+  }
+  
+  .let8 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.9s;
+  }
+  
+  @keyframes drop {
+      10% {
+          opacity: 0.5;
+      }
+      20% {
+          opacity: 1;
+          top: 1.78em;
+          transform: rotateX(-360deg);
+      }
+      80% {
+          opacity: 1;
+          top: 1.78em;
+          transform: rotateX(-360deg);
+      }
+      90% {
+          opacity: 0.5;
+      }
+      100% {
+          opacity: 0;
+          top: 2.94em
+      }
+  }

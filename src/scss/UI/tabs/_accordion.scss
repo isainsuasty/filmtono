@@ -1,0 +1,89 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.summary{
+    &__main{
+        background-color: darken(v.$gray-dark, 9);
+        border: 0.2rem solid v.$yellow;
+        border-radius: 1rem;
+        color: v.$yellow;
+        cursor: pointer;
+        padding: 1rem 2rem;
+        font-size: 1.6rem;
+        font-weight: v.$bold;
+        &::hover{
+            background-color: darken(v.$yellow, 5);
+        }
+        @include m.tablet{
+            font-size: 2rem;
+        }
+    }
+
+    &__sub{
+        background-color: darken(v.$gray-dark, 9);
+        border: 0.2rem solid v.$green;
+        border-radius: 1rem;
+        color: v.$white;
+        padding: 1rem 2rem;
+        font-size: 1.6rem;
+        font-weight: v.$regular;
+        margin: 1rem;
+        cursor: pointer;
+        &::hover{
+            background-color: darken(v.$yellow, 5);
+        }
+    }
+    &__answer{
+        padding-left: 2rem;
+    }
+}
+
+.grid--faq{
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: 0.5rem;
+    padding: 0;
+    border: 0.1rem solid v.$yellow;
+    max-width: 80%;
+    margin: auto;
+    @include m.tablet{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0.5rem;
+    }
+    &--3{
+        @extend .grid--faq;
+        @include m.tablet{
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+    &__row{
+        background-color: v.$yellow;
+        color: v.$black;
+        margin: 0;
+        padding: 0.75rem;
+        display: none;
+        @include m.tablet{
+            display: block;
+        }
+    }
+    &__title{
+        margin: 0.25rem;
+        padding: 0.75rem;
+        &:not(:last-child){
+            border-bottom: 0.2rem solid v.$yellow;
+        }
+        @include m.maxtablet{
+            background-color: v.$yellow;
+            color: v.$black;
+            border-bottom: none;
+        }
+    }
+    &__text{
+        margin: 0.25rem;
+        padding: 0.75rem;
+        &:not(:last-child){
+            border-bottom: 0.2rem solid v.$yellow;
+        }
+    }
+}

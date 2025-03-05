@@ -1,0 +1,24 @@
+{
+    "name": "anitanashdev/filmtono",
+    "description": "Plataforma web Filmtono de venta de licencias musicales para proyectos audiovisuales",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Classes\\" : "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anitanashdev https://www.buymeacoffee.com/anamariaaya"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "vlucas/phpdotenv": "^5.4",
+        "intervention/image": "^2.7",
+        "mpdf/mpdf": "^8.1"
+    }
+}

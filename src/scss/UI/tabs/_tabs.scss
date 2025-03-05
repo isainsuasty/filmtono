@@ -1,0 +1,265 @@
+@use '../../base/variables' as v;
+@use '../../base/mixins' as m;
+
+.tabs{
+    margin: 0 auto;
+    width: 90%;
+    padding: 1rem;
+    background-color: v.$gray;
+    border-radius: 1rem;
+    @include m.tablet{
+        padding: 1rem 3rem;
+    }
+    @include m.desktop{
+        width: 65%;
+    }
+    &__nav{
+        display: flex;
+        justify-content: space-evenly;
+        margin: 3rem auto 1.5rem;
+        position: relative;
+        z-index: 1;
+        &__line{
+            display: block;
+            width: 80%;
+            height: 0.5rem;
+            background: linear-gradient(to right, v.$yellow 20%, v.$gray-light 20%);
+            top: 40%;
+            position: absolute;
+            z-index: -1;
+            &.step2{
+                background: linear-gradient(to right, v.$yellow 48%, v.$gray-light 48%);
+            }
+            &.step3{
+                background: linear-gradient(to right, v.$yellow 100%, v.$gray-light 100%);
+            }
+        }
+
+        button{
+            background-color: v.$gray-light;
+            padding: 1rem;
+            border:none;
+            color: v.$white;
+            display: block;
+            width: 4.5rem;
+            height: 4.5rem;
+            border-radius: 50%;
+            text-transform: uppercase;
+            margin-bottom: 1rem;
+            font-weight: v.$bold;
+            transition: background-color .3s ease;
+    
+            &:hover{
+                cursor: pointer;
+                background-color: v.$yellow;
+            }
+            &.active{
+                background-color: v.$yellow;
+                color: v.$gray-dark;
+            }
+        }
+    }
+
+    &__section{
+        display: none;
+        width: 100%;
+        h3{
+            color: v.$yellow;
+            margin: 1.5rem auto;
+        }
+        p{
+            font-weight: v.$thin;
+            text-align: center;
+        }
+        h4{
+            font-weight: 500;
+            color: v.$green;
+            text-align: center;
+            font-size: 2rem;
+        }
+    }
+
+    &__auth{
+        @include m.tablet{
+            display: flex;
+            justify-content: space-around;
+            gap: 3.5rem;
+        }
+        &__bloque{
+            position: relative;
+            p{
+                margin-top: 0;
+            }
+        }
+    }
+
+    &__pags{
+        padding: calc(v.$separate / 3) 0;
+    
+        @include m.phone{
+            display: flex;
+            justify-content: space-between;
+        }
+        @include m.tablet{
+            padding: v.$separate 0;
+        }
+        button{
+            margin: 0.5rem;
+        }
+    }
+
+    &__help{
+        color: v.$yellow;
+        cursor: help;
+        font-size: 2rem;
+        &:hover ~ .tabs__help--info {
+            display: block;
+        }
+        &--info{
+            font-size: 1.4rem;
+            position: absolute;
+            border: 0.2rem solid v.$yellow;
+            padding: 1.5rem 0.5rem;
+            top: 25%;
+            color: v.$white;
+            background-color: darken(v.$gray-dark, 1);
+            display: none;
+        }
+        &--confirm{
+            font-size: 1.8rem;
+            padding: 1rem 0.5rem;
+            color: v.$yellow;
+            border-radius: 1rem;
+            background-color: darken(v.$gray-dark, 1);
+            border: 2px solid darken(v.$gray-dark, 5);
+            font-weight: v.$bold;
+            display: none;
+        }
+    }
+}
+
+.form--registro{
+    background-color: v.$gray;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem 6rem;
+    @include m.tablet{
+        grid-template-columns: 1fr 1fr;
+        padding: 3rem;
+    }
+    @include m.desktop-large{
+        gap: 2.5rem 8rem;
+    }
+    &__group{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        &__icon{
+            color: v.$yellow;
+            //text-shadow: 2px 2px 5px darken(v.$gray-dark, 10);
+            font-size: 2.2rem;
+            margin-right: 1rem;
+        }
+        &__label{
+            color: v.$white;
+            font-size: 2rem;
+        }
+        &__input, &__select{
+            padding: 1rem;
+            width: 100%;
+            margin: auto;
+            background-color: v.$gray-light;
+            border-radius: 1rem;
+            color: v.$white;
+            border: none;
+            display: block;
+            @include m.tablet{
+                padding: 1.5rem;
+            }
+            &:focus{
+                outline: 2px solid v.$yellow;
+                caret-color: v.$yellow;
+            }
+            &:disabled{
+                background-color: v.$gray-dark;
+                color: lighten(v.$gray-light, 10);
+                font-size: 1.8rem;
+            }
+            &::placeholder{
+                color: darken(v.$white, 20%);
+            }
+        }
+        &__select option{
+            cursor: pointer;
+            background-color: v.$gray-dark;
+            text-transform: capitalize;
+        }
+    }
+    
+    &__checkbox{
+        display: grid;
+        grid-template-columns: 7% 93%;
+        padding: 0.5rem 1.5rem;
+        background-color: v.$gray-light;
+        border-radius: 1rem;
+        &--div{
+            display: flex;
+            flex-direction: column;
+            row-gap: 0.7rem;
+        }
+        &__input{
+            height: auto;
+            width: 2.2rem;
+        }
+        &__label{
+            @extend .form--registro__group__label;
+            width: 75%;
+            a{
+                color: v.$yellow;
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.tabs__lg{
+    &__buttons{
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        margin: 1rem auto;
+    }
+    &--btn{
+        width: 100%;
+        border-radius: 0.5rem;
+        padding: 2rem;
+        background-color: v.$gray-light;
+        border: none;
+        color: v.$white;
+        font-size: 2rem;
+        &:hover{
+            cursor: pointer;
+            background-color: v.$green;
+            color: v.$black;
+        }
+
+        &--active{
+            background-color: v.$green;
+            color: v.$black;
+        }
+    }
+
+    &--disabled{
+        display: none;
+    }
+}
+
+.mostrar{
+    display: block;
+}
+
+.ocultar{
+    visibility: hidden;
+}

@@ -1,0 +1,33 @@
+@use 'sass:math';
+@use '../base/variables' as v;
+@use '../base/mixins' as m;
+
+.music{
+    &__grid{
+        display: flex;
+        flex-direction: column;
+        img{
+            margin: auto;
+            width: 22rem;
+        }
+        @include m.desktop{
+           display: grid;
+           grid-template-columns: auto auto;
+           gap: 5rem;
+           justify-content: flex-start;
+           align-items: center;
+           p{
+            margin-top: 0;
+           }
+           img{
+            margin: 0;
+            width: 35rem;
+           }
+        }
+    }
+
+    &__table{
+        display: flex;
+        flex-direction: column;
+    }
+}

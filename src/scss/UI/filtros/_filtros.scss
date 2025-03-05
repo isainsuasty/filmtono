@@ -1,0 +1,187 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.filtros{
+    margin-top: v.$separate;
+    &__search{
+        margin-bottom: v.$separate;
+        &__input{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            @include m.midscreen{
+                flex-direction: row;
+            }
+            &--search{
+                font-size: 1.4rem;
+                background-color: v.$white;
+                border: none;
+                box-shadow: v.$shadow;
+                caret-color: v.$yellow;
+                display: block;
+                width: 100%;
+                border-radius: 1rem;
+                padding: 1rem;
+                &:focus-visible{
+                    outline: none;
+                    border: 0.2rem solid v.$blue;
+                }
+            }
+        }
+        &__select{
+            display: grid;
+            grid-template-columns: 1fr;
+            column-gap: 0.5rem;
+            row-gap: 0.7rem;
+            position: relative;
+            align-items: flex-end;
+            @include m.midscreen{
+                grid-template-columns: repeat(2, 1fr);
+            }
+            @include m.tablet{
+                column-gap: 1.5rem;
+                row-gap: 1rem;
+            }
+            @include m.desktop{
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+    }
+    &__group{
+        display: flex;
+        flex-direction: column;
+        gap: .5rem;
+        position: relative;
+        &__label, &__select{
+            font-size: 1.4rem;
+            color: v.$white;
+        }
+        &__select{
+            background-color: v.$black;
+            padding: 0.5rem;
+            border: 0.1rem solid v.$yellow;
+            border-radius: 1rem;
+            &:focus-visible{
+                outline: none;
+                border: 0.1rem solid v.$blue;
+                color: v.$blue;
+            }
+        }
+    }
+}
+
+.custom-select-container {
+    border-radius: 5px;
+    max-width: 300px;
+    color: v.$white;
+}
+  
+.custom-select-header {
+    font-size: 1.4rem;
+    padding: 0.5rem;
+    border-bottom: 1px solid v.$yellow;
+    cursor: pointer;
+}
+
+.custom-select-container.active .custom-select-header {
+    border-bottom-color: v.$blue;
+    color: v.$blue;
+}
+
+.custom-select-header::after {
+    content: '▼';
+    float: right;
+    color: v.$yellow;
+}
+
+.custom-select-container.active .custom-select-header::after {
+    content: '▲';
+    color: v.$blue;
+}
+
+.custom-select-container > .custom-select-options {
+    display: none;
+}
+
+.custom-select-container.active > .custom-select-options {
+    display: block;
+}
+  
+.custom-select-tags .custom-select-tag {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.3rem 0.6rem;
+    margin: 0.2rem;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    position: relative;
+    cursor: pointer;
+}
+  
+.custom-select-tags .custom-select-tag .remove {
+    margin-left: 0.3rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+  
+.custom-select-options {
+    position: absolute;
+    top: 102%;
+    left: 0;
+    right: 0;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 10;
+    padding: 0.5rem;
+    width: max-content;
+    display: block;
+    max-width: 75vw;
+    @include m.tablet{
+        top: 105%;
+    }
+}
+  
+.custom-select-option {
+    display: inline-block;
+    padding: 0.3rem 0.6rem;
+    margin: 0.2rem;
+    background-color: v.$black;
+    border: 0.1rem solid v.$yellow;
+    border-radius: v.$border-radius;
+    font-size: 1.2rem;
+    cursor: pointer;
+    position: relative;
+}
+  
+.custom-select-option.selected {
+    background-color: v.$blue;
+    border: 0.1rem solid v.$blue;
+    color: v.$black;
+    font-weight: v.$bold;
+}
+  
+.custom-select-option .remove {
+    margin-left: 0.3rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.subcategories-wrapper{
+    display: grid;
+    place-items: center;
+    border: 0.1rem solid lighten(v.$gray-light, 15%);
+    border-radius: v.$border-radius;
+    padding: 0.5rem;
+    min-height: 3rem;
+    & p{
+        margin: 0;
+        font-size: 1.4rem;
+        line-height: 1.2;
+        color: lighten(v.$gray-light, 15%);
+    }
+}

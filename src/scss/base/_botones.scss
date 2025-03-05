@@ -1,0 +1,301 @@
+@use 'variables' as v;
+@use 'mixins' as m;
+
+.btn-search{
+    position: absolute;
+    top: 50%;
+    right: 0;        
+    transform: translate(-50%, -50%);
+    width: 1.7rem;
+    @include m.tablet{
+        width: 2.5rem;       
+        right: 0;        
+    }
+    @include m.desktop{
+        width: 3rem;       
+    }
+}
+
+.btn-menu{
+    filter:sepia(100%) grayscale(1) brightness(1);    
+    &.active{
+        filter:none;
+    }
+    &:hover{
+        filter: none;
+    }
+}
+
+.btn-dropdown{
+    cursor: pointer;
+}
+
+.btn-lang{
+    all:unset;            
+    padding: 0.5rem 2rem;
+    color: v.$white;
+    border-radius: 0.5rem;
+    font-size: 1.4rem;            
+    &:hover{
+        cursor: pointer;
+        background-color: v.$yellow;
+    }
+}
+
+.btn-submit{
+    @include m.boton(v.$yellow, block);
+    width: 100%;
+    border-radius: 1rem;
+    color: v.$gray-dark;
+    @include m.tablet{
+        width: fit-content;
+    }
+    &--form{
+        @extend .btn-submit;
+        @include m.tablet{
+            height: 5rem;
+        }
+    }
+    &--extra{
+        @extend .btn-submit;
+        margin: 2.5rem auto 0;
+        font-size: 1.6rem;
+    }
+    &--post{
+        @extend .btn-submit;
+        height: auto;
+        padding: 0.5rem 3rem;
+        font-size: 1.5rem;
+        margin: 1.5rem auto 0;
+    }
+}
+
+
+.btn-view{
+    @include m.boton(v.$yellow, flex);
+    margin-top: 1rem;
+    border-radius: 1rem;
+    color: v.$gray-dark;
+    align-items: center;
+    justify-content: center;
+    gap:1rem;
+    padding: 0.5rem 1rem;
+    @include m.tablet{
+        width: fit-content;
+    }
+}
+
+.btn-view--index{
+    @extend .btn-view;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    @include m.tablet{
+        padding: 0.5rem 1.5rem;
+        width: 60%;
+        margin: auto;
+        margin-top: 3rem;
+    }
+}
+
+.btn-delete{
+    @include m.boton(v.$red, block);
+    width: 100%;
+    height: fit-content;
+    border-radius: 1rem;
+    color: v.$white;
+    @include m.tablet{
+        width: fit-content;
+    }
+    &--form{
+        @extend .btn-delete;
+        padding: 1rem 0;
+        @include m.tablet{
+            padding: 0 3rem;
+            height: 5rem;
+        }
+    }
+}
+
+.btn-update{
+    @include m.boton(darken(v.$green, 17%), flex);
+    width: 100%;
+    margin-top: 0;
+    border-radius: 1rem;
+    color: v.$white;
+    justify-content: center;
+    @include m.tablet{
+        width: auto;
+        margin-bottom: 0;
+    }
+}
+
+.btn-tabs{
+    @include m.boton(v.$yellow, block);
+    margin: 1rem auto;
+    border-radius: 1rem;
+    color: v.$gray-dark;
+    width: fit-content;
+    @include m.maxtablet{
+        padding: 1rem;
+    }
+    &:hover{
+        cursor: pointer;
+    }
+    &--disabled{
+        background-color: v.$gray-light;
+        color: v.$gray-dark;
+        &:hover{
+            cursor: not-allowed;
+            pointer-events: none;
+            background-color: v.$gray-light;
+            transform: none;
+        }
+    }
+}
+
+.btn-contrato{
+    &--optional{
+        background-color: transparent;
+        border: .2rem solid v.$yellow;
+        color: v.$yellow;
+        &:hover{
+            background-color: transparent;
+        }
+    }
+}
+
+.btn-back{
+    @include m.boton(v.$green, block);
+    margin: 1rem 0;
+    border-radius: 1rem;
+    color: v.$gray-dark;
+    width: fit-content;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.btn-green{
+    @include m.boton(v.$green, block);
+    margin: 0;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    color: v.$gray-dark;
+    width: 100%;
+    &:hover{
+        cursor: pointer;
+    }
+    @include m.tablet{
+        width: fit-content;
+        margin-top: 0;
+    }
+}
+
+.btn-yellow{
+    @include m.boton(v.$yellow, block);
+    margin: 0;
+    border-radius: 1rem;
+    color: v.$gray-dark;
+    width: 100%;
+    &:hover{
+        cursor: pointer;
+    }
+    @include m.tablet{
+        width: fit-content;
+    }
+}
+
+.btn-clear{
+    @include m.boton(v.$red, block);
+    margin: 0;
+    border-radius: 1rem;
+    color: v.$white;
+    width: 100%;
+    width: fit-content;
+    flex: none;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+
+.btn-disabled{
+    background-color: v.$gray-light;
+    color: v.$gray-dark;
+    &:hover{
+        cursor: not-allowed;
+        pointer-events: none;
+        background-color: v.$gray-light;
+        transform: none;
+    }
+}
+
+.btn-cancel{
+    @include m.boton(transparent, block);
+    margin: 1rem 0;
+    border-radius: 1rem;
+    border: 0.1rem solid v.$white;
+    color: v.$white;
+    width: fit-content;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.btn__wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    @include m.tablet{
+        gap: 3rem;
+        margin-top: 2rem;
+        flex-direction: row;
+    }
+}
+
+.btn-note{
+    @include m.boton(v.$blue, flex);
+    margin: 0;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    color: v.$gray-dark;
+    width: fit-content;
+    font-size: 1.4rem !important;
+    @include m.tablet{
+        padding: 0.5rem 1rem;
+        font-size: 1.6rem !important;
+    }
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.btn-filter{
+    background-color: darken(v.$gray-dark, 9);
+    outline: none;
+    border: none;
+    margin: 0;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+    border-radius: 1rem;
+    border: 0.1rem solid v.$yellow;
+    color: v.$white;
+    width: fit-content;
+    font-size: 1.4rem !important;
+    @include m.tablet{
+        padding: 0.5rem 1rem;
+        font-size: 1.6rem !important;
+        margin-bottom: 2rem;
+        margin-top: 1rem;
+    }
+    &:hover, &.active{
+        cursor: pointer;
+        background-color: v.$blue;
+        color: v.$black;
+        border: 0.1rem solid v.$blue;
+        font-weight: v.$bold;
+    }
+}

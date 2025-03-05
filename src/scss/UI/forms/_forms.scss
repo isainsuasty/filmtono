@@ -1,0 +1,279 @@
+@use "sass:math";
+@use '../../base/variables' as v;
+@use '../../base/mixins' as m;
+
+.form-div{
+    width: 100%;
+    margin: 3rem  auto;
+    @include m.phone{
+        width: 95%;
+    }
+    @include m.tablet{
+        width: 65%;
+    }
+    @include m.desktop-large{
+        width: 50%;
+    }
+}
+
+.form{
+    background-color: v.$gray;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    @include m.tablet{
+        padding: 2rem 3rem;
+    }
+
+    &__info{
+        font-weight: v.$thin;
+        font-size: 1.6rem;
+        margin: 0;
+        padding: 0 3rem;
+    }
+
+    &__legend{
+        color: v.$green;
+        font-size: 1.6rem;
+        text-decoration: 2px underline;
+        text-underline-offset: 1rem;
+        @include m.tablet{
+            font-size: 1.8rem;
+        }
+        @include m.desktop{
+            font-size: 2rem;
+        }
+    }
+
+    &--max{
+        @extend .form;
+        width: 100%;
+        @include m.tablet{
+            width: 65%;
+        }
+    }
+
+    &__fieldset{
+        border: none;
+    }
+
+    &__group{
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        position: relative;
+        padding-top: 1.2rem;
+        &:not(last-child){
+            margin-bottom: 1rem;
+        }
+        &--inline{
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+        &__label{
+            color: v.$white;
+            font-size: 1.4rem;
+            line-height: normal;
+            @include m.tablet{
+                font-size: 1.6rem;
+            }
+            @include m.desktop{
+                font-size: 1.8rem;
+            }
+            @include m.desktop-large{
+                font-size: 2rem;
+            }
+            @include m.ultra-wide{
+                font-size: 2.2rem;
+            }
+        }
+        &__input, &__select, &__textarea{
+            padding: 1rem;
+            width: 100%;
+            margin: auto;
+            background-color: v.$gray-light;
+            border-radius: 1rem;
+            color: v.$white;
+            border: none;
+            display: block;
+            font-size: 1.4rem;
+            @include m.tablet{
+                font-size: 1.6rem;
+            }
+            @include m.desktop{
+                font-size: 1.8rem;
+            }
+            &:focus{
+                outline: 2px solid v.$yellow;
+                caret-color: v.$yellow;
+            }
+            &:disabled{
+                background-color: v.$gray-dark;
+                color: lighten(v.$gray-light, 10);
+                font-size: 1.8rem;
+            }
+            &::placeholder{
+                color: darken(v.$white, 25%);
+            }
+            //style for checkbox
+            &--checkbox{
+                width: 1.4rem;
+                height: 1.4rem;
+                @include m.tablet{
+                    width: 1.6rem;
+                    height: 1.6rem;
+                }
+                @include m.desktop{
+                    width: 1.8rem;
+                    height: 1.8rem;
+                }
+                @include m.ultra-wide{
+                    width: 2rem;
+                    height: 2rem;
+                }
+            }
+        }
+        &__select{
+            text-transform: capitalize;
+        }
+        &_select option{
+            cursor: pointer;
+            background-color: v.$gray-dark;
+            text-transform: capitalize;
+        }
+        &__languages{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+        &--file-name{
+            background-color: v.$gray-dark;
+            margin: 0;
+            padding: 0.5rem;
+            font-size: 1.4rem;
+            margin-top: 0.25rem;
+            box-shadow: v.$shadow;
+            border: 0.1rem solid v.$gray-light;
+        }
+        &--info{
+            display: flex;
+            column-gap: 0.7rem;
+            align-items: baseline;
+        }
+    }
+    &__custom{
+        &__input{
+        @extend .form__group__input;
+        color: transparent;
+        background-color: v.$yellow;
+            &::-webkit-file-upload-button {
+            visibility: hidden;
+            opacity: 0;            
+            }
+            &::before {
+                width: 100%;
+                height: 100%;
+                display: inline-block;
+                outline: none;
+                content: attr(data-text);
+                white-space: nowrap;
+                color: v.$gray-dark;
+                font-weight: v.$bold;
+                -webkit-user-select: none;
+                user-select: none;
+                cursor: pointer;
+            }
+            &::placeholder{
+                color: v.$gray-dark;
+            }
+        }
+        &__file-name{
+            color: v.$white;
+        }
+    }
+}
+
+.texto--password{
+    margin: 0;
+    font-size: 1.6rem;
+    color: v.$green;
+    line-height: 1.4;
+    border: 0.1rem solid v.$green;
+    border-radius: 0.8rem;
+    padding: 0.5rem;
+    background-color: darken(v.$gray-dark, 8);
+}
+
+.passview{
+    position: absolute;
+    right: 2.5%;
+    top: 60%;
+    font-size: 2.2rem;
+    color: v.$white;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.acciones{
+    width: 100%;
+    margin-top:3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1rem;
+        
+    @include m.tablet{
+        flex-direction: row;
+        justify-content: space-around;
+        row-gap: 0;
+        column-gap: 2rem;
+    }
+
+    &--centrar{
+        @extend .acciones;
+        justify-content: center;
+    }
+
+    &__enlace{
+        color: v.$white;
+        font-size: 1.4rem;
+        font-weight: v.$regular;
+        &:hover{
+            color: v.$yellow;
+        }
+    }
+}
+
+.language-tag, .genero-tag, .instrumento-tag, .keyword-tag, .categoria-tag{
+    background-color: v.$yellow;
+    color: v.$gray-dark;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: v.$bold;
+    text-transform: capitalize;
+    &:hover{
+        cursor: pointer;
+        background-color: v.$green;
+    }
+}
+
+.remove-language, .remove-genero, .remove-instrumento, .remove-keyword, .remove-categoria{
+    font-size: 1.4rem;
+    color: v.$gray-dark;
+    background-color: transparent;
+    font-weight: v.$bold;
+    margin-left: 1rem;
+    border: none;
+    &:hover{
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,115 @@
+@use "sass:math";
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.slider{
+     display: flex;
+     height: 55rem;
+     align-items: center;
+     justify-content: center;
+    // margin: 10rem auto;
+    // display: flex;
+    // flex-wrap: row nowrap;
+    // align-items: center;
+    // justify-content: flex-start;
+    // height: 50rem;
+    // position: relative;
+    // overflow-x: hidden;
+
+    img{
+        // animation: prueba 5s linear infinite;
+        height: auto;
+        border-radius: 1rem;
+        border: 2px solid v.$softGray;
+        height: 40rem;
+        width: auto;
+        z-index: 1;
+    }
+
+    .mainImg{
+        height: 50rem;
+        width: auto;
+        z-index: 2;
+    }
+
+    & .leftImg, .rightImg{
+        filter: blur(5px);
+        opacity: 0.8;
+    }
+
+    & .leftImg{
+        left: 0;
+    }
+    & .rightImg{
+        right: 0;
+    }
+}
+
+.next, .prev{
+    position: absolute;
+    z-index: 3;
+    bottom: 0;
+}
+
+.next{
+    right: 0;
+}
+
+.prev{
+    left: 0;
+}
+
+
+// //  @keyframes prueba {
+// //      0%{
+// //          transform: translateX(0);
+// //      }
+
+// //      100%{
+// //          transform: translateX(calc(-25rem * 3));
+// //      }
+// //  }
+
+// .carousel{
+//     padding: 5rem;
+  
+
+//     .slider{
+//         width: calc(100% * 7);
+//         display: flex;
+//         flex-flow: row nowrap;
+//         justify-content: flex-start;
+//         align-items: center;
+//         height: 50rem;
+
+//         .sliderImg{
+//             height: 50rem;
+            
+//         }
+//     }
+
+//     .puntos{
+//         width: 100%;
+//         padding: 1rem;
+//         display: flex;
+//         flex-flow:row nowrap;
+//         justify-content: center;
+//         align-items: center;
+
+//         .punto{
+//             width: 2rem;
+//             height: 2rem;
+//             margin: 1rem 0 0;
+//             list-style: none;
+//             border: 2px solid blue;
+//         }
+//     }
+// }
+
+// .activo{
+//     background-color: red;
+// }
+
+// .prueba{
+//     filter: blur(5px);
+// }

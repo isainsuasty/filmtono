@@ -1,0 +1,38 @@
+{
+    "main-title":{
+      "en": "Music Supplier Contract",
+      "es": "Contrato de proveedor musical"
+    },
+    "inputs":{
+      "en": "You must complete all required fields",
+      "es": "Debes completar todos los campos requeridos"
+    },
+    "select":{
+      "en": "You must select an option",
+      "es": "Debes seleccionar una opción"
+    },
+    "email":{
+      "en": "You must enter a valid email address",
+      "es": "Debes ingresar una dirección de correo válida"
+    },
+    "phone":{
+      "en": "You must enter a valid phone number",
+      "es": "Debes ingresar un número de teléfono válido"
+    },
+    "terms":{
+      "en": "You must accept the terms and conditions",
+      "es": "Debes aceptar los términos y condiciones"
+    },
+    "privacy":{
+      "en": "You must accept the privacy policy",
+      "es": "Debes aceptar la política de privacidad"
+    },
+    "signature":{
+      "en": "Signature",
+      "es": "Firma"
+    },
+    "signatureInfo":{
+      "en": "Please sign below using your mouse or finger:",
+      "es": "Por favor firma debajo usando tu ratón o dedo:"
+    }
+}

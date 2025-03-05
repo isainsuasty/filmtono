@@ -1,0 +1,104 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.video{
+    &__container{
+        background-color: lighten(v.$gray-dark, 5);
+        display: flex;
+        gap: 3.5rem;
+        justify-content: space-between;
+        padding: 2rem;
+        border-radius: v.$border-radius;
+        @include m.tablet{
+            padding: 4rem;
+        }
+        @include m.maxmidscreen{
+            flex-direction: column-reverse;
+        }
+    }
+    &__list{
+        width: 40%;
+        max-height: 35rem;
+        overflow-y: auto;
+        padding-right: 1rem;
+        @include m.maxmidscreen{
+            width: 100%;
+            max-height: 25rem;
+        }
+        &::-webkit-scrollbar {
+            width: 1.5rem;
+            background-color: v.$gray-light;
+        }
+        &::-webkit-scrollbar-thumb {
+            width: 0.5rem;
+            background: v.$gray-dark;
+            box-shadow: inset 2px 2px 2px v.$gray-dark;
+            outline: none;
+            border: 0.2rem solid v.$yellow;
+        }
+        &__btn{
+            @include m.boton(v.$yellow, block);
+            margin: 1rem 0;
+            border-radius: 1rem;
+            color: v.$gray-dark;
+            width: fit-content;
+            @include m.maxtablet{
+                padding: 1rem;
+            }
+            &:hover{
+                cursor: pointer;
+                background-color: v.$green;
+            }
+        }
+    }
+    &__items{
+        margin-top: math.div(5rem, 2);
+        &__item{
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+            background-color: v.$gray-light;
+            line-height: 1.2;
+            border-radius: v.$border-radius;
+            padding: 1rem;
+            color: v.$white;
+            &:hover{
+                background-color: v.$gray-dark;
+                cursor: pointer;
+            }
+            &:hover > button{
+                background-color: v.$blue;
+                color: v.$gray-dark;
+            }
+            & button{
+                background-color: v.$yellow;
+                border: none;
+                color: white;
+                padding: 0.5rem 1rem;
+                border-radius: 0.5rem;
+                pointer-events: none;
+                & i{
+                    font-size: 1.8rem;
+                }
+            }
+        }
+    }
+    &__player{
+        width: 60%;
+        @include m.maxmidscreen{
+            width: 100%;
+        }
+        & iframe{
+            border-radius: 1rem;
+        }
+    }
+    &__current{
+        background-color: v.$gray-dark;
+        & button{
+            background-color: v.$green;
+            color: v.$gray-dark;
+        }
+    }
+}
+

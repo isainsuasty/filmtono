@@ -1,0 +1,71 @@
+@use 'sass:math';
+@use '../base/variables' as v;
+@use '../base/mixins' as m;
+
+.p-cards{
+    width: 85%;
+    margin: calc(v.$separate/2) auto 0 auto;
+    position: relative;
+    @include m.tablet{
+        margin: calc(v.$separate + 2rem) auto 0 auto;
+    }
+    &__subtitle{
+        text-align: left;
+        font-size: clamp(3rem, 2.5vw, 3.8rem);
+        color: v.$green;
+        margin-bottom: 4rem;
+        &::after{
+            content: '';
+            display: block;
+            width: 7rem;
+            height: 0.3rem;
+            background-color: v.$green;
+        }
+    }
+    &__grid{
+        &__item{
+            position: relative;
+            border: v.$border-tabs;
+            border-radius: v.$border-radius;      
+            height: 22rem;
+            background-image: linear-gradient(v.$gray-dark, v.$gray-light);
+            @include m.tablet{
+                height: 32rem;
+            }
+            &:hover .p-cards__grid__text{
+                transform: translateY(-3%);
+            } 
+            &:hover{
+                border: 1px solid v.$blue;
+                background-image: linear-gradient(v.$blue, transparent);
+            }
+        }
+        @include m.grid(1, 2rem);
+        margin-top: 2rem;
+        @include m.tablet{
+            @include m.grid(3, 2rem);
+        }
+        @include m.desktop{
+            @include m.grid(4, 2rem);
+        }
+        &__link{
+            display: block;
+            height: 100%;
+        }
+        &__text{
+            position: absolute;
+            margin: 0;
+            text-align: center;
+            line-height: 1.4;
+            height: 100%;
+            font-size: clamp(1.6rem, 2vw, 2.5rem);
+            width: 100%;
+            text-shadow: 1px 1px 5px v.$black;
+            pointer-events: none;
+            padding: 0.5rem;
+            display: grid;
+            place-items: center;
+            text-transform: capitalize;
+        }
+    }
+}

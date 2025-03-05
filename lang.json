@@ -1,0 +1,3658 @@
+{
+  "home_title":{
+    "es": "Encuentra la canción perfecta para tu proyecto",
+    "en": "Find the perfect song for your project"
+  },
+  "nav_hello":{
+    "es": "¡Hola",
+    "en": "Hello"      
+  },
+  "nav_admin":{
+    "es": "Admin",
+    "en": "Admin"      
+  },
+  "nav_login":{
+    "es": "Iniciar sesión",
+    "en": "Login"
+  },
+  "nav_logout":{
+    "es": "Cerrar sesión",
+    "en": "Logout"
+  },
+  "nav_signup":{
+    "es": "Registrarse",
+    "en": "Sign Up"
+  },
+  "nav_explore_music":{
+    "es": "Explora Música",
+    "en": "Explore Music"      
+  },
+  "nav_search":{
+    "es": "Buscar canciones, artistas, álbumes...",
+    "en": "Search songs, artists, albums..."      
+  },
+  "sidebar_contact":{
+    "es": "Contacto",
+    "en": "Contact"      
+  },
+  "sidebar_help":{
+    "es": "Ayuda",
+    "en": "Help"      
+  },
+  "sidebar_faq":{
+    "es": "FAQ",
+    "en": "FAQ"      
+  },
+  "sidebar_index":{
+    "es": "Inicio",
+    "en": "Home"
+  },
+  "sidebar_profile":{
+    "es": "Perfil",
+    "en": "Profile"
+  },
+  "sidebar_promos":{
+    "es": "Promos",
+    "en": "Promos"
+  },
+  "sidebar_featured":{
+    "es": "Destacados",
+    "en": "Featured"
+  },
+  "sidebar_users":{
+    "es": "Usuarios",
+    "en": "Users"
+  },
+  "sidebar_labels":{
+    "es": "Sellos",
+    "en": "Labels"      
+  },
+  "sidebar_categories":{
+    "es": "Categorías",
+    "en": "Categories"      
+  },
+  "sidebar_music":{
+    "es": "Música",
+    "en": "Music"      
+  },
+  "sidebar_artists":{
+    "es": "Artistas",
+    "en": "Artists"      
+  },
+  "sidebar_languages":{
+    "es": "Idiomas",
+    "en": "Languages"      
+  },
+  "sidebar_contracts":{
+    "es": "Contratos",
+    "en": "Contracts"      
+  },
+  "sidebar_messages":{
+    "es": "Mensajes",
+    "en": "Messages"      
+  },
+  "sidebar_songs":{
+    "es": "Canciones",
+    "en": "Songs"      
+  },
+  "sidebar_playlists":{
+    "es": "Playlists",
+    "en": "Playlists"      
+  },
+  "sidebar_company":{
+    "es": "Empresa",
+    "en": "Company"      
+  },
+  "footer_description":{
+    "es": "Consigue la canción de tu artista favorito y utilízala en tu película, podcast o video. Logramos todos los permisos que necesitas de la forma más rápida, conectando directamente con los propietarios.",
+    "en": "Find the song of your favorite artist and use it in your film, podcast or video. We get all the permissions you need in the fastest way, connecting directly with the owners."
+  },
+  "footer_services":{
+    "es": "Servicios",
+    "en": "Services"      
+  },
+  "footer_services-1":{
+    "es": "Licenciamiento de canciones",
+    "en": "Song licensing"
+  },
+  "footer_services-2":{
+    "es": "Cameo de personalidades",
+    "en": "Cameo of personalities"
+  },
+  "footer_services-3":{
+    "es": "Diseño de música a la medida",
+    "en": "Custom music design"
+  },
+  "footer_services-4":{
+    "es": "precios",
+    "en": "prices"
+  },
+  "footer_music_ind":{
+    "es": "Industria musical",
+    "en": "Music industry"
+  },
+  "footer_music_ind-1":{
+    "es": "Soy Artista",
+    "en": "I'm an Artist"
+  },
+  "footer_music_ind-2":{
+    "es": "Soy Sello Discográfico",
+    "en": "I'm a Record Label"
+  },
+  "footer_music_ind-3":{
+    "es": "Soy Agregador Musical",
+    "en": "I'm a Music Aggregator"
+  },
+  "footer_music_ind-4":{
+    "es": "Soy Productor Musical",
+    "en": "I'm a Music Producer"
+  },
+  "footer_aud_ind":{
+    "es": "Industria Audiovisual",
+    "en": "Audiovisual industry"
+  },
+  "footer_aud_ind-1":{
+    "es": "Director de Cine",
+    "en": "Film director"
+  },
+  "footer_aud_ind-2":{
+    "en": "Music Supervisor",
+    "es": "Supervisor Musical"
+  },
+  "footer_aud_ind-3":{
+    "es": "Productora audiovisual",
+    "en": "Audiovisual producer"
+  },
+  "footer_aud_ind-4":{
+    "es": "Creador de Contenido",
+    "en": "Content Creator"
+  },
+  "footer_resources":{
+    "es": "Recursos",
+    "en": "Resources"      
+  },
+  "footer_resources-1":{
+    "es": "Sobre Filmtono",
+    "en": "About Filmtono"
+  },
+  "footer_resources-2":{
+    "es": "Preguntas frecuentes",
+    "en": "FAQ"
+  },
+  "footer_resources-3":{
+    "es": "Contáctanos",
+    "en": "Contact Us"
+  },
+  "footer_legal":{
+    "es": "Licencias y términos",
+    "en": "Licenses and terms"   
+  },
+  "footer_legal-1":{
+    "es": "Términos y condiciones",
+    "en": "Terms and conditions"
+  },
+  "footer_legal-2":{
+    "es": "Política de privacidad",
+    "en": "Privacy policy"
+  },
+  "footer_rights":{
+    "es": "Todos los derechos reservados",
+    "en": "All rights reserved"      
+  },
+  "footer_register_music":{
+    "es": "Regístrate y sube tu catálogo",
+    "en": "Register and upload your catalogue"      
+  },
+  "complete_register":{
+    "es": "Completar Registro",
+    "en": "Complete Registration"      
+  },
+  "complete_register_mobile":{
+    "es": "Por favor accede desde un ordenador para completar tu registro",
+    "en": "Please access from a computer to complete your registration"
+  },
+  "profile_pending":{
+    "es": "Tu perfil está pendiente de aprobación por parte de Filmtono",
+    "en": "Your profile is pending approval by Filmtono"     
+  },
+  "dashboard_sign_music-p":{
+    "es": "Debes firmar este contrato para poder acceder a todas las funciones de tu dashboard",
+    "en": "You must sign this contract to be able to access all the functions of your dashboard"
+  },
+  "dashboard_sign_artistic-p":{
+    "es": "Este contrato es opcional y lo puedes firmar cuando desees el servicio",
+    "en": "This contract is optional and you can sign it when you want the service"
+  },
+  "dashboard_sign_mobile":{
+    "es": "Por favor accede desde un ordenador para firmar",
+    "en": "Please access from a computer to sign"
+  },
+  "dashboard-title":{
+    "es": "Dashboard",
+    "en": "Dashboard"      
+  },
+  "messages_title":{
+    "es": "Mensajes",
+    "en": "Messages"      
+  },
+  "messages_total":{
+    "es": "Total de mensajes",
+    "en": "Total messages"      
+  },
+  "messages_search-placeholder":{
+    "es": "Buscar mensajes por nombre",
+    "en": "Search messages by name"      
+  },
+  "layout_complete_register_musicians":{
+    "es": "Debes completar el registro para poder cargar tu catálogo musical y acceder a todas las funciones de tu dashboard.",
+    "en": "You must complete the registration to be able to upload your musical catalogue and access all the functions of your dashboard."      
+  },
+  "layout_complete_register_buyers":{
+    "es": "Debes completar el registro para poder acceder a todas las funciones de tu dashboard.",
+    "en": "You must complete the registration to be able to access all the functions of your dashboard."      
+  },
+  "auth_login_title":{
+    "es": "Ingresa a tu cuenta",
+    "en": "Login to your account"
+  },
+  "auth_already_logged":{
+    "es": "Ya inciaste sesión",
+    "en": "You are already logged in"      
+  },
+  "auth_back_admin_btn":{
+    "es": "Volver al Admin",
+    "en": "Back to Admin"      
+  },
+  "auth_login_email_label":{
+    "es": "Email",
+    "en": "Email"
+  },
+  "auth_login_password_label":{
+    "es": "Contraseña",
+    "en": "Password"      
+  },
+  "auth_login_btn":{
+    "es": "Iniciar Sesión",
+    "en": "Login"      
+  },
+  "auth_login_not_account":{
+    "es": "¿No tienes cuenta? Regístrate",
+    "en": "Don't have an account? Sign Up"      
+  },
+  "auth_login_forgot_password":{
+    "es": "¿Olvidaste tu contraseña?",
+    "en": "Forgot your password?"      
+  },
+  "auth_register_title":{
+    "es": "Contacta con nosotros si deseas comprar música para tus proyectos",
+    "en": "Contact us if you want to buy music for your projects"    
+  },
+  "auth_already_registered":{
+    "es": "Ya estás registrado",
+    "en": "You are already registered"      
+  },
+  "auth_register_music_purpose_label":{
+    "es": "¿Para qué quieres usar la música?",
+    "en": "What do you want to use the music for?"      
+  },
+  "auth_register_select_default":{
+    "es": "Selecciona una opción",
+    "en": "Select an option"      
+  },
+  "auth_register_name_label":{
+    "es": "Nombre",
+    "en": "Name"      
+  },
+  "auth_register_lastname_label":{
+    "es": "Apellido",
+    "en": "Last Name"      
+  },
+  "auth_register_email_label":{
+    "es": "Email",
+    "en": "Email"      
+  },
+  "auth_register_password_label":{
+    "es": "Contraseña",
+    "en": "Password"      
+  },
+  "auth_register_password_confirmation_label":{
+    "es": "Confirmar Contraseña",
+    "en": "Confirm Password"      
+  },
+  "auth_register_country_label":{
+    "es": "País",
+    "en": "Country"      
+  },
+  "auth_register_phone_label":{
+    "es": "Teléfono",
+    "en": "Phone"      
+  },
+  "auth_register_budget_label":{
+    "es": "¿Cuál es tu presupuesto? (opcional)",
+    "en": "What is your budget? (optional)"      
+  },
+  "auth_register_budget_placeholder":{
+    "es": "Indica un estimado de tu presupuesto en dólares",
+    "en": "Indicate an estimate of your budget in dollars" 
+  },
+  "auth_register_message_label":{
+    "es": "Mensaje",
+    "en": "Message"      
+  },
+  "auth_register_message_placeholder":{
+    "es": "Escribe aquí tu mensaje y te contactaremos pronto",
+    "en": "Write your message here and we will contact you soon"
+  },
+  "auth_register_message_btn":{
+    "es": "Enviar mensaje",
+    "en": "Send message"      
+  },
+  "auth_register_btn":{
+    "es": "Crear Cuenta",
+    "en": "Create Account"      
+  },
+  "auth_register_already_account":{
+    "es": "¿Ya tienes cuenta? Inicia Sesión",
+    "en": "Already have an account? Login"      
+  },
+  "auth_register_forgot_password":{
+    "es": "¿Olvidaste tu contraseña?",
+    "en": "Forgot your password?"      
+  },
+  "auth_register-music_title":{
+    "es": "Crea tu cuenta y sube tu catálogo músical de fácil licenciamiento",
+    "en": "Create your account and upload your easy licensing musical catalogue"      
+  },
+  "auth_register-music_paragraph":{
+    "es": "Debes tener en cuenta que tu catálogo sea de canciones en las que administres completamente el copyright y publishing para dar respuesta rápida a los compradores",
+    "en": "You must keep in mind that your catalogue is made up of songs in which you completely manage the copyright and publishing to give a quick response to buyers"      
+  },
+  "auth_register-music_user_type_label":{
+    "es": "¿Qué tipo de usuario eres?",
+    "en": "What type of user are you?"      
+  },
+  "auth_register-music_name_label":{
+    "es": "Nombre",
+    "en": "Name"      
+  },
+  "auth_register-music_lastname_label":{
+    "es": "Apellido",
+    "en": "Last Name"      
+  },
+  "auth_register-music_email_label":{
+    "es": "Email",
+    "en": "Email"      
+  },
+  "auth_register-music_password_label":{
+    "es": "Contraseña",
+    "en": "Password"      
+  },
+  "auth_register-music_password_confirmation_label":{
+    "es": "Confirmar Contraseña",
+    "en": "Confirm Password"      
+  },
+  "auth_register-music_btn":{
+    "es": "Crear Cuenta",
+    "en": "Create Account"      
+  },
+  "auth_message_title":{
+    "es": "Has creado tu cuenta en Filmtono",
+    "en": "You have created your account in Filmtono"
+  },
+  "auth_message_paragraph":{
+    "es": "Te hemos enviado un correo ¡Revisa tu bandeja de entrada para confirmar tu cuenta!",
+    "en": "We have sent you an email. Check your inbox to confirm your account!"
+  },
+  "auth_forgot-password_title":{
+    "es": "¿Olvidaste tu contraseña?",
+    "en": "Forgot your password?"
+  },
+  "auth_forgot-password_paragraph":{
+    "es": "No te preocupes, te enviaremos un correo para que puedas recuperarla.",
+    "en": "Don't worry, we'll send you an email so you can recover it."
+  },
+  "auth_forgot-password_email_label":{
+    "es": "Tu Email",
+    "en": "Your Email"
+  },
+  "auth_forgot-password_btn":{
+    "es": "Enviar Instrucciones",
+    "en": "Send Instructions"
+  },
+  "auth_forgot-password_alert-error":{
+    "es": "El email que has escrito no existe o no esta confirmado",
+    "en": "The email you wrote does not exist or is not confirmed"
+  },
+  "auth_forgot-password_alert-success":{
+    "es": "Hemos enviado las instrucciones a tu email",
+    "en": "We have sent the instructions to your email"
+  },
+  "auth_confirm_title":{
+    "es": "Verificación de la cuenta",
+    "en": "Account verification"
+  },
+  "auth_confirm_alert-success":{
+    "es": "Tu cuenta ha sido verificada. Ya puedes iniciar sesión para acceder a tu experiencia musical",
+    "en": "Your account has been verified. You can now log in to access your musical experience"
+  },
+  "auth_confirm_alert-error":{
+    "es": "La cuenta no se verificó.",
+    "en": "The account was not verified."
+  },
+  "auth_confirm_login_btn":{
+    "es": "Iniciar Sesión",
+    "en": "Login"
+  },
+  "auth_confirm_paragraph_error":{
+    "es":"Posiblemente tu cuenta no se verificó. Intenta iniciar sesión. Si no logras ingresar, por favor, contacta con soporte de Filmtono.",
+    "en":"Possibly your account was not verified. Try to log in. If you can't, please contact Filmtono support."
+  },
+  "auth_reset-password_title":{
+    "es": "Cambia tu contraseña",
+    "en": "Change your password"
+  },
+  "auth_reset-password_paragraph":{
+    "es": "Por favor escribe tu nueva contraseña. Debe tener al menos 6 caracteres, una mayúscula y un número",
+    "en": "Please enter your new password. It must be at least 6 characters long, one uppercase and one number"
+  },
+  "auth_reset-password_password_label":{
+    "es": "Nueva Contraseña",
+    "en": "New Password"
+  },
+  "auth_reset-password_password_confirmation_label":{
+    "es": "Confirmar Nueva Contraseña",
+    "en": "Confirm New Password"
+  },
+  "auth_reset-password_btn":{
+    "es": "Cambiar Contraseña",
+    "en": "Change Password"
+  },
+  "auth_reset-password_alert-error":{
+    "es": "Este link ya no es válido. Solicita uno nuevo haciendo click en ¿Olvidaste tu contraseña? en la pantalla de inicio de sesión",
+    "en": "This link is no longer valid. Request a new one by clicking on Forgot your password? on the login screen"
+  },
+  "auth_alert_user-not-exist":{
+    "es": "El usuario no existe o no está confirmado. Por favor, regístrate o confirma tu cuenta",
+    "en": "The user does not exist or is not confirmed. Please register or confirm your account"
+  },
+  "auth_alert_user-already-exist":{
+    "es": "El usuario ya está registrado",
+    "en": "The user is already registered"
+  },
+  "auth_alert_password-wrong":{
+    "es": "La contraseña es incorrecta",
+    "en": "The password is wrong"
+  },
+  "auth_alert_email-required":{
+    "es": "El email es obligatorio",
+    "en": "The email is required"
+  },
+  "auth_alert_email-invalid":{
+    "es": "El email no es válido",
+    "en": "The email is not valid"
+  },
+  "auth_alert_password-required":{
+    "es": "La contraseña es obligatoria",
+    "en": "The password is required"
+  },
+  "auth_alert_password-minlength":{
+    "es": "La contraseña debe tener al menos 6 caracteres",
+    "en": "The password must be at least 6 characters"
+  },
+  "auth_alert_password-different":{
+    "es": "Las contraseñas no coinciden",
+    "en": "Passwords do not match"
+  },
+  "auth_alert_password-weak":{
+    "es": "La contraseña debe tener al menos una mayúscula, una minúscula y un número",
+    "en": "The password must be at least one uppercase, one lowercase, and one number"
+  },
+  "auth_alert_password_old-required":{
+    "es": "La contraseña actual es obligatoria",
+    "en": "The current password is required"
+  },
+  "auth_alert_password_confirmation-required":{
+    "es": "La confirmación de la contraseña es obligatoria",
+    "en": "Password confirmation is required"
+  },
+  "auth_alert_name-required":{
+    "es": "El nombre es obligatorio",
+    "en": "The name is required"
+  },
+  "auth_alert_last_name-required":{
+    "es": "El apellido es obligatorio",
+    "en": "The last name is required"
+  },
+  "auth_alert_must_select_type_client":{
+    "es": "Debes seleccionar un tipo de compra",
+    "en": "You must select a type of purchase"
+  },
+  "auth_alert_must_select_type_musician":{
+    "es": "Debes seleccionar un tipo de usuario",
+    "en": "You must select a type of user"
+  },
+  "auth_alert_company-required":{
+    "es": "La empresa es obligatoria",
+    "en": "The company is required"
+  },
+  "auth_alert_id-fiscal-required":{
+    "es": "El ID fiscal es obligatorio",
+    "en": "The Tax ID is required"
+  },
+  "auth_alert_address-required":{
+    "es": "La dirección es obligatoria",
+    "en": "The address is required"
+  },
+  "auth_alert_country-required":{
+    "es": "El país es obligatorio",
+    "en": "The country is required"
+  },
+  "auth_alert_company-position-required":{
+    "es": "El cargo en la empresa es obligatorio",
+    "en": "The position in the company is required"
+  },
+  "auth_alert_phone-required":{
+    "es": "El teléfono es obligatorio",
+    "en": "The phone is required"
+  },
+  "auth_alert_your-country-required":{
+    "es": "Tu país es obligatorio",
+    "en": "Your country is required"
+  },
+  "auth_alert_message-required":{
+    "es": "El mensaje es obligatorio",
+    "en": "The message is required"
+  },
+  "auth_alert_message-minlength":{
+    "es": "El mensaje debe tener al menos 10 caracteres",
+    "en": "The message must be at least 10 characters"
+  },
+  "auth_alert_message-maxlength":{
+    "es": "El mensaje no puede tener más de 200 caracteres",
+    "en": "The message cannot be more than 200 characters"
+  },
+  "auth_register_message_paragraph":{
+    "es": "El mensaje debe tener máximo 200 caracteres",
+    "en": "The message must be a maximum of 200 characters"
+  },
+  "auth_complete-register_title":{
+    "es": "Completa tu registro",
+    "en": "Complete your registration"
+  },
+  "auth_alert_error":{
+    "es": "Ha ocurrido un error. Por favor, intenta de nuevo",
+    "en": "An error has occurred. Please try again"
+  },
+  "auth_alert_success":{
+    "es": "¡Registro completado con éxito!",
+    "en": "Registration completed successfully!"
+  },
+  "profile_alert-profile-updated":{
+    "es": "Tu perfil ha sido actualizado",
+    "en": "Your profile has been updated"
+  },
+  "profile_form_edit-profile":{
+    "es": "Editar tu perfil",
+    "en": "Edit your profile"
+  },
+  "profile_form_name_label":{
+    "es": "Nombre",
+    "en": "Name"
+  },
+  "profile_form_name_placeholder":{
+    "es": "Escribe tu nombre",
+    "en": "Enter your name"
+  },
+  "profile_form_last_name_label":{
+    "es": "Apellido",
+    "en": "Last Name"
+  },
+  "profile_form_last_name_placeholder":{
+    "es": "Escribe tu apellido",
+    "en": "Enter your last name"
+  },
+  "profile_form_email_label":{
+    "es": "Email",
+    "en": "Email"
+  },
+  "profile_form_email_placeholder":{
+    "es": "Escribe tu email",
+    "en": "Enter your email"
+  },
+  "profile_form_edit-password":{
+    "es": "Cambiar tu contraseña",
+    "en": "Change your password"
+  },
+  "profile_form_new-password_label":{
+    "es": "Nueva contraseña",
+    "en": "New password"
+  },
+  "profile_form_new-password_placeholder":{
+    "es": "Escribe tu nueva contraseña",
+    "en": "Enter your new password"
+  },
+  "profile_form_new-password_confirmation_label":{
+    "es": "Confirmar nueva contraseña",
+    "en": "Confirm new password"
+  },
+  "profile_form_new-password_confirmation_placeholder":{
+    "es": "Escribe tu nueva contraseña",
+    "en": "Enter your new password"
+  },
+  "profile_form_save-btn":{
+    "es": "Actualizar perfil",
+    "en": "Update profile"
+  },
+  "profile_form_delete-btn":{
+    "es": "Eliminar cuenta",
+    "en": "Delete account"
+  },
+  "profile_form_delete-confirm":{
+    "es": "¿Estás seguro que quieres eliminar tu cuenta? Esta acción no se puede deshacer",
+    "en": "Are you sure you want to delete your account? This action cannot be undone"
+  },
+  "profile_form_delete-btn_confirm_yes":{
+    "es": "Sí, eliminar mi cuenta",
+    "en": "Yes, delete my account"
+  },
+  "profile_form_delete-btn_confirm_no":{
+    "es": "No, cancelar",
+    "en": "No, cancel"
+  },
+  "profile_your-data_title":{
+    "es": "Tus datos",
+    "en": "Your data"
+  },
+  "profile_company-data_title":{
+    "es": "Datos de la empresa",
+    "en": "Company data"
+  },
+  "music_dashboard-subtitle":{
+    "es": "Bienvenido a tu panel de control",
+    "en": "Welcome to your control panel"
+  },
+  "music_profile-title":{
+    "es": "Perfil",
+    "en": "Profile"
+  },
+  "music_labels-title":{
+    "es": "Tus Sellos Discográficos",
+    "en": "Your Record Labels"
+  },
+  "music_labels-subtitle":{
+    "es": "Agrega los sellos discográficos con los que trabajas",
+    "en": "Add the record labels you work with"
+  },
+  "music_labels-total":{
+    "es": "Total de Sellos Discográficos",
+    "en": "Total Record Labels"
+  },
+  "music_labels_search-placeholder":{
+    "es": "Buscar sellos discográficos por nombre",
+    "en": "Search record labels by name"
+  },
+  "music_labels_add-btn":{
+    "es": "Añadir Sello Discográfico",
+    "en": "Add Record Label"
+  },
+  "music_labels_mandatory-name":{
+    "es": "El nombre del sello discográfico es obligatorio",
+    "en": "The record label name is required"
+  },
+  "music_labels_card_label-name":{
+    "es": "Sello",
+    "en": "Label"
+  },
+  "music_labels_card_label-date":{
+    "es": "Creado en",
+    "en": "Created at"
+  },
+  "music_labels_new-title":{
+    "es": "Nuevo Sello Discográfico",
+    "en": "New Record Label"
+  },
+  "music_labels_new-submit_btn":{
+    "es": "Crear Sello Discográfico",
+    "en": "Create Record Label"
+  },
+  "music_labels_edit-title":{
+    "es": "Editar Sello Discográfico",
+    "en": "Edit Record Label"
+  },
+  "music_labels_edit-submit_btn":{
+    "es": "Actualizar Sello Discográfico",
+    "en": "Update Record Label"
+  },
+  "music_labels-back_btn":{
+    "es": "Volver a Sellos Discográficos",
+    "en": "Back to Record Labels"
+  },
+  "music_labels_form-name_label":{
+    "es": "Nombre del Sello Discográfico",
+    "en": "Record Label Name"
+  },
+  "music_labels_form-name_placeholder":{
+    "es": "Ejemplo: Sony Music",
+    "en": "Example: Sony Music"
+  },
+  "music_labels_new-legend":{
+    "es": "Aquí puedes crear un nuevo sello discográfico",
+    "en": "Here you can create a new record label"
+  },
+  "music_labels_edit-legend":{
+    "es": "Aquí puedes editar el sello discográfico",
+    "en": "Here you can edit the record label"
+  },
+  "music_main_title":{
+    "es": "Tu música",
+    "en": "Your music"
+  },
+  "music_tab_albums":{
+    "es": "Álbumes",
+    "en": "Albums"
+  },
+  "music_tab_singles":{
+    "es": "Sencillos",
+    "en": "Singles"
+  },
+  "music-title":{
+    "es": "Tu Música",
+    "en": "Your Music"
+  },
+  "music_albums-title":{
+    "es": "Tus álbumes",
+    "en": "Your albums"
+  },
+  "music_album_title":{
+    "es": " Tú álbum",
+    "en": "Your album"
+  },
+  "music_albums-languages":{
+    "es": "Idiomas",
+    "en": "Languages"
+  },
+  "music_albums-subtitle":{
+    "es": "Agrega los álbumes que has lanzado",
+    "en": "Add the albums you have released"
+  },
+  "music_albums-total":{
+    "es": "Total de Álbumes",
+    "en": "Total Albums"
+  },
+  "music_albums_search-placeholder":{
+    "es": "Buscar álbumes por nombre, artista...",
+    "en": "Search albums by name, artist..."
+  },
+  "music_albums_add-title":{
+    "es": "Añadir nuevo álbum",
+    "en": "Add new album"
+  },
+  "music_albums_new":{
+    "es": "Nuevo Álbum",
+    "en": "New Album"
+  },
+  "music_albums_add-btn":{
+    "es": "Añadir álbum",
+    "en": "Add album"
+  },
+  "music_albums-back_btn":{
+    "es": "Volver a los álbumes",
+    "en": "Back to albums"
+  },
+  "music_album-back_btn":{
+    "es": "Volver al álbum",
+    "en": "Back to album"
+  },
+  "music_albums_edit-title":{
+    "es": "Editar álbum",
+    "en": "Edit album"
+  },
+  "music_albums_edit-btn":{
+    "es": "Actualizar álbum",
+    "en": "Update album"
+  },
+  "music_albums_artist_required":{
+    "es": "Para crear, debes haber creado primero el artista",
+    "en": "To create, you must have created the artist first"
+  },
+  "music_albums_artist_label_required":{
+    "es": "Para crear, debes haber creado primero el artista y el sello discográfico",
+    "en": "To create, you must have created the artist and the record label first"
+  },
+  "music_albums_goto-artist-btn":{
+    "es": "Ir a crear el artista",
+    "en": "Go to create the artist"
+  },
+  "music_albums_goto-label-btn":{
+    "es": "Ir a crear el sello discográfico",
+    "en": "Go to create the record label"
+  },
+  "music_albums_legend":{
+    "es": "Los campos marcados con * son obligatorios",
+    "en": "Fields marked with * are required"
+  },
+  "music_albums_cover_label":{
+    "es": "Portada del álbum",
+    "en": "Album cover"
+  },
+  "music_albums_cover_placeholder":{
+    "es": "Selecciona una imagen",
+    "en": "Select an image"
+  },
+  "music_albums_cover_help":{
+    "es": "La imagen debe ser cuadrada y tener un tamaño de 400x400px",
+    "en": "The image must be square and have a size of 400x400px"
+  },
+  "music_albums_title_label":{
+    "es": "Título del álbum",
+    "en": "Album title"
+  },
+  "music_albums_title_placeholder":{
+    "es": "Ejemplo: El álbum de mi vida",
+    "en": "Example: The album of my life"
+  },
+  "music_albums_artist_label":{
+    "es": "Artista Principal",
+    "en": "Main Artist"
+  },
+  "music_albums_artist_placeholder":{
+    "es": "Selecciona el artista",
+    "en": "Select the artist"
+  },
+  "music_albums_artist_alert-required":{
+    "es": "El artista es obligatorio",
+    "en": "The artist is required"
+  },
+  "music_albums_artist-secondary_label":{
+    "es": "Artistas Secundarios",
+    "en": "Secondary Artists"
+  },
+  "music_albums_artist-secondary_placeholder":{
+    "es": "Ejemplo: John Doe, Jane Doe",
+    "en": "Example: John Doe, Jane Doe"
+  },
+  "music_albums_upc_label":{
+    "es": "UPC",
+    "en": "UPC"
+  },
+  "music_albums_upc_placeholder":{
+    "es": "Ejemplo: 123456789012",
+    "en": "Example: 123456789012"
+  },
+  "music_albums_upc_help":{
+    "es": "El UPC sólo puede contener letras y números, no símbolos",
+    "en": "The UPC can only contain letters and numbers, no symbols"
+  },
+  "music_albums_languages_alert-required":{
+    "es": "El idioma principal es obligatorio",
+    "en": "The main language is required"
+  },
+  "music_albums_languages_label":{
+    "es": "Idiomas. Puedes seleccionar varios",
+    "en": "Languages. You can select more than one"
+  },
+  "music_albums_languages_placeholder":{
+    "es": "Selecciona los idiomas",
+    "en": "Select the languages"
+  },
+  "music_albums_no_label":{
+    "es": "Si el álbum no tiene un sello discográfico, marca esta casilla",
+    "en": "If the album does not have a record label, check this box"
+  },
+  "music_albums_label_label":{
+    "es": "Sello Discográfico",
+    "en": "Record Label"
+  },
+  "music_albums_label_placeholder":{
+    "es": "Selecciona el sello discográfico",
+    "en": "Select the record label"
+  },
+  "music_albums_record_date_label":{
+    "es": "Fecha de grabación",
+    "en": "Recording date"
+  },
+  "music_albums_publisher_label":{
+    "es": "Editora",
+    "en": "Publisher"
+  },
+  "music_albums_publisher_placeholder":{
+    "es": "Escribe la editora",
+    "en": "Enter the publisher"
+  },
+  "music_albums_upc_exists":{
+    "es": "El UPC ya existe",
+    "en": "The UPC already exists"
+  },
+  "music_albums_mandatory-title":{
+    "es": "El título del álbum es obligatorio",
+    "en": "The album title is required"
+  },
+  "music_albums_mandatory-upc":{
+    "es": "El UPC es obligatorio",
+    "en": "The UPC is required"
+  },
+  "music_albums_characters-upc":{
+    "es": "El UPC debe tener 12 o 13 caracteres",
+    "en": "The UPC must have 12 or 13 characters"
+  },
+  "music_albums_symbols-upc":{
+    "es": "El UPC sólo puede contener letras y números, no símbolos",
+    "en": "The UPC can only contain letters and numbers, no symbols"
+  },
+  "music_albums_mandatory_publisher":{
+    "es": "La editora es obligatoria",
+    "en": "The publisher is required"
+  },
+  "music_albums_mandatory_record_date":{
+    "es": "La fecha de grabación es obligatoria",
+    "en": "The recording date is required"
+  },
+  "music_singles_title":{
+    "es": "Tus sencillos",
+    "en": "Your singles"
+  },
+  "music_single_title":{
+    "es": "Tu sencillo",
+    "en": "Your single"
+  },
+  "music_singles-subtitle":{
+    "es": "Agrega los sencillos que has lanzado",
+    "en": "Add the singles you have released"
+  },
+  "music_singles_total":{
+    "es": "Total de sencillos",
+    "en": "Total Singles"
+  },
+  "music_singles_search-placeholder":{
+    "es": "Buscar sencillos por nombre, género, artista, etc.",
+    "en": "Search singles by name, genre, artist, etc."
+  },
+  "music_single_-title":{
+    "es": "Sencillo",
+    "en": "Single"
+  },
+  "music_singles_add-btn":{
+    "es": "Añadir sencillo",
+    "en": "Add single"
+  },
+  "music_singles-back_btn":{
+    "es": "Volver a los sencillos",
+    "en": "Back to singles"
+  },
+  "music_singles-empty":{
+    "es": "No hay sencillos en tu catálogo",
+    "en": "There are no singles in your catalogue"
+  },
+  "music_singles_new-title":{
+    "es": "Nuevo Sencillo",
+    "en": "New Single"
+  },
+  "music_singles_edit-title":{
+    "es": "Editar sencillo",
+    "en": "Edit single"
+  },
+  "music_songs_current_title":{
+    "es": "Canción del álbum",
+    "en": "Album song"
+  },
+  "music_songs_add-title":{
+    "es": "Añadir nueva canción",
+    "en": "Add new song"
+  },
+  "music_songs_add-btn":{
+    "es": "Añadir canción",
+    "en": "Add song"
+  },
+  "music_songs_new-btn":{
+    "es": "Agregar canción",
+    "en": "Add song"
+  },
+  "music_songs-back_btn":{
+    "es": "Volver a las canciones",
+    "en": "Back to songs"
+  },
+  "music_songs_empty":{
+    "es": "No hay canciones en tu catálogo",
+    "en": "There are no songs in your catalogue"
+  },
+  "music_songs_total":{
+    "es": "Total de canciones",
+    "en": "Total songs"
+  },
+  "music_songs_edit-title":{
+    "es": "Editar canción",
+    "en": "Edit song"
+  },
+  "music_songs_search-placeholder":{
+    "es": "Buscar canciones por nombre",
+    "en": "Search songs by name"
+  },
+  "music_songs_edit-btn":{
+    "es": "Actualizar canción",
+    "en": "Update song"
+  },
+  "music_songs_form-title_label":{
+    "es": "Título de la canción",
+    "en": "Song title"
+  },
+  "music_songs_form-album_label":{
+    "es": "Álbum",
+    "en": "Album"
+  },
+  "music_songs_form-title_placeholder":{
+    "es": "Ejemplo: La canción de mi vida",
+    "en": "Example: The song of my life"
+  },
+  "music_songs_form-title_alert-required":{
+    "es": "El título de la canción es obligatorio",
+    "en": "The song title is required"
+  },
+  "music_songs_form-version_label":{
+    "es": "Versión",
+    "en": "Version"
+  },
+  "music_songs_form-version_placeholder":{
+    "es": "Ejemplo: Versión Acústica",
+    "en": "Example: Acoustic Version"
+  },
+  "music_songs_form-version_alert-required":{
+    "es": "La versión de la canción es obligatoria",
+    "en": "The song version is required"
+  },
+  "music_songs_form-version_alert-maxlength":{
+    "es": "La versión de la canción no puede tener más de 50 caracteres",
+    "en": "The song version cannot be more than 50 characters"
+  },
+  "music_songs_form-artist_label":{
+    "es": "Artista",
+    "en": "Artist"
+  },
+  "music_songs_form-artist_placeholder":{
+    "es": "Selecciona el artista",
+    "en": "Select the artist"
+  },
+  "music_songs_form-artist_alert-required":{
+    "es": "El artista es obligatorio",
+    "en": "The artist is required"
+  },
+  "music_songs_form-genre_label":{
+    "es": "Género principal",
+    "en": "Main genre"
+  },
+  "music_songs_form-genre_placeholder":{
+    "es": "Selecciona el género principal",
+    "en": "Select the main genre"
+  },
+  "music_songs_form-genre_alert-required":{
+    "es": "El género principal es obligatorio",
+    "en": "The main genre is required"
+  },
+  "music_songs_form-subgenre_label":{
+    "es": "Subgéneros (máximo 5)",
+    "en": "Subgenres (maximum 5)"
+  },
+  "music_songs_form-subgenre_placeholder":{
+    "es": "Selecciona los subgéneros",
+    "en": "Select the subgenres"
+  },
+  "music_songs_form-categories_label":{
+    "es": "Categorías",
+    "en": "Categories"
+  },
+  "music_songs_form-categories_placeholder":{
+    "es": "Selecciona las categorías",
+    "en": "Select the categories"
+  },
+  "music_songs-form-categories_help":{
+    "es": "Selecciona varias de las categorías y subcategorías que mejor describan tu canción. Elige al menos una",
+    "en": "Select several of the categories and subcategories that best describe your song. Choose at least one"
+  },
+  "music_songs_form-instruments_label":{
+    "es": "Instrumentos (máximo 5)",
+    "en": "Instruments (maximum 5)"
+  },
+  "music_songs_form-instruments_placeholder":{
+    "es": "Selecciona los instrumentos",
+    "en": "Select the instruments"
+  },
+  "music_song_form-colaborators_label":{
+    "es": "Colaboradores",
+    "en": "Collaborators"
+  },
+  "music_song_form-colaborators_placeholder":{
+    "es": "Ejemplo: John Doe, Jane Doe",
+    "en": "Example: John Doe, Jane Doe"
+  },
+  "music_songs_form-writers_label":{
+    "es": "Compositores",
+    "en": "Writers"
+  },
+  "music_songs_form-writers_placeholder":{
+    "es": "Ejemplo: John Doe, Jane Doe",
+    "en": "Example: John Doe, Jane Doe"
+  },
+  "music_songs_form-writers_alert-required":{
+    "es": "Los escritores son obligatorios",
+    "en": "The writers are required"
+  },
+  "music_songs_form-writers-percent_legend":{
+    "es": "Propiedad de letra y composición",
+    "en": "Lyrics and composition ownership"
+  },
+  "music_songs_form-writers-percent_help":{
+    "es": "Porcentaje de propiedad del compositor y la editorial. Sólo números, sin signos. El porcentaje total para escritor y editorial no puede superar el 100",
+    "en": "Percentage of ownership of the composer and the publisher, only numbers, without signs. The total percentage for writer and publisher cannot exceed 100"
+  },
+  "music_songs_form-writers-percent_alert-total":{
+    "es": "El porcentaje total para escritor y editorial no puede superar o ser menor que 100",
+    "en": "The total percentage for writer and publisher cannot exceed or be less than 100"
+  },
+  "music_songs_form-writers-percent_label":{
+    "es": "Porcentaje de propiedad del compositor. Sólo números, sin signos",
+    "en": "Composer ownership percentage. Only numbers, no signs"
+  },
+  "music_songs_form-writers-percent_placeholder":{
+    "es": "Ejemplo: 50",
+    "en": "Example: 50"
+  },
+  "music_songs_form-writers-percent_alert-required":{
+    "es": "El porcentaje de propiedad del compositor es obligatorio",
+    "en": "The composer ownership percentage is required"
+  },
+  "music_songs_form-publisher-percent_label":{
+    "es": "Porcentaje de propiedad de la editorial",
+    "en": "Publisher ownership percentage"
+  },
+  "music_songs_form-publisher-percent_placeholder":{
+    "es": "Ejemplo: 50",
+    "en": "Example: 50"
+  },
+  "music_songs_form-publisher-percent_alert-required":{
+    "es": "El porcentaje de propiedad de la editorial es obligatorio",
+    "en": "The publisher ownership percentage is required"
+  },
+  "music_songs-form-phonogram-percent_legend":{
+    "es": "Propiedad del máster de audio",
+    "en": "Audio master ownership"
+  },
+  "music_songs-form-phonogram-percent_help":{
+    "es": "Porcentaje de propiedad del sello entre 0 y 100",
+    "en": "Percentage of ownership of the label between 0 and 100"
+  },
+  "music_songs-form-phonogram-percent_label":{
+    "es": "Porcentaje de propiedad del intérprete",
+    "en": "Performer ownership percentage"
+  },
+  "music_songs-form-phonogram_placeholder":{
+    "es": "Ejemplo: 70%",
+    "en": "Ejemplo: 70%"
+  },
+  "music_songs-form-phonogram_alert-required":{
+    "es": "El porcentaje del fonograma es obligatorio",
+    "en": "The phonogram percentage is required"
+  },
+  "music_songs-form-phonogram_alert-total":{
+    "es": "El porcentaje total del fonograma no puede superar 100",
+    "en": "The total phonogram percentage cannot exceed 100"
+  },
+  "music_songs-form-language_label":{
+    "es": "Idioma",
+    "en": "Language"
+  },
+  "music_songs-form-language_placeholder":{
+    "es": "Selecciona un idioma",
+    "en": "Select a language"
+  },
+  "music_songs-form-language_alert-required":{
+    "es": "El idioma es obligatorio",
+    "en": "The language is required"
+  },
+  "music_songs-form-lyrics_label":{
+    "es": "Letra",
+    "en": "Lyrics"
+  },
+  "music_songs-form-lyrics_placeholder":{
+    "es": "Letra de la canción",
+    "en": "Song lyrics"
+  },
+  "music_songs_form-isrc_label":{
+    "es": "ISRC",
+    "en": "ISRC"
+  },
+  "music_songs_form-isrc_placeholder":{
+    "es": "Ejemplo: USAT29900001",
+    "en": "Example: USAT29900001"
+  },
+  "music_songs_form-isrc_help":{
+    "es": "El ISRC sólo puede contener letras y números, no símbolos",
+    "en": "The ISRC can only contain letters and numbers, no symbols"
+  },
+  "music_songs_form-isrc_alert-symbols":{
+    "es": "El ISRC sólo puede contener letras y números, no símbolos",
+    "en": "The ISRC can only contain letters and numbers, no symbols"
+  },
+  "music_songs_form-isrc_alert-required":{
+    "es": "El ISRC es obligatorio",
+    "en": "The ISRC is required"
+  },
+  "music_songs_form-isrc_alert-max":{
+    "es": "El ISRC debe tener entre 12 y 13 caracteres",
+    "en": "The ISRC must have between 12 and 13 characters"
+  },
+  "music_songs_form-youtube_label":{
+    "es": "Link de YouTube",
+    "en": "YouTube link"
+  },
+  "music_songs_form-youtube_placeholder":{
+    "es": "Ejemplo: https://www.youtube.com/watch?v=6JCLY0Rlx6Q",
+    "en": "Example: https://www.youtube.com/watch?v=6JCLY0Rlx6Q"
+  },
+  "music_songs_form-youtube_alert-required":{
+    "es": "El link de YouTube es obligatorio",
+    "en": "The YouTube link is required"
+  },
+  "music_songs_form-keywords_label":{
+    "es": "Palabras clave (máximo 15)",
+    "en": "Keywords (maximum 15)"
+  },
+  "music_songs_form-keywords_placeholder":{
+    "es": "Selecciona las palabras clave que describan tu canción",
+    "en": "Select the keywords that describe your song"
+  },
+  "music_songs_form-song-level_label":{
+    "es": "Nivel de la canción",
+    "en": "Song level"
+  },
+  "music_songs_form-song-level_placeholder":{
+    "es": "Selecciona un nivel",
+    "en": "Select a level"
+  },
+  "music_songs_form-song-level_alert-required":{
+    "es": "El nivel de la canción es obligatorio",
+    "en": "The song level is required"
+  },
+  "music_genres-title":{
+    "es": "Géneros",
+    "en": "Genres"
+  },
+  "music_genres_form-new_label-english":{
+    "es": "Nuevo Género en inglés",
+    "en": "New Genre in english"
+  },
+  "music_genres_form-new_placeholder-english":{
+    "es": "Escribe un nuevo género en inglés",
+    "en": "Enter a new genre in English"
+  },
+  "music_genres_form-new_label-spanish":{
+    "es": "Nuevo Género en español",
+    "en": "New Genre in spanish"
+  },
+  "music_genres_form-new_placeholder-spanish":{
+    "es": "Escribe un nuevo género en español",
+    "en": "Enter a new genre in Spanish"
+  },
+  "register-labels_total":{
+    "es": "Total de Sellos registrados",
+    "en": "Total Labels registered"
+  },
+  "labels-users_total":{
+    "es": "Total de Sellos como usuario",
+    "en": "Total Labels as user"
+  },
+  "publishers_total":{
+    "es": "Total de Editoriales",
+    "en": "Total Publishers"
+  },
+  "aggregators_total":{
+    "es": "Total de Agregadores",
+    "en": "Total Aggregators"
+  },
+  "labels_placeholder":{
+    "es": "Buscar sellos, editoriales o agregadores por nombre",
+    "en": "Search labels, publishers or aggregators by name"
+  },
+  "categories_main-title":{
+    "es": "Categorías",
+    "en": "Categories"
+  },
+  "categories_total":{
+    "es": "Total de Categorías",
+    "en": "Total Categories"
+  },
+  "categories_search-placeholder":{
+    "es": "Buscar categorías por nombre",
+    "en": "Search categories by name"
+  },
+  "categories_new-btn":{
+    "es": "Nueva Categoría",
+    "en": "New Category"
+  },
+  "categories_new-title":{
+    "es": "Nueva Categoría",
+    "en": "New Category"
+  },
+  "categories_new-submit-btn":{
+    "es": "Crear Categoría",
+    "en": "Create Category"
+  },
+  "categories_edit-title":{
+    "es": "Editar Categoría",
+    "en": "Edit Category"
+  },
+  "categories_edit-submit-btn":{
+    "es": "Actualizar Categoría",
+    "en": "Update Category"
+  },
+  "categories_back-btn":{
+    "es": "Volver a Categorías",
+    "en": "Back to Categories"
+  },
+  "categories_form-name-label-en":{
+    "es": "Nombre de la categoría en inglés",
+    "en": "Category name in English"
+  },
+  "categories_form-name-placeholder-en":{
+    "es": "Ejemplo: Children's music",
+    "en": "Example: Children's music"
+  },
+  "categories_form-name-label-es":{
+    "es": "Nombre de la categoría en español",
+    "en": "Category name in Spanish"
+  },
+  "categories_form-name-placeholder-es":{
+    "es": "Ejemplo: Música infantil",
+    "en": "Example: Música infantil"
+  },
+  "categories_mandatory-category-name-en":{
+    "es": "Debes escribir el nombre de la categoría en inglés",
+    "en": "You must write the category name in English"
+  },
+  "categories_mandatory-category-name-es":{
+    "es": "Debes escribir el nombre de la categoría en español",
+    "en": "You must write the category name in Spanish"
+  },
+  "keywords_main-title":{
+    "es": "Palabras Clave",
+    "en": "Keywords"
+  },
+  "keywords_total":{
+    "es": "Total de Palabras Clave",
+    "en": "Total Keywords"
+  },
+  "keywords_search-placeholder":{
+    "es": "Buscar palabras clave por nombre",
+    "en": "Search keywords by name"
+  },
+  "keywords_new-btn":{
+    "es": "Nueva Palabra Clave",
+    "en": "New Keyword"
+  },
+  "keywords_new-title":{
+    "es": "Nueva Palabra Clave",
+    "en": "New Keyword"
+  },
+  "keywords_new-submit-btn":{
+    "es": "Crear Palabra Clave",
+    "en": "Create Keyword"
+  },
+  "keywords_edit-title":{
+    "es": "Editar Palabra Clave",
+    "en": "Edit Keyword"
+  },
+  "keywords_edit-submit-btn":{
+    "es": "Actualizar Palabra Clave",
+    "en": "Update Keyword"
+  },
+  "keywords_back-btn":{
+    "es": "Volver a Palabras Clave",
+    "en": "Back to Keywords"
+  },
+  "keywords_form-name-label-en":{
+    "es": "Nombre de la palabra clave en inglés",
+    "en": "Keyword name in English"
+  },
+  "keywords_form-name-placeholder-en":{
+    "es": "Ejemplo: Happy",
+    "en": "Example: Happy"
+  },
+  "keywords_form-name-label-es":{
+    "es": "Nombre de la palabra clave en español",
+    "en": "Keyword name in Spanish"
+  },
+  "keywords_form-name-placeholder-es":{
+    "es": "Ejemplo: Feliz",
+    "en": "Example: Feliz"
+  },
+  "keywords_mandatory-keyword-name-en":{
+    "es": "Debes escribir el nombre de la palabra clave en inglés",
+    "en": "You must write the keyword name in English"
+  },
+  "keywords_mandatory-keyword-name-es":{
+    "es": "Debes escribir el nombre de la palabra clave en español",
+    "en": "You must write the keyword name in Spanish"
+  },
+  "artists_title":{
+    "es": "Artistas",
+    "en": "Artists"
+  },
+  "artist_title":{
+    "es": "Artista",
+    "en": "Artist"
+  },
+  "artists_main-title":{
+    "es": "Tus Artistas",
+    "en": "Your Artists"
+  },
+  "artists_total":{
+    "es": "Total de Artistas",
+    "en": "Total Artists"
+  },
+  "artists_search-placeholder":{
+    "es": "Buscar artistas por nombre",
+    "en": "Search artists by name"
+  },
+  "artists_new-btn":{
+    "es": "Nuevo Artista",
+    "en": "New Artist"
+  },
+  "artists_new-title":{
+    "es": "Nuevo Artista",
+    "en": "New Artist"
+  },
+  "artists_new-submit-btn":{
+    "es": "Crear Artista",
+    "en": "Create Artist"
+  },
+  "artists_edit-title":{
+    "es": "Editar Artista",
+    "en": "Edit Artist"
+  },
+  "artists_edit-submit-btn":{
+    "es": "Actualizar Artista",
+    "en": "Update Artist"
+  },
+  "artists_back-btn":{
+    "es": "Volver a Artistas",
+    "en": "Back to Artists"
+  },
+  "artists_new-legend":{
+    "es": "Aquí puedes crear un nuevo artista",
+    "en": "Here you can create a new artist"
+  },
+  "artists_edit-legend":{
+    "es": "Aquí puedes editar el artista",
+    "en": "Here you can edit the artist"
+  },
+  "artists_form_name_label":{
+    "es": "Nombre del Artista",
+    "en": "Artist Name"
+  },
+  "artists_form_name_placeholder":{
+    "es": "Ejemplo: John Doe",
+    "en": "Example: John Doe"
+  },
+  "artists_mandatory_artist-name":{
+    "es": "Debes escribir el nombre del artista",
+    "en": "You must write the artist name"
+  },
+  "artists_form_show-price_label":{
+    "es": "Precio del show en dólares",
+    "en": "Show price in dollars"
+  },
+  "artists_form_show-price_placeholder":{
+    "es": "Ejemplo: 1000",
+    "en": "Example: 1000"
+  },
+  "artists_mandatory_show-price":{
+    "es": "Debes escribir el precio del show",
+    "en": "You must write the show price"
+  },
+  "artists_alert_already-exist":{
+    "es": "El artista ya está registrado",
+    "en": "The artist is already registered"
+  },
+  "artists_mandatory_artist-level":{
+    "es": "Debes seleccionar un nivel de artista",
+    "en": "You must select an artist level"
+  },
+  "artists_form-level_label":{
+    "es": "Nivel del Artista",
+    "en": "Artist Level"
+  },
+  "artists_form-level_placeholder":{
+    "es": "Selecciona un nivel",
+    "en": "Select a level"
+  },
+  "artists_form_instagram_label":{
+    "es": "Instagram",
+    "en": "Instagram"
+  },
+  "artists_form_instagram_placeholder":{
+    "es": "Ejemplo: https://www.instagram.com/johndoe",
+    "en": "Example: https://www.instagram.com/johndoe"
+  },
+  "artists_form_facebook_label":{
+    "es": "Facebook",
+    "en": "Facebook"
+  },
+  "artists_form_facebook_placeholder":{
+    "es": "Ejemplo: https://www.facebook.com/johndoe",
+    "en": "Example: https://www.facebook.com/johndoe"
+  },
+  "artists_form_twitter_label":{
+    "es": "Twitter",
+    "en": "Twitter"
+  },
+  "artists_form_twitter_placeholder":{
+    "es": "Ejemplo: https://www.twitter.com/johndoe",
+    "en": "Example: https://www.twitter.com/johndoe"
+  },
+  "artists_form_youtube_label":{
+    "es": "YouTube",
+    "en": "YouTube"
+  },
+  "artists_form_youtube_placeholder":{
+    "es": "Ejemplo: https://www.youtube.com/johndoe",
+    "en": "Example: https://www.youtube.com/johndoe"
+  },
+  "artists_form_spotify_label":{
+    "es": "Spotify",
+    "en": "Spotify"
+  },
+  "artists_form_spotify_placeholder":{
+    "es": "Ejemplo: https://open.spotify.com/artist/1",
+    "en": "Example: https://open.spotify.com/artist/1"
+  },
+  "artists_form_tiktok_label":{
+    "es": "TikTok",
+    "en": "TikTok"
+  },
+  "artists_form_tiktok_placeholder":{
+    "es": "Ejemplo: https://www.tiktok.com/@johndoe",
+    "en": "Example: https://www.tiktok.com/@johndoe"
+  },
+  "artists_form_website_label":{
+    "es": "Sitio Web",
+    "en": "Website"
+  },
+  "artists_form_website_placeholder":{
+    "es": "Ejemplo: https://www.johndoe.com",
+    "en": "Example: https://www.johndoe.com"
+  },
+  "artists_form_banner_label":{
+    "es": "Video Banner para el perfil del artista",
+    "en": "Video Banner for the artist's profile"
+  },
+  "artists_form_banner_placeholder":{
+    "es": "Ejemplo: https://youtube.com/[videocode]",
+    "en": "Example: https://youtube.com/[videocode]"
+  },
+  "artists_form_banner_text":{
+    "es": "Pega aquí el enlace de youtube del video que quieres usar como banner para el perfil del artista. Si no pegas nada, se usará el banner existente o una imagen por defecto",
+    "en": "Paste here the youtube link of the video you want to use as a banner for the artist's profile. If you don't paste anything, the existing one or default banner image will be used"
+  },
+  "admin_alert_mandatory-file":{
+    "es": "Debes seleccionar un archivo",
+    "en": "You must select a file"
+  },
+  "admin_promos_title":{
+    "es": "Promos",
+    "en": "Promos"
+  },
+  "admin_promos_new-title":{
+    "es": "Nueva Promo",
+    "en": "New Promo"
+  },
+  "admin_promos_new-btn":{
+    "es": "Crear Promo",
+    "en": "Create Promo"
+  },
+  "admin_promos_edit-title":{
+    "es": "Editar Promo",
+    "en": "Edit Promo"
+  },
+  "admin_promos_edit-btn":{
+    "es": "Actualizar Promo",
+    "en": "Update Promo"
+  },
+  "admin_promos_btn-back":{
+    "es": "Volver a Promos",
+    "en": "Back to Promos"
+  },
+  "admin_featured_title":{
+    "es": "Destacados",
+    "en": "Featured"
+  },
+  "admin_featured_total":{
+    "es": "Total de Destacados",
+    "en": "Total Featured"
+  },
+  "admin_featured_new-title":{
+    "es": "Nuevo Destacado",
+    "en": "New Featured"
+  },
+  "admin_featured_new-btn":{
+    "es": "Crear Destacado",
+    "en": "Create Featured"
+  },
+  "admin_featured_edit-title":{
+    "es": "Editar Destacado",
+    "en": "Edit Featured"
+  },
+  "admin_featured_edit-btn":{
+    "es": "Actualizar Destacado",
+    "en": "Update Featured"
+  },
+  "admin_featured_btn-back":{
+    "es": "Volver a Destacados",
+    "en": "Back to Featured"
+  },
+  "admin_featured_form-title_label":{
+    "es": "Título del Destacado",
+    "en": "Featured Title"
+  },
+  "admin_featured_form-title_placeholder":{
+    "es": "Ejemplo: Nuevo sencillo de John Doe",
+    "en": "Example: New single by John Doe"
+  },
+  "admin_featured_form-title_alert-required":{
+    "es": "El título del Destacado es obligatorio",
+    "en": "The Featured Title is required"
+  },
+  "admin_featured_form-url_label":{
+    "es": "URL del Destacado",
+    "en": "Featured Link"
+  },
+  "admin_featured_form-url_placeholder":{
+    "es": "Ejemplo: https://www.youtube.com/watch?v=6JCLY0Rlx6Q",
+    "en": "Example: https://www.youtube.com/watch?v=6JCLY0Rlx6Q"
+  },
+  "admin_featured_form-url_alert-required":{
+    "es": "La URL del Destacado es obligatoria",
+    "en": "The Featured URL is required"
+  },
+  "admin_genres_title":{
+    "es": "Géneros",
+    "en": "Genres"
+  },
+  "admin_genres_total":{
+    "es": "Total de Géneros",
+    "en": "Total Genres"
+  },
+  "admin_genres_search-placeholder":{
+    "es": "Buscar géneros por nombre",
+    "en": "Search genres by name"
+  },
+  "admin_genres_new-title":{
+    "es": "Nuevo Género",
+    "en": "New Genre"
+  },
+  "admin_genres_new-btn":{
+    "es": "Crear Género",
+    "en": "Create Genre"
+  },
+  "admin_genres_edit-title":{
+    "es": "Editar Género",
+    "en": "Edit Genre"
+  },
+  "admin_genres_edit-btn":{
+    "es": "Actualizar Género",
+    "en": "Update Genre"
+  },
+  "admin_genres_form-name_spanish_label":{
+    "es": "Nombre del Género en español",
+    "en": "Genre Name in spanish"
+  },
+  "admin_genres_form-name_spanish_placeholder":{
+    "es": "Ejemplo: Rock",
+    "en": "Example: Rock"
+  },
+  "admin_genres_form-name_english_label":{
+    "es": "Nombre del Género en inglés",
+    "en": "Genre Name in english"
+  },
+  "admin_genres_form-name_english_placeholder":{
+    "es": "Ejemplo: Rock",
+    "en": "Example: Rock"
+  },
+  "admin_genres_form-name_spanish_mandatory":{
+    "es": "Debes escribir el nombre del género en español",
+    "en": "You must write the genre name in spanish"
+  },
+  "admin_genres_form-name_english_mandatory":{
+    "es": "Debes escribir el nombre del género en inglés",
+    "en": "You must write the genre name in english"
+  },
+  "admin_genres_back-btn":{
+    "es": "Volver a Géneros",
+    "en": "Back to Genres"
+  },
+  "admin_label_title":{
+    "es": "Sello Discográfico",
+    "en": "Record Labels"
+  },
+  "admin_labels_back-btn":{
+    "es": "Volver a Sellos Discográficos",
+    "en": "Back to Record Labels"
+  },
+  "admin_labels_aggregator":{
+    "es": "Agregador",
+    "en": "Aggregator"
+  },
+  "admin_labels_publisher":{
+    "es": "Editorial",
+    "en": "Publisher"
+  },
+  "admin_labels_created":{
+    "es": "Creado en",
+    "en": "Created at"
+  },
+  "admin_labels_user":{
+    "es": "Creado por el usuario",
+    "en": "Created by user"
+  },
+  "admin_labels_company":{
+    "es": "Empresa",
+    "en": "Company"
+  },
+  "admin_labels_user-data_title":{
+    "es": "Datos del usuario",
+    "en": "User data"
+  },
+  "admin_labels_link-user":{
+    "es": "Ver usuario",
+    "en": "See user"
+  },
+  "languages_main-title":{
+    "es": "Idiomas",
+    "en": "Languages"
+  },
+  "languages_total":{
+    "es": "Total de Idiomas",
+    "en": "Total Languages"
+  },
+  "languages_search-placeholder":{
+    "es": "Buscar idiomas por nombre",
+    "en": "Search languages by name"
+  },
+  "languages_new-title":{
+    "es": "Nuevo Idioma",
+    "en": "New Language"
+  },
+  "languages_new-btn":{
+    "es": "Crear Idioma",
+    "en": "Create Language"
+  },
+  "languages_edit-title":{
+    "es": "Editar Idioma",
+    "en": "Edit Language"
+  },
+  "languages_edit-btn":{
+    "es": "Actualizar Idioma",
+    "en": "Update Language"
+  },
+  "languages_form-name_label-en":{
+    "es": "Nombre del Idioma en inglés",
+    "en": "Language Name in English"
+  },
+  "languages_form-name_placeholder-en":{
+    "es": "Ejemplo: Spanish",
+    "en": "Example: Spanish"
+  },
+  "languages_form-name_label-es":{
+    "es": "Nombre del Idioma en español",
+    "en": "Language Name in Spanish"
+  },
+  "languages_form-name_placeholder-es":{
+    "es": "Ejemplo: Español",
+    "en": "Example: Español"
+  },
+  "languages_mandatory-language-name-en":{
+    "es": "Debes escribir el nombre del idioma en inglés",
+    "en": "You must write the language name in English"
+  },
+  "languages_mandatory-language-name-es":{
+    "es": "Debes escribir el nombre del idioma en español",
+    "en": "You must write the language name in Spanish"
+  },
+  "languages_back-btn":{
+    "es": "Volver a Idiomas",
+    "en": "Back to Languages"
+  },
+  "contracts_main-title":{
+    "es": "Contratos",
+    "en": "Contracts"
+  },
+  "contracts_total":{
+    "es": "Total de Contratos",
+    "en": "Total Contracts"
+  },
+  "contracts_user-name":{
+    "es": "Usuario",
+    "en": "User"
+  },
+  "contracts_type":{
+    "es": "Tipo",
+    "en": "Type"
+  },
+  "contracts_type-music":{
+    "es": "Musical",
+    "en": "Musical"
+  },
+  "contracts_type-artistic":{
+    "es": "Artístico",
+    "en": "Artistic"
+  },
+  "contract_music":{
+    "es": "Contrato musical",
+    "en": "Music contract"
+  },
+  "contract_artistic":{
+    "es": "Contrato artístico",
+    "en": "Artistic contract"
+  },
+  "contracts_empresa":{
+    "es": "Empresa",
+    "en": "Company"
+  },
+  "contracts_fecha":{
+    "es": "Fecha",
+    "en": "Date"
+  },
+  "contracts_back-btn":{
+    "es": "Volver a Contratos",
+    "en": "Back to Contracts"
+  },
+  "contracts_all-btn":{
+    "es": "Ver tus contratos",
+    "en": "See your contracts"
+  },
+  "company_title":{
+    "es": "Datos de la empresa",
+    "en": "Company data"
+  },
+  "company_form_edit-company":{
+    "es": "Editar datos de la empresa",
+    "en": "Edit company data"
+  },
+  "company_form_company-name_label":{
+    "es": "Nombre de la empresa",
+    "en": "Company name"
+  },
+  "company_form_company-name_placeholder":{
+    "es": "Escribe el nombre de la empresa",
+    "en": "Enter the company name"
+  },
+  "company_form_fiscal_id_label":{
+    "es": "Identificación fiscal",
+    "en": "Tax ID"
+  },
+  "company_form_fiscal_id_placeholder":{
+    "es": "Escribe la identificación fiscal",
+    "en": "Enter the tax ID"
+  },
+  "company_form_country_label":{
+    "es": "País",
+    "en": "Country"
+  },
+  "company_form_country_placeholder":{
+    "es": "Selecciona un país",
+    "en": "Select a country"
+  },
+  "company_form_address_label":{
+    "es": "Dirección",
+    "en": "Address"
+  },
+  "company_form_address_placeholder":{
+    "es": "Escribe la dirección",
+    "en": "Enter the address"
+  },
+  "company_form_position_label":{
+    "es": "Tu cargo",
+    "en": "Your position"
+  },
+  "company_form_position_placeholder":{
+    "es": "Escribe tu cargo",
+    "en": "Enter your position"
+  },
+  "company_form_edit_purchase":{
+    "es": "Editar datos de contacto para compras",
+    "en": "Edit purchase contact data"
+  },
+  "company_form_purchase_name_label":{
+    "es": "Nombre",
+    "en": "Name"
+  },
+  "company_form_purchase_name_placeholder":{
+    "es": "Nombre de la persona encargada de compras",
+    "en": "Name of the person in charge of purchases"
+  },
+  "company_form_purchase_lastname_label":{
+    "es": "Apellido",
+    "en": "Last Name"
+  },
+  "company_form_purchase_lastname_placeholder":{
+    "es": "Apellido de la persona encargada de compras",
+    "en": "Last name of the person in charge of purchases"
+  },
+  "company_form_purchase_email_label":{
+    "es": "Email",
+    "en": "Email"
+  },
+  "company_form_purchase_email_placeholder":{
+    "es": "Email de la persona encargada de compras",
+    "en": "Email of the person in charge of purchases"
+  },
+  "company_form_purchase_phone_label":{
+    "es": "Teléfono",
+    "en": "Phone"
+  },
+  "company_form_purchase_phone_placeholder":{
+    "es": "Teléfono de la persona encargada de compras",
+    "en": "Phone of the person in charge of purchases"
+  },
+  "company_form_save-btn":{
+    "es": "Actualizar datos",
+    "en": "Update data"
+  },
+  "company_form_delete-btn":{
+    "es": "Eliminar datos de la empresa",
+    "en": "Delete company data"
+  },
+  "company_back-btn":{
+    "es": "Volver a datos de la empresa",
+    "en": "Back to company data"
+  },
+  "users_main_title":{
+    "es": "Usuarios",
+    "en": "Users"
+  },
+  "users_new_title":{
+    "es": "Nuevo Usuario",
+    "en": "New User"
+  },
+  "users_back-btn":{
+    "es": "Volver a Usuarios",
+    "en": "Back to Users"
+  },
+  "users_add-btn":{
+    "es": "Crear Usuario",
+    "en": "Create User"
+  },
+  "users_total":{
+    "es": "Total de Usuarios",
+    "en": "Total Users"
+  },
+  "users_search-placeholder":{
+    "es": "Buscar usuarios por nombre",
+    "en": "Search users by name"
+  },
+  "users_create_admin-title":{
+    "es": "Crear nuevo administrador",
+    "en": "Create new admin"
+  },
+  "users_create_music-title":{
+    "es": "Crear nuevo usuario musical",
+    "en": "Create new music user"
+  },
+  "dashboard":{
+    "es": "Dashboard",
+    "en": "Dashboard"      
+  },
+  "register":{
+    "es": "Registrarse",
+    "en": "Register"      
+  },
+  "index_subtitle-categories":{
+    "es": "Encuentra la selección de canciones cinematográficas más auténticas",
+    "en": "Find the most authentic cinematic song selection"
+  },
+  "index_btn-categories":{
+    "es": "Ver Categorías",
+    "en": "See Categories"
+  },
+  "index_subtitle-artists":{
+    "es": "Artistas con alma",
+    "en": "Artists with soul"
+  },
+  "index_btn-artists":{
+    "es": "Ver Artistas",
+    "en": "See Artists"
+  },
+  "index_subtitle-featured":{
+    "es": "Cada canción, una historia esperando a ser contada",
+    "en": "Every song, a story waiting to be told"
+  },
+  "category-genres":{
+    "es": "Géneros",
+    "en": "Genres"
+  },
+  "genres_back-btn":{
+    "es": "Volver a Géneros",
+    "en": "Back to Genres"
+  },
+  "category-feelings":{
+    "es": "Sentimientos",
+    "en": "Feelings"
+  },
+  "category-instruments":{
+    "es": "Instrumentos",
+    "en": "Instruments"
+  },
+  "category-movies":{
+    "es": "Cine & TV",
+    "en": "Movies & TV"
+  },
+  "register_artist-title-1":{
+    "es": "Soy artista y deseo entrar al mercado de FILMTONO y apoyar otros artistas",
+    "en": "I am an artist and I want to enter the FILMTONO market and support other artists"
+  },
+  "register_artist-title-2":{
+    "es": "Soy artista y deseo ofrecer mi música para proyectos audiovisuales de FILMTONO",
+    "en": "I am an artist and I want to offer my music for audiovisual projects of FILMTONO"
+  },
+  "register_artist-p-1":{
+    "es": "Si eres artista musical, músico, productor, dj, instrumentista, autor o compositor, estás invitado a participar dentro de FILMTONO. Te contaremos mas adelante cómo puedes hacerlo.",
+    "en": "If you are a music artist, musician, producer, DJ, instrumentalist, author or composer, you are invited to participate within FILMTONO. We will tell you later how you can do it."
+  },
+  "register_artist-p-2":{
+    "es": "Si deseas que tus canciones se tengan en cuenta para compra de licencias,puedes participar enviando tu material musical a través de algún sello discográfico o distribuidora independiente con la que ya tengamos acuerdo.",
+    "en": "If you want your songs to be taken into account for licensing purchases, you can participate by sending your musical material through a record label or independent distributor with which we already have an agreement."
+  },
+  "register_artist-p-3":{
+    "es": "Si aún no cuentas con un sello discográfico o distribuidora que te presente, aquí te dejamos una lista de sellos a través de los cuales puedes activar tu servicio con FILMTONO:",
+    "en": "If you do not yet have a record label or distributor to present you, here is a list of labels through which you can activate your service with FILMTONO:"
+  },
+  "register_label-title-1":{
+    "es": "Soy un sello discográfico y quiero ofrecer las canciones de mis artistas para la búsqueda de oportunidades de licenciamiento. ¿Soy elegible?",
+    "en": "I am a record label and I want to offer the songs of my artists for the search of licensing opportunities. Am I eligible?"
+  },
+  "register_label-title-2":{
+    "es": "Soy un sello discográfico y quiero registrarme para subir mi catálogo musical",
+    "en": "I am a record label and I want to register to upload my music catalog"
+  },
+  "register_label-p-1":{
+    "es": "FILMTONO Busca nuevas oportunidades para exhibir tu catálogo musical en una plataforma visible en mercados activos del cine, ofreciendo licenciamientos ágiles con el fin de disminuir el tiempo de investigación y gestión de licencias.",
+    "en": "FILMTONO Seeks new opportunities to exhibit your music catalog on a platform visible in active film markets, offering agile licensing in order to reduce the time of research and license management."
+  },
+  "register_label-p-2":{
+    "es": "Por esta razón hacemos una curaduría previa para dar prioridad a las canciones mas factibles de ser licenciadas en nuestros proyectos audiovisuales preferiblemente canciones “all in one” o de fácil licenciamiento frente a las canciones que tienen dificultades para ser licenciadas ya sea porque se desconoce una parte de sus propietarios y estos no podrán recibir el pago por su trabajo o tiene acuerdos muy complejos con sus discográficas.",
+    "en": "For this reason we do a previous curation to give priority to the most feasible songs to be licensed in our audiovisual projects preferably “all in one” songs or easy licensing compared to songs that have difficulties to be licensed either because a part of their owners is unknown and they will not be able to receive payment for their work or have very complex agreements with their record labels."
+  },
+  "register_label-p-3":{
+    "es": "En este sentido para FILMTONO es prioridad beneficiar a los creadores, hacer impacto positivo en personas creadoras de canciones se encuentren en vida que necesitan más oportunidades para darse visibilidad y seguir haciendo música.",
+    "en": "In this sense, for FILMTONO it is a priority to benefit creators, make a positive impact on song creators who are alive and need more opportunities to gain visibility and continue making music."
+  },
+  "register_label-p-4":{
+    "es": "Si eres un sello discográfico independiente, agregador musical que trabaja con artistas independientes puedes registrarte a FILMTONO para cargar tu catálogo musical sujeto a curaduría. Si tu catálogo es aceptado nos comunicaremos contigo de lo contrario recibirás un email con la no aceptación y las causas.",
+    "en": "If you are an independent record label, music aggregator that works with independent artists you can register to FILMTONO to upload your music catalog subject to curation. If your catalog is accepted we will contact you otherwise you will receive an email with the non-acceptance and the causes."
+  },
+  "register_aggregator-title-1":{
+    "es": "Soy un agregador musical y quiero distribuir el catálogo en FILMTONO.",
+    "en": "I am a music aggregator and I want to distribute the catalog in FILMTONO."
+  },
+  "register_aggregator-title-2":{
+    "es": "Soy un agregador musical quiero registrarme para subir mi catálogo musical",
+    "en": "I am a music aggregator and I want to register to upload my music catalog"
+  },
+  "register_aggregator-p-1":{
+    "es": "FILMTONO Busca nuevas oportunidades para los artistas que produzcan activamente y se encuentren en vida con el fin de hacer impacto en la vida de los artistas. Por esta razón hacemos una curaduría previa para dar prioridad a los proyectos musicales activos.",
+    "en": "FILMTONO Seeks new opportunities for artists who produce actively and are alive in order to make an impact on the lives of artists. For this reason we do a previous curation to give priority to active musical projects."
+  },
+  "register_aggregator-p-2":{
+    "es": "Seleccionamos las canciones mas factibles de ser licenciadas en nuestros proyectos audiovisuales preferiblemente canciones con la metadata mas completa para asegurarnos de que sus creadores se beneficiarán, principalmente canciones “all in one” o de fácil licenciamiento frente a las canciones que tienen dificultades para ser licenciadas, ya sea porque se desconoce una parte de sus propietarios y o tienen acuerdos muy complejos con sus discográficas.",
+    "en": "We select the most feasible songs to be licensed in our audiovisual projects preferably songs with the most complete metadata to ensure that their creators will benefit, mainly “all in one” songs or easy licensing compared to songs that have difficulties to be licensed, either because a part of their owners is unknown and or have very complex agreements with their record labels."
+  },
+  "register_aggregator-p-3":{
+    "es": "Las producciones de FILMTONO son amplias en variedad, géneros y tipos por ejemplo: cine, publicidad, videojuegos. Por lo tanto la oferta musical puede ser amplia.",
+    "en": "FILMTONO's productions are wide in variety, genres and types for example: cinema, advertising, video games. Therefore the musical offer can be wide."
+  },
+  "register_aggregator-p-4":{
+    "es": "Si eres un agregador musical que trabaja con artistas independientes puedes registrarte a FILMTONO para solicitar que nos contactemos contigo y adelantar los términos del acuerdo.",
+    "en": "If you are a music aggregator that works with independent artists you can register to FILMTONO to request that we contact you and advance the terms of the agreement."
+  },
+  "register_producer-title-1":{
+    "es": "Soy un productor musical y quiero registrarme para subir mi catálogo musical como sello independiente",
+    "en": "I am a music producer and I want to register to upload my music catalog as an independent label"
+  },
+  "register_producer-p-1":{
+    "es": "Si eres un sello discográfico independiente, que trabaja con artistas independientes puedes registrarte a FILMTONO para cargar tu catálogo musical sujeto a curaduría. Si tu catálogo es aceptado nos comunicaremos contigo de lo contrario recibirás un email con la no aceptación y las causas.",
+    "en": "If you are an independent record label, that works with independent artists you can register to FILMTONO to upload your music catalog subject to curation. If your catalog is accepted we will contact you otherwise you will receive an email with the non-acceptance and the causes."
+  },
+  "register_producer-p-2":{
+    "es": "Recuerda que debes ser un sello discográfico legalmente constituido y tener acuerdos por escrito y vigentes, con tus artistas y compositores, además de una metada muy completa que beneficie a todos los autores, artistas y propietarios de cada canción que se van a beneficiar de tu administración dentro de FILMTONO.",
+    "en": "Remember that you must be a legally constituted record label and have written and current agreements, with your artists and composers, in addition to a very complete metadata that benefits all authors, artists and owners of each song that will benefit from your administration within FILMTONO."
+  },
+  "login_purchase-title":{
+    "es": "Si deseas comprar licencias de música para tus proyectos audiovisuales, contacta con nosotros y nos pondremos en contacto",
+    "en": "If you want to buy music licenses for your audiovisual projects, contact us and we will get in touch"
+  },
+  "about_subtitle-1":{
+    "es": "¿Qué es Filmtono?",
+    "en": "What is Filmtono?"
+  },
+  "about_text-1":{
+    "es": "Es un servicio B2B para conectar la industria del cine y creadores audiovisuales con los artistas de la industria musical, hacer la sinergia y motivando el mercado de licenciamiento de canciones originales, velando por que estos artistas sean remunerados por su trabajo creativo.",
+    "en": "It is a B2B service to connect the film industry and audiovisual creators with the artists of the music industry, making the synergy and motivating the original song licensing market, ensuring that these artists are paid for their creative work."
+  },
+  "about_subtitle-2":{
+    "es": "Sobre la plataforma",
+    "en": "About the platform"
+  },
+  "about_text-2":{
+    "es": "FILMTONO es un One Stop Shop que reúne, selecciona y filtra catálogos de música de fácil licenciamiento para Music Supervisors o cualquiera que desee un permiso de canciones originales.",
+    "en": "FILMTONO is a One Stop Shop that brings together, selects and filters music catalogs for easy licensing for Music Supervisors or anyone who wants a permission for original songs."
+  },
+  "about_text-3":{
+    "es": "Ofrece la conexión más cercana posible o incluso directa, con los autores y/o propietarios de las canciones, acortando el tiempo de descubrimiento e investigación de canciones aptas para licencias de fijación o sincronización audiovisual, procurando el pago de derechos de copyrigth y publishing e incentivando a los jóvenes y a las personas de todas las edades a invertir su tiempo en la creación artística como modo de vida.",
+    "en": "It offers the closest possible connection or even direct, with the authors and/or owners of the songs, shortening the time of discovery and research of songs suitable for licensing for audiovisual fixation or synchronization, ensuring the payment of copyrigth and publishing rights and encouraging young people and people of all ages to invest their time in artistic creation as a way of life."
+  },
+  "about_text-4":{
+    "es": "Por medio de este servicio los productores de contenidos de video: productores de cine, TV, radio, publicistas, desarrolladores de videojuegos y aplicaciones, productores de contenidos para Youtube, Tik Tok, Facebook, Tidal, Yandex entre otros; tienen la posibilidad de hacer partícipe a un artista musical, difundiendo su canción dentro de una película, serie, comercial publicitario, aplicación u otro para que otras personas también lo descubran.",
+    "en": "Through this service, video content producers: film producers, TV, radio, advertisers, video game and application developers, content producers for Youtube, Tik Tok, Facebook, Tidal, Yandex among others; have the possibility of involving a music artist, spreading his song within a movie, series, commercial, application or other so that other people also discover it."
+  },
+  "about_subtitle-3":{
+    "es": "¿Cómo lo hace?",
+    "en": "How does it do it?"
+  },
+  "about_text-5":{
+    "es": "FILMTONO selecciona únicamente las canciones aptas para licenciamiento ágil, es decir, canciones con características particulares para poder ofrecer una buena experiencia al comprador y al creador original de la canción, logrando que los permisos y la comunicación sea rápida.",
+    "en": "FILMTONO selects only songs suitable for agile licensing, that is, songs with particular characteristics to offer a good experience to the buyer and the original creator of the song, ensuring that permissions and communication are quick."
+  },
+  "about_text-6":{
+    "es": "Por lo general se seleccionan canciones “all in one” en donde el permiso de copyrigth y publishing le pertenecen al 100% a un único propietario, o que tiene varios creadores, pero la gestión de licenciamiento y contacto con ellos se puede realizar rápidamente gracias a que cuentan con un buen administrador.",
+    "en": "In general, “all in one” songs are selected where the copyrigth and publishing permission belong 100% to a single owner, or that has several creators, but the licensing management and contact with them can be done quickly thanks to having a good administrator."
+  },
+  "about_text-7":{
+    "es": "Hace una investigación rigurosa para asegurarse sobre quienes ostentan la propiedad antes de publicarse en FILMTONO.",
+    "en": "It does a thorough investigation to make sure who owns the property before being published in FILMTONO."
+  },
+  "about_subtitle-4":{
+    "es": "¿¿Cuál es el objetivo de FILMTONO con las personas?",
+    "en": "What is FILMTONO's goal with people?"
+  },
+  "about_text-8":{
+    "es": "FILMTONO se enfoca en crear conexión entre personas que exploran nuevos conceptos e ideas artísticas para la industria audiovisual y musical.",
+    "en": "FILMTONO focuses on creating connection between people who explore new concepts and artistic ideas for the audiovisual and music industry."
+  },
+  "about_text-9":{
+    "es": "Facilita el descubrimiento de canciones de personas que están produciéndolas en distintas ubicaciones geográficas, con conceptos de música tradicional o novedades que pueden aportar una sensación de fresca a la industria del cine.",
+    "en": "It facilitates the discovery of songs by people who are producing them in different geographical locations, with concepts of traditional music or novelties that can bring a fresh sensation to the film industry."
+  },
+  "about_text-10":{
+    "es": "Así mismo, incentiva el uso de las canciones de catálogo en Redes Sociales en streaming, videos corporativos, nuevos proyectos digitales, aplicaciones, videojuegos, podcasts, anuncios publicitarios entre otros.",
+    "en": "Likewise, it encourages the use of catalog songs on Social Networks in streaming, corporate videos, new digital projects, applications, video games, podcasts, advertising among others."
+  },
+  "about_subtitle-5":{
+    "es": "¿Cómo ser embajador de FILMTONO?",
+    "en": "How to be an ambassador of FILMTONO?"
+  },
+  "about_text-11":{
+    "es": "Si eres una persona con muchas conexiones en la industria audiovisual o creadores de contenido, agencias publicitarias; te gusta el arte y además tienes actitud para lograr que los nuevos proyectos usen nuestra plataforma tendrás éxito usando FILMTONO como embajador, ganando puntos por la suscripción de proyectos que finalicen su proceso de compra.",
+    "en": "If you are a person with many connections in the audiovisual industry or content creators, advertising agencies; you like art and you also have the attitude to make new projects use our platform you will be successful using FILMTONO as an ambassador, earning points for the subscription of projects that complete their purchase process."
+  },
+  "terms_subtitle-1":{
+    "es": "Datos de indentificación",
+    "en": "Identification data"
+  },
+  "terms_text-1":{
+    "es": "In Empresarios S.A.S con número de identificación fiscal 900697978-3 registrado en la dirección cra 28b# 36-54 La Soledad - Bogotá Colombia el cual representa a la marca “FILMTONO” y por otro lado, la compañía que firma este contrato como Proveedor Musical al final del documento.",
+    "en": "In Empresarios S.A.S with tax identification number 900697978-3 registered at the address cra 28b# 36-54 La Soledad - Bogotá Colombia which represents the brand “FILMTONO” and on the other hand, the company that signs this contract as a Music Provider at the end of the document."
+  },
+  "terms_subtitle-2":{
+    "es": "Objeto",
+    "en": "Object"
+  },
+  "terms_text-2":{
+    "es": "Las presentes condiciones generales se aplicarán a todos los servicios de FILMTONO en su sitio web y otros medios de los que disponga. Al hacer click en aceptar las condiciones de suscripción a la plataforma, el usuario manifiesta conocerlas y aceptarlas plenamente sin restricciones ni condiciones.",
+    "en": "These general conditions will apply to all FILMTONO services on its website and other media available. By clicking on accept the subscription conditions to the platform, the user declares to know them and fully accept them without restrictions or conditions."
+  },
+  "terms_text-3":{
+    "es": "Las presentes Condiciones Generales de suscripción a FILMTONO, junto con las condiciones particulares del usuario Proveedor Musical o comprador, forman el contrato de suscripción a FILMTONO entre IN EMPRESARIOS S.A.S. y el Suscriptor (en adelante, el “Contrato”).",
+    "en": "These General Conditions of subscription to FILMTONO, together with the particular conditions of the Music Provider or buyer user, form the subscription contract to FILMTONO between IN EMPRESARIOS S.A.S. and the Subscriber (hereinafter, the “Contract”)."
+  },
+  "terms_subtitle-3":{
+    "es": "Suscripción",
+    "en": "Subscription"
+  },
+  "terms_text-4":{
+    "es": "El usuario que desea comprar una licencia musical o el Proveedor musical, podrá suscribirse a FILMTONO en las modalidades de suscripción digital ofertadas en cada momento. En función de la modalidad de suscripción contratada, la suscripción podría ir acompañada de una serie de servicios adicionales, en función de las ofertas en vigor en el momento de su contratación.",
+    "en": "The user who wants to buy a music license or the Music Provider, may subscribe to FILMTONO in the digital subscription modalities offered at all times. Depending on the subscription modality contracted, the subscription could be accompanied by a series of additional services, depending on the offers in force at the time of contracting."
+  },
+  "terms_text-5":{
+    "es": "En el supuesto de que FILMTONO decidiera dar de baja alguno de estos servicios, deberá notificarlo a los Suscriptores afectados, con una antelación mínima razonable, dándoles la oportunidad de cancelar o cambiar su suscripción a partir de ese momento sin coste alguno para ellos. Para proceder a formalizar la suscripción, el Suscriptor deberá completar un formulario de suscripción para lo cual deberá proporcionar una serie de datos de carácter personal. Con carácter previo a la finalización del proceso de suscripción, se informará al Suscriptor acerca del importe total por la suscripción, incluidos los impuestos o tasas aplicables.",
+    "en": "In the event that FILMTONO decided to unsubscribe any of these services, it must notify the affected Subscribers, with a reasonable minimum notice, giving them the opportunity to cancel or change their subscription from that moment without cost to them. To proceed to formalize the subscription, the Subscriber must complete a subscription form for which he must provide a series of personal data. Prior to the completion of the subscription process, the Subscriber will be informed about the total amount for the subscription, including applicable taxes or fees."
+  },
+  "terms_text-6":{
+    "es": "La formalización de la aceptación de la suscripción debe hacerse a través de la activación del botón “Suscribirse” que aparece a pie de página de la solicitud de suscripción, aceptando así las presentes Condiciones Generales de Suscripción.",
+    "en": "The formalization of the acceptance of the subscription must be done through the activation of the “Subscribe” button that appears at the bottom of the subscription request, thus accepting these General Subscription Conditions."
+  },
+  "terms_text-7":{
+    "es": "Sólo podrán tramitar pedidos personas mayores de edad, actuando en su propio nombre y representación o en el de una persona jurídica a la que representen con poder bastante. A estos efectos, el Suscriptor, que acepte las presentes Condiciones Generales de Suscripción, manifiesta ser mayor de edad y garantiza la veracidad del conjunto de los datos de registro facilitados a FILMTONO, siendo el único responsable de las manifestaciones falsas o inexactas que realice y de los perjuicios que dicha circunstancia pueda causar a FILMTONO o a terceros. FILMTONO se reserva la facultad de cancelar la suscripción de aquellos Suscriptores que hubieran proporcionado datos falsos.",
+    "en": "Only persons of legal age may process orders, acting on their own behalf and representation or on behalf of a legal entity they represent with sufficient power. For these purposes, the Subscriber, who accepts these General Subscription Conditions, declares to be of legal age and guarantees the veracity of all the registration data provided to FILMTONO, being solely responsible for the false or inaccurate statements made and the damages that this circumstance may cause to FILMTONO or third parties. FILMTONO reserves the right to cancel the subscription of those Subscribers who have provided false data."
+  },
+  "terms_subtitle-4":{
+    "es": "Prueba de la aceptación",
+    "en": "Proof of acceptance"
+  },
+  "terms_text-8":{
+    "es": "Una vez aceptadas las presentes Condiciones Generales de Suscripción, mediante la activación del botón “Suscribirse”, FILMTONO remitirá al Suscriptor justificación de la contratación efectuada, con todos sus términos, a través de correo electrónico tras la finalización del proceso de suscripción, junto con la justificación documental del pago en caso de haberse ejecutado un pago.",
+    "en": "Once these General Subscription Conditions have been accepted, by activating the “Subscribe” button, FILMTONO will send the Subscriber proof of the contract made, with all its terms, by email after the completion of the subscription process, together with the documentary proof of payment in case of having executed a payment."
+  },
+  "terms_subtitle-5":{
+    "es": "Precio",
+    "en": "Price"
+  },
+  "terms_text-9":{
+    "es": "El precio a satisfacer por la suscripción en la modalidad contratada, incluidos los impuestos y tasas que, en su caso, resulten de aplicación, será el comunicado al Suscriptor de forma clara e inequívoca antes de finalizar el proceso de contratación de la suscripción.",
+    "en": "The price to be paid for the subscription in the contracted modality, including taxes and fees that, where applicable, are applicable, will be communicated to the Subscriber clearly and unequivocally before finalizing the subscription contracting process."
+  },
+  "terms_text-10":{
+    "es": "FILMTONO podrá, siempre que lo considere oportuno, modificar las tarifas de la suscripción y/o de los servicios adicionales asociados a la misma. Las modificaciones en las tarifas afectarán a los nuevos Suscriptores a partir del momento de su contratación y a los Suscriptores activos desde la fecha de renovación de la suscripción.",
+    "en": "FILMTONO may, whenever it deems appropriate, modify the subscription rates and/or the additional services associated with it. Changes in rates will affect new Subscribers from the moment of their contracting and active Subscribers from the subscription renewal date."
+  },
+  "terms_subtitle-6":{
+    "es": "Medios de pago",
+    "en": "Payment methods"
+  },
+  "terms_text-11":{
+    "es": "El Suscriptor que desee contratar una suscripción deberá abonar el importe correspondiente a través de los medios de pago que a tal efecto seleccione (pago mediante tarjeta de crédito o débito), siendo las tarjetas de crédito o débito aceptadas las siguientes: Visa y Mastercard. Con carácter general, los cargos se realizarán de forma automática a la finalización del proceso de suscripción a través de la pasarela de pago codificando la conexión e introduciéndose los datos en el servidor seguro de la entidad.",
+    "en": "The Subscriber who wishes to contract a subscription must pay the corresponding amount through the payment methods that he selects for this purpose (payment by credit or debit card), the credit or debit cards accepted being the following: Visa and Mastercard. In general, the charges will be made automatically at the end of the subscription process through the payment gateway by encoding the connection and entering the data on the secure server of the entity."
+  },
+  "terms_text-12":{
+    "es": "El sistema solamente admite tarjetas seguras, por lo que, si tiene problemas para finalizar el pago, FILMTONO le recomienda acudir a su entidad bancaria para comprobar que su tarjeta está habilitada para realizar compras en comercios electrónicos. En el supuesto de que FILMTONO no pueda efectuar el cobro por cualquier motivo, la contratación se considerará no finalizada y la suscripción no formalizada. Asimismo, si durante la ejecución del Contrato no fuese posible algún cobro de la suscripción por parte de FILMTONO, el Suscriptor acepta que FILMTONO quedará facultado para deducirlo de su saldo o cancelar la suscripción.",
+    "en": "The system only accepts secure cards, so if you have problems finalizing the payment, FILMTONO recommends that you go to your bank to check that your card is enabled to make purchases in electronic stores. In the event that FILMTONO cannot make the charge for any reason, the contract will be considered not finalized and the subscription not formalized. Likewise, if during the execution of the Contract it is not possible to charge any subscription by FILMTONO, the Subscriber accepts that FILMTONO will be empowered to deduct it from his balance or cancel the subscription."
+  },
+  "terms_text-13":{
+    "es": "Sin perjuicio de lo anterior, en caso de impago, FILMTONO se reserva el derecho a adoptar las medidas que legalmente le asistan a fin de lograr la satisfacción de sus derechos de cobro derivados de la contratación de la suscripción correspondiente.",
+    "en": "Without prejudice to the foregoing, in case of non-payment, FILMTONO reserves the right to take the measures that legally assist it in order to achieve the satisfaction of its collection rights derived from the contracting of the corresponding subscription."
+  },
+  "terms_subtitle-7":{
+    "es": "Duración",
+    "en": "Duration"
+  },
+  "terms_text-14":{
+    "es": "La suscripción contratada tendrá la duración indicada en el momento de su contratación y la misma se prorrogará automáticamente por períodos de igual duración.",
+    "en": "The contracted subscription will have the duration indicated at the time of its contracting and it will be automatically extended for periods of equal duration."
+  },
+  "terms_subtitle-8":{
+    "es": "Cancelación de la suscripción",
+    "en": "Cancellation of the subscription"
+  },
+  "terms_text-15":{
+    "es": "El Suscriptor podrá proceder a cancelar unilateralmente la contratación que hubiera realizado en cualquier momento durante la vigencia del Contrato a través de su Area Privada mediante la activación de la casilla “Cancelar suscripción”.",
+    "en": "The Subscriber may proceed to unilaterally cancel the contracting that he has made at any time during the validity of the Contract through his Private Area by activating the “Cancel subscription” box."
+  },
+  "terms_text-16":{
+    "es": "Dicha cancelación no supondrá el reembolso de los importes abonados por el suscriptor como contraprestación a la suscripción a FILMTONO. Dichos importes tienen carácter no reembolsable.",
+    "en": "This cancellation will not result in the refund of the amounts paid by the subscriber as consideration for the subscription to FILMTONO. These amounts are non-refundable."
+  },
+  "terms_subtitle-9":{
+    "es": "Derecho de desestimiento",
+    "en": "Right of withdrawal"
+  },
+  "terms_text-17":{
+    "es": "El Suscriptor cuenta con la posibilidad de desistir de la suscripción sin necesidad de justificación en el plazo máximo de catorce (15) días naturales a partir de la fecha de contratación. Para cumplir el plazo de desistimiento, bastará con que la comunicación relativa a su ejercicio sea enviada antes de que finalice el plazo indicado anteriormente.",
+    "en": "The Subscriber has the possibility of withdrawing from the subscription without the need for justification within a maximum period of fourteen (15) calendar days from the date of contracting. To meet the withdrawal period, it will be sufficient for the communication regarding its exercise to be sent before the aforementioned period ends."
+  },
+  "terms_text-18":{
+    "es": "Para su ejercicio, el Suscriptor comunicará a FILMTONO su decisión de desistir del Contrato, mediante correo electrónico a la dirección: support@filmtono.com, en cuyo caso FILMTONO le comunicará sin demora en un soporte duradero (por ejemplo, por correo electrónico) la recepción de dicho desistimiento, o bien mediante cualquier tipo de comunicación de tal decisión que permita acreditar el contenido y recepción de la misma por parte de FILMTONO.",
+    "en": "For its exercise, the Subscriber will communicate to FILMTONO his decision to withdraw from the Contract, by email to the address: support@filmtono.com, in which case FILMTONO will immediately communicate in a durable medium (for example, by email) the receipt of said withdrawal, or by any type of communication of such decision that allows to prove the content and receipt of it by FILMTONO."
+  },
+  "terms_text-19":{
+    "es": "FILMTONO devolverá al Suscriptor el importe proporcional, en su caso, el tiempo transcurrido satisfecho por éste por la suscripción antes del transcurso de catorce (15) días naturales a contar desde la fecha en que FILMTONO haya sido informada de la decisión de desistimiento por parte del Suscriptor, utilizando para ello el mismo medio de pago empleado por el Suscriptor para la suscripción.",
+    "en": "FILMTONO will return to the Subscriber the proportional amount, if applicable, the time elapsed satisfied by the latter for the subscription before the expiration of fourteen (15) calendar days from the date on which FILMTONO has been informed of the decision to withdraw by the Subscriber, using for this the same payment method used by the Subscriber for the subscription."
+  },
+  "terms_subtitle-10":{
+    "es": "Soporte de suscripción",
+    "en": "Subscription support"
+  },
+  "terms_text-20":{
+    "es": "Para cualquier consulta, incidencia, queja o reclamación sobre la suscripción, FILMTONO pone a disposición de los Suscriptores un Servicio de soporte al Suscriptor en el correo electrónico support@filmtono.com.",
+    "en": "For any query, incident, complaint or claim about the subscription, FILMTONO makes available to Subscribers a Subscriber Support Service at the email address support@filmtono.com."
+  },
+  "privacy_text-1":{
+    "es": "Los datos personales facilitados ahora o en el futuro, en el marco de la compra de una suscripción a FILTMONO serán tratados de conformidad con las disposiciones de:",
+    "en": "The personal data provided now or in the future, in the context of the purchase of a subscription to FILTMONO will be treated in accordance with the provisions of:"
+  },
+  "privacy_subtitle-1":{
+    "es": "América",
+    "en": "America"
+  },
+  "privacy_text-2":{
+    "es": "Cumplimiento de las disposiciones de LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO, consciente de la responsabilidad que les asiste en materia de Tratamiento de Datos. Mediante la Ley 1581 del 17 de octubre de 2012, el Congreso de la República reglamentó el ya mencionado derecho al establecer las Disposiciones Generales para la Protección de Datos Personales en Colombia, igualmente reglamentada por los Decretos 1377 de 2013 y 886 de 2014 (hoy incorporados en el Decreto único 1074 de 2015), entre otros. De la constitución política de Colombia.",
+    "en": "Compliance with the provisions of THE SUPERINTENDENCY OF INDUSTRY AND COMMERCE, aware of the responsibility that they have in the matter of Data Processing. Through Law 1581 of October 17, 2012, the Congress of the Republic regulated the aforementioned right by establishing the General Provisions for the Protection of Personal Data in Colombia, also regulated by Decrees 1377 of 2013 and 886 of 2014 (now incorporated in the single Decree 1074 of 2015), among others. Of the political constitution of Colombia."
+  },
+  "privacy_subtitle-2":{
+    "es": "Europa",
+    "en": "Europe"
+  },
+  "privacy_text-3":{
+    "es": "Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (“RGPD”) y de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (“LOPDGDD”).",
+    "en": "Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016, regarding the protection of individuals with regard to the processing of personal data and the free movement of this data and repealing Directive 95/46/EC (“GDPR”) and of Organic Law 3/2018, of December 5, on the Protection of Personal Data and guarantee of digital rights (“LOPDGDD”)."
+  },
+  "privacy_text-4":{
+    "es":"Los datos personales facilitados serán tratados por parte de IN EMPRESARIOS S.A.S, con domicilio social en Cra 28b #36-54, Bogotá – Colombia y NIT número 900797978-3 quien representa legalmente a la marca FILMTONO y cuyo delegado de protección de datos puede ser contactado a través del siguiente correo electrónico: support@filmtono.com",
+    "en":"The personal data provided will be processed by IN EMPRESARIOS S.A.S, with registered office at Cra 28b #36-54, Bogotá - Colombia and NIT number 900797978-3 who legally represents the FILMTONO brand and whose data protection delegate can be contacted through the following email: support@filmtono.com"
+  },
+  "privacy_text-5":{
+    "es":"Para poder adquirir una suscripción es necesario ser usuario registrado de FILMTONO. Le rogamos que lea atentamente la Política de Privacidad del Registro de Usuario antes de registrarse.",
+    "en":"To be able to acquire a subscription it is necessary to be a registered user of FILMTONO. We ask you to read carefully the Privacy Policy of the User Registry before registering."
+  },
+  "privacy_text-6":{
+    "es":"Si Usted ya es usuario registrado o acaba de completar el registro, le informamos de los tratamientos de sus datos personales que realizamos cuando adquiere una suscripción digital de FILMTONO.",
+    "en":"If you are already a registered user or have just completed the registration, we inform you of the processing of your personal data that we carry out when you purchase a digital subscription from FILMTONO."
+  },
+  "privacy_subtitle-3":{
+    "es": "Uso de tus datos personales",
+    "en": "Use of your personal data"
+  },
+  "privacy_text-7":{
+    "es":"Sus datos serán tratados por FILMTONO con las siguientes finalidades:",
+    "en":"Your data will be processed by FILMTONO for the following purposes:"
+  },
+  "privacy_list-1":{
+    "es":"Gestión de pagos y facturación de la suscripción.",
+    "en":"Management of payments and billing of the subscription."
+  },
+  "privacy_list-2":{
+    "es":"Gestionar el acceso digital asociado a su suscripción.",
+    "en":"Manage digital access associated with your subscription."
+  },
+  "privacy_list-3":{
+    "es":"Enviarle comunicaciones comerciales (a) y (b) otros servicios de FILMTONO. Podremos contactar con Usted por teléfono o medios electrónicos como el correo electrónico o mensajes SMS. Usted puede oponerse a estos envíos en cualquier momento, indicando sus preferencias en el apartado Notificaciones de su registro de usuario.",
+    "en":"Send you commercial communications (a) and (b) other FILMTONO services. We may contact you by phone or electronic means such as email or SMS messages. You can object to these shipments at any time, indicating your preferences in the Notifications section of your user registration."
+  },
+  "privacy_subtitle-4":{
+    "es": "Bases legales para el tratamiento de sus datos",
+    "en": "Legal bases for the processing of your data"
+  },
+  "privacy_text-8":{
+    "es":"Las bases legales para el tratamiento de sus datos son las siguientes:",
+    "en":"The legal bases for the processing of your data are as follows:"
+  },
+  "privacy_list-4":{
+    "es":"Respecto a la gestión de pagos, facturación y acceso digital a la suscripción, la relación contractual. Los datos personales vinculados a dicho fin son los estrictamente necesarios.",
+    "en":"Regarding payment management, billing and digital access to the subscription, the contractual relationship. The personal data linked to this purpose are strictly necessary."
+  },
+  "privacy_list-5":{
+    "es":"Respecto a su alta como suscriptor el cumplimiento del servicio solicitado.",
+    "en":"Regarding your subscription as a subscriber, compliance with the requested service."
+  },
+  "privacy_list-6":{
+    "es":"Respecto a la gestión de su historial de suscripciones y uso del programa mientras la suscripción esté activa y nuestro interés legítimo en ofrecerle esta información y conocer su actividad una vez la suscripción haya expirado, y para poder ofrecerle nuevas ofertas de suscripción adaptadas a sus preferencias, siempre que nos haya autorizado a seguir enviándole notificaciones comerciales. Usted podrá solicitar la cancelación del historial en cualquier momento.",
+    "en":"Regarding the management of your subscription history and use of the program while the subscription is active and our legitimate interest in offering you this information and knowing your activity once the subscription has expired, and to be able to offer you new subscription offers adapted to your preferences, as long as you have authorized us to continue sending you commercial notifications. You can request the cancellation of the history at any time."
+  },
+  "privacy_list-7":{
+    "es":"Respecto al envío de comunicaciones comerciales, el artículo 21.2 de la LSSI, que permite el envío de comunicaciones comerciales, incluso por medios electrónicos, de productos y servicios similares a los contratados. Usted puede oponerse a estos envíos en cualquier momento, indicando sus preferencias en el apartado Notificaciones de su registro de usuario.",
+    "en":"Regarding the sending of commercial communications, article 21.2 of the LSSI, which allows the sending of commercial communications, even by electronic means, of products and services similar to those contracted. You can object to these shipments at any time, indicating your preferences in the Notifications section of your user registration."
+  },
+  "privacy_subtitle-5":{
+    "es": "Naturaleza de los datos",
+    "en": "Nature of the data"
+  },
+  "privacy_text-9":{
+    "es":"Para adquirir una suscripción es necesario ser usuario registrado. Los datos que tratamos, además de los que Usted haya dado en el registro, incluyen:",
+    "en":"To acquire a subscription it is necessary to be a registered user. The data we process, in addition to those you have given in the registration, include:"
+  },
+  "privacy_list-8":{
+    "es":"Datos necesarios para la gestión de pagos: datos de pago (tarjeta de crédito, cuenta PayPal)",
+    "en":"Data necessary for payment management: payment data (credit card, PayPal account)"
+  },
+  "privacy_list-9":{
+    "es":"Datos necesarios para la facturación: Datos identificativos (NIF/NIE, nombre y apellidos)",
+    "en":"Data necessary for billing: Identifying data (NIF/NIE, name and surname)"
+  },
+  "privacy_list-10":{
+    "es":"Datos necesarios para el acceso ilimitado a La Vanguardia digital: email.",
+    "en":"Data necessary for unlimited access to La Vanguardia digital: email."
+  },
+  "privacy_list-11":{
+    "es":"Respecto a su historial de suscripciones, adquiridas en FILMTONO.",
+    "en":"Regarding your subscription history, acquired in FILMTONO."
+  },
+  "privacy_list-12":{
+    "es":"Respecto al envío de comunicaciones comerciales, su número de teléfono, si nos lo ha informado en su registro de usuario, y su email.",
+    "en":"Regarding the sending of commercial communications, your phone number, if you have informed us in your user registration, and your email."
+  },
+  "privacy_list-13":{
+    "es":"Metadata de canciones que incluyen los datos personales de los propietarios de copyrigth y publishing con el fin de ser reconocidos en caso de darse una licencia.",
+    "en":"Metadata of songs that include the personal data of the copyrigth and publishing owners in order to be recognized in case of a license."
+  },
+  "privacy_text-10":{
+    "es":"El Cliente se responsabiliza de la veracidad y exactitud de los datos personales comunicados, reservándose FILMTONO el derecho a excluir a todo Cliente que haya facilitado datos falsos, sin perjuicio de las demás acciones que procedan en Derecho.",
+    "en":"The Client is responsible for the truthfulness and accuracy of the personal data communicated, reserving FILMTONO the right to exclude any Client who has provided false data, without prejudice to the other actions that may be taken in Law."
+  },
+  "privacy_text-11":{
+    "es":"En el supuesto de producirse alguna modificación en sus datos, FILMTONO ruega a los usuarios que lo comuniquen con el fin de mantenerlos actualizados. En este sentido, el Cliente se compromete a proporcionar información cierta en relación con sus datos personales, y mantener los datos facilitados a FILMTONO puestos al día.",
+    "en":"In the event of any modification in your data, FILMTONO asks users to communicate it in order to keep them updated. In this sense, the Client undertakes to provide true information regarding their personal data, and keep the data provided to FILMTONO up to date."
+  },
+  "privacy_text-12":{
+    "es":"En el caso de que nos facilite datos de terceros, el Cliente garantiza haber recabado el consentimiento expreso de dichos terceros para la comunicación de sus datos a FILMTONO con las finalidades de tratamiento indicadas en las presentes Condiciones Generales de suscripción.",
+    "en":"In the event that you provide us with data from third parties, the Client guarantees that they have obtained the express consent of said third parties for the communication of their data to FILMTONO for the purposes of treatment indicated in these General Subscription Conditions."
+  },
+  "privacy_subtitle-6":{
+    "es": "Plazo de conservación de los datos",
+    "en": "Data retention period"
+  },
+  "privacy_text-13":{
+    "es":"Conservaremos los datos que nos ha proporcionado, según:",
+    "en":"We will keep the data you have provided us, according to:"
+  },
+  "privacy_list-14":{
+    "es":"Los datos para la gestión de los pagos. Mientras esté activa la suscripción y, posteriormente, mientras exista una obligación legal.",
+    "en":"The data for payment management. While the subscription is active and, subsequently, while there is a legal obligation."
+  },
+  "privacy_list-15":{
+    "es":"Los datos de facturación y contacto. Mientras exista una obligación legal y, posteriormente, mientras no solicite su cancelación como parte de su historial de suscripciones.",
+    "en":"Billing and contact data. While there is a legal obligation and, subsequently, while you do not request its cancellation as part of your subscription history."
+  },
+  "privacy_list-16":{
+    "es":"Su historial de compras y promociones, mientras no solicite su cancelación.",
+    "en":"Your purchase and promotion history, until you request its cancellation."
+  },
+  "privacy_list-17":{
+    "es":"Su email, mientras mantenga su registro de usuario. La cancelación de la suscripción no implica la cancelación del registro de usuario ni la modificación de las preferencias allí expresadas.",
+    "en":"Your email, as long as you maintain your user registration. The cancellation of the subscription does not imply the cancellation of the user registration or the modification of the preferences expressed there."
+  },
+  "privacy_list-18":{
+    "es":"Su número de suscriptor, mientras mantenga una suscripción activa y, posteriormente, como dato asociado a su historial.",
+    "en":"Your subscriber number, as long as you maintain an active subscription and, subsequently, as a data associated with your history."
+  },
+  "privacy_list-19":{
+    "es":"Datos de los propietarios de las canciones, mientras estén disponibles para licenciarse en la plataforma y no se hayan dado de baja.",
+    "en":"Data of the owners of the songs, while they are available to be licensed on the platform and have not been deregistered."
+  },
+  "privacy_subtitle-7":{
+    "es": "Destinatarios de los datos",
+    "en": "Data recipients"
+  },
+  "privacy_text-14":{
+    "es":"Sólo comunicaremos los datos necesarios a aquellos terceros a los que FILMTONO representado por IN EMPRESARIOS S.A.S. esté legalmente obligada a facilitarlos, por ejemplo, la autoridad tributaria en cada país, las Autoridades de Consumo, bancos o entidades financieras y específicamente a quienes gestionarán una licencia en proceso.",
+    "en":"We will only communicate the necessary data to those third parties to which FILMTONO represented by IN EMPRESARIOS S.A.S. is legally obliged to provide them, for example, the tax authority in each country, Consumer Authorities, banks or financial entities and specifically to those who will manage a license in process."
+  },
+  "privacy_text-15":{
+    "es":"Estas cesiones se realizan bien por obligación legal, bien para dar cumplimiento al servicio contratado, por lo que no requieren de consentimiento excepto en el caso de solicitudes de licencias de canciones, para las cuales se notificará al proveedor musical registrado para que gestione los permisos necesarios.",
+    "en":"These assignments are made either by legal obligation or to comply with the contracted service, so they do not require consent except in the case of requests for song licenses, for which the registered music provider will be notified to manage the necessary permissions."
+  },
+  "privacy_subtitle-8":{
+    "es": "Lugar de tratamiento de Datos",
+    "en": "Place of Data Processing"
+  },
+  "privacy_text-16":{
+    "es":"FILMTONO y nuestros proveedores de servicio tratamos sus datos dentro de Colombia, cumpliendo normas internacionales.",
+    "en":"FILMTONO and our service providers process your data within Colombia, complying with international standards."
+  },
+  "privacy_subtitle-9":{
+    "es": "Derechos como titular de los datos",
+    "en": "Rights as the data owner"
+  },
+  "privacy_text-17":{
+    "es":"Le informamos que en caso de que desee ejercitar sus derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el tratamiento de los datos personales, oponerse al mismo, solicitar la portabilidad de los datos, o revocar el consentimiento que nos haya  restado, podrá hacerlo comunicándolo a FILMTONO mediante la remisión de un correo electrónico a Support@filmotno.com indicando claramente el derecho que desea ejercitar y acompañando su Documento Nacional de Identidad o cualquier documento similar que acredite su identidad. Finalmente, le informamos que para cualquier aclaración respecto al tratamiento de datos personales se puede  ontactar con nuestro delegado de Protección de Datos mandando un mensaje de correo electrónico a support@filmtono.com.",
+    "en":"We inform you that in case you wish to exercise your rights of access, rectification and deletion of data, as well as request that the processing of personal data be limited, oppose it, request the portability of data, or revoke the consent that you have subtracted, you can do so by communicating it to FILMTONO by sending an email to support@filmtono.com clearly indicating the right you wish to exercise and accompanying your National Identity Document or any similar document that proves your identity. Finally, we inform you that for any clarification regarding the processing of personal data you can contact our Data Protection delegate by sending an email message to support@filmtono.com"
+  },
+  "privacy_subtitle-10":{
+    "es": "Propiedad intelectual e industrial",
+    "en": "Intellectual and industrial property"
+  },
+  "privacy_text-18":{
+    "es":"Todos los derechos reservados de Propiedad Industrial e Intelectual sobre el KNOW HOW y funcionamiento de la plataforma digital FILMTONO, pertenecen a IN EMPRESARIOS S.A.S. o, Y sus contenidos información de canciones, tracks de audio, videos, fotografías de artistas pertenecen a los proveedores musicales de FILMTONO bajo licencia. Por lo tanto, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos publicados en FILMTONO, en cualquier soporte y por cualquier medio técnico, sin autorización de FILMTONO o sus propietarios. Mediante la aceptación de las presentes Condiciones Generales de Suscripción, el Suscriptor y, en particular, el Suscriptor con acceso a la plataforma FILMTONO se compromete a respetar los derechos de Propiedad Industrial e Intelectual titularidad de FILMTONO, de sus PROVEEDORES MUSICALES y/o de terceros.",
+    "en":"All rights reserved for Industrial and Intellectual Property on the KNOW HOW and operation of the FILMTONO digital platform belong to IN EMPRESARIOS S.A.S. or, and its content information of songs, audio tracks, videos, photographs of artists belong to the musical providers of FILMTONO under license. Therefore, the reproduction, distribution and public communication, including its provision modality, of all or part of the contents published in FILMTONO, on any medium and by any technical means, without authorization from FILMTONO or its owners. By accepting these General Subscription Conditions, the Subscriber and, in particular, the Subscriber with access to the FILMTONO platform undertakes to respect the Industrial and Intellectual Property rights owned by FILMTONO, its MUSICAL PROVIDERS and/or third parties."
+  },
+  "privacy_subtitle-11":{
+    "es": "Legislación aplicable y jurisdicción",
+    "en": "Applicable legislation and jurisdiction"
+  },
+  "privacy_text-19":{
+    "es":"El presente Contrato se interpretará y regirá conforme a ley Colombiana. FILMTONO y el Suscriptor se comprometen a intentar resolver de manera amistosa cualquier desacuerdo que pudiera surgir en el desarrollo del presente Contrato, previamente a acudir a la jurisdicción contemplada. En el supuesto de que surja cualquier conflicto o discrepancia en la interpretación o aplicación de las presentes condiciones contractuales, los Juzgados y Tribunales que, en su caso, conocerán del asunto, serán los que disponga la normativa legal aplicable en materia de jurisdicción competente, en la que se atiende, tratándose de consumidores finales, al lugar del cumplimiento de la obligación o al del domicilio de la parte compradora. En el caso de que se trate de una compraventa realizada por una empresa, ambas partes se someten, con renuncia expresa a cualquier otro fuero, a los Juzgados y Tribunales de Bogotá (Colombia).",
+    "en":"This Contract will be interpreted and governed in accordance with Colombian law. FILMTONO and the Subscriber undertake to try to resolve amicably any disagreement that may arise in the development of this Contract, prior to resorting to the contemplated jurisdiction. In the event that any conflict or discrepancy arises in the interpretation or application of these contractual conditions, the Courts and Tribunals that, where appropriate, will know the matter, will be those provided by the applicable legal regulations in terms of competent jurisdiction, in which case, in the case of final consumers, the place of compliance with the obligation or the domicile of the purchasing party. In the case of a sale made by a company, both parties submit, with express waiver of any other jurisdiction, to the Courts and Tribunals of Bogotá (Colombia)."
+  },
+  "privacy_subtitle-12":{
+    "es": "Modificación de las condiciones generales de suscripción",
+    "en": "Modification of the general subscription conditions"
+  },
+  "privacy_text-20":{
+    "es":"FILMTONO informará a los Suscriptores mediante correo electrónico o avisos en www.filmtono.com de cualquier cambio realizado en las Condiciones Generales de Suscripción. Dichas modificaciones se reflejarán en este documento, al que el usuario podrá acceder en cualquier momento desde la zona de Registro de Usuarios. En el momento de la renovación de la suscripción, se entenderán aceptadas las Condiciones Generales de Suscripción vigentes en dicho momento, pasando el Suscriptor a estar vinculado por las nuevas.",
+    "en":"FILMTONO will inform Subscribers by email or notices on www.filmtono.com of any changes made to the General Subscription Conditions. These modifications will be reflected in this document, which the user can access at any time from the User Registration area. At the time of the renewal of the subscription, the General Subscription Conditions in force at that time will be understood to be accepted, the Subscriber being bound by the new ones."
+  },
+  "privacy_subtitle-13":{
+    "es": "Cláusula de salvaguarda",
+    "en": "Safeguard clause"
+  },
+  "privacy_text-21":{
+    "es":"La ineficacia de alguna de estas cláusulas no afectará a las demás. Las cláusulas ineficaces se sustituirán, en su caso, por otras cuyo contenido permita alcanzar la finalidad perseguida por las declaradas ineficaces.",
+    "en":"The ineffectiveness of any of these clauses will not affect the others. The ineffective clauses will be replaced, if applicable, by others whose content allows the purpose pursued by the declared ineffective to be achieved."
+  },
+  "privacy_subtitle-14":{
+    "es": "Política de cookies",
+    "en": "Cookies policy"
+  },
+  "privacy_text-22":{
+    "es":"Este portal, al igual que la mayoría de portales en Internet, usa cookies para mejorar la experiencia del usuario. A continuación, encontrará información sobre qué son las cookies, qué tipo de cookies utiliza este portal, cómo puede desactivar las cookies en su navegador y cómo desactivar específicamente la instalación de cookies de terceros. Si no encuentra la información específica que usted está buscando, por favor  escriba a support@filmtono.com.",
+    "en":"This portal, like most portals on the Internet, uses cookies to improve the user experience. Below, you will find information about what cookies are, what type of cookies this portal uses, how you can disable cookies in your browser and how to specifically disable the installation of third-party cookies. If you do not find the specific information you are looking for, please write to support@filmtono.com."
+  },
+  "privacy_subtitle-15":{
+    "es": "¿Qué son las cookies?",
+    "en": "What are cookies?"
+  },
+  "privacy_text-23":{
+    "es":"Las cookies son pequeños archivos que algunas plataformas, como las páginas web, pueden instalar en el navegador de su ordenador, smartphone, tableta o televisión conectada. Sus funciones pueden ser muy variadas: almacenar sus preferencias de navegación, recopilar información  estadística, permitir ciertas funcionalidades técnicas, etcétera. En ocasiones, las cookies se utilizan para almacenar información básica sobre los hábitos de navegación del usuario, hasta el punto, según los casos, de poder reconocerlo.",
+    "en":"Cookies are small files that some platforms, such as web pages, can install in the browser of your computer, smartphone, tablet or connected television. Their functions can be very varied: store your browsing preferences, collect statistical information, allow certain technical functionalities, etc. Sometimes, cookies are used to store basic information about the user's browsing habits, to the point, in some cases, of being able to recognize it."
+  },
+  "privacy_subtitle-16":{
+    "es": "Cookies que usa Filmtono",
+    "en": "Cookies used by Filmtono"
+  },
+  "privacy_text-24":{
+    "es":"Este portal utiliza cookies funcionales y analíticas. Las cookies funcionales son necesarias para el correcto funcionamiento de la web. Por su parte, las cookies analíticas nos permiten conocer el comportamiento de los usuarios en la web y realizar análisis estadísticos. Para más información sobre las cookies que utilizamos, por favor escriba a support@filmtono.com",
+    "en":"This portal uses functional and analytical cookies. Functional cookies are necessary for the correct functioning of the website. Analytical cookies, on the other hand, allow us to know the behavior of users on the web and carry out statistical analyzes. For more information about the cookies we use, please write to support@filmtono.com"
+  },
+  "licensing_text-1":{
+    "es": "Usar la canción de tu artista favorito en tu video ahora es más fácil, solicitando el permiso de uso exclusivamente para ese proyecto que notifiques y pagando a los autores o propietarios por esta licencia.",
+    "en": "Using your favorite artist's song in your video is now easier, requesting permission to use exclusively for that project you notify and paying the authors or owners for this license."
+  },
+  "licensing_text-2":{
+    "es": "FILMTONO da la facilidad para buscar entre varios artistas y sus canciones, encontrar su propietario de forma rápida, saber si se puede licenciar fácilmente “licencias ágiles” y hacer la solicitud.",
+    "en": "FILMTONO makes it easy to search among various artists and their songs, find their owner quickly, know if it can be easily licensed “agile licenses” and make the request."
+  },
+  "licensing_text-3":{
+    "es": "Reduce el tiempo de investigación sobre una canción ya que contamos con toda la información necesaria para lograr la licencia: desde quien es su compositor original, sus intérpretes y propietarios, los créditos, porcentajes de sus propietarios y datos de registros en PRO´s y si está disponible para ciertos tipos de proyectos.",
+    "en": "Reduce the research time on a song since we have all the necessary information to achieve the license: from who is its original composer, its performers and owners, the credits, percentages of its owners and PRO´s registration data and if it is available for certain types of projects."
+  },
+  "licensing_text-4":{
+    "es": "FILMTONO Hace soporte en el proceso de licenciamiento, negociación en varios idiomas, resolviendo requisitos legales para la venta internacional y gestiones de publishing.",
+    "en": "FILMTONO Supports in the licensing process, negotiation in several languages, solving legal requirements for international sales and publishing management."
+  },
+  "contact_text-1":{
+    "es": "Si tienes alguna duda o necesitas ayuda, por favor, no dudes en contactarnos. Estamos aquí para ayudarte.",
+    "en": "If you have any questions or need help, please do not hesitate to contact us. We are here to help you."
+  },
+  "film-director_main_title":{
+    "es": "¿Soy Director de Cine, qué puede aportar FILMTONO a mi trabajo?",
+    "en": "I am a Film Director, what can FILMTONO bring to my work?"
+  },
+  "film-director_text-1":{
+    "es": "Sabemos que cada producción audiovisual es un caso creativo muy distinto del siguiente con sus particularidades.",
+    "en": "We know that each audiovisual production is a very different creative case from the next with its particularities."
+  },
+  "film-director_text-2":{
+    "es": "FILMTONO es una herramienta que te puede aportar más opciones para trabajar profesionalmente el área musical.",
+    "en": "FILMTONO is a tool that can provide you with more options to work professionally in the musical area."
+  },
+  "film-director_text-3":{
+    "es": "Encuentra Music Supervisors, Productores musicales especializados en los géneros Fantasía, Drama, terror, documentales entre otros. Descubre nuevos artistas del sector musical y sobre todo un catálogo de canciones originales con una producción de altísima calidad que ha sido seleccionado exhaustivamente y para el cual se ha realizado una investigación previa en materia de derechos autorales y de propiedad del máster de audio, con el fin de que puedas licenciar cualquiera de las canciones con mayor brevedad.",
+    "en": "Find Music Supervisors, Music Producers specialized in genres such as Fantasy, Drama, horror, documentaries among others. Discover new artists in the music sector and above all a catalog of original songs with a production of the highest quality that has been exhaustively selected and for which a previous investigation has been carried out on copyright and property rights of the audio master, so that you can license any of the songs as quickly as possible."
+  },
+  "film-director_text-4":{
+    "es": "Puedes solicitar la creación de una canción a medida o toda la producción musical para tu próximo proyecto.",
+    "en": "You can request the creation of a tailor-made song or the entire musical production for your next project."
+  },
+  "film-director_text-5":{
+    "es": "Escríbenos a soundtracks@filmtono.com y nos pondremos en contacto directo para poder acompañarte en este proceso.",
+    "en": "Write to us at soundtracks@filmtono.com and we will contact you directly to accompany you in this process."
+  },
+  "music-supervisor_main_title":{
+    "es": "¿Soy Music Supervisor, cómo trabajo con FILMTONO para encontrar música?",
+    "en": "I am a Music Supervisor, how do I work with FILMTONO to find music?"
+  },
+  "music-supervisor_text-1":{
+    "es": "Como Music Supervisor, FILMTONO te da otras opciones para avanzar en la investigación de catálogos y artistas independientes dentro de la industria musical. De tal manera que al registrarte puedas tener información muy completa y verificada sobre las canciones que encuentras  en este sitio web.",
+    "en": "As a Music Supervisor, FILMTONO gives you other options to advance in the research of catalogs and independent artists within the music industry. In such a way that when you register you can have very complete and verified information about the songs you find on this website."
+  },
+  "music-supervisor_text-2":{
+    "es": "Navega por los catálogos de canciones originales independientes, selecciona las canciones que se ajusten a tu proyecto, crea las características de tu proyecto y listas de reproducción con las canciones que más te gusten. Puedes compartir tus listas de reproducción con tu equipo de trabajo y finalmente solicitar las licencias oficiales cuando lo requieras.",
+    "en": "Browse through the catalogs of independent original songs, select the songs that fit your project, create the characteristics of your project and playlists with the songs you like the most. You can share your playlists with your work team and finally request the official licenses when you require them."
+  },
+  "music-audiovisual_main_title":{
+    "es": "Trabajo en una productora audiovisual o agencia publicitaria, qué me ofrece FILMTONO?",
+    "en": "I work in an audiovisual production company or advertising agency, what does FILMTONO offer me?"
+  },
+  "music-audiovisual_text-1":{
+    "es": "En una compañía de producción audiovisual, medio de comunicación o agencia publicitaria se tienen varios proyectos en simultáneo o muy recurrentes.",
+    "en": "In an audiovisual production company, media or advertising agency, there are several projects simultaneously or very recurrent."
+  },
+  "music-audiovisual_text-2":{
+    "es": "En FILMTONO encuentras catálogos de canciones originales de sellos discográficos y artistas independientes que previamente han sido seleccionados por su gran calidad de producción de audio y su claridad en cuanto los registros autorales y propietarios. Con lo cual te garantizamos el apoyo en el proceso de licenciamientos oficiales de forma segura para los proyectos que lo ameriten.",
+    "en": "In FILMTONO you find catalogs of original songs from record labels and independent artists that have previously been selected for their great quality of audio production and their clarity regarding copyright and ownership records. With which we guarantee you support in the process of official licensing safely for projects that merit it."
+  },
+  "music-audiovisual_text-3":{
+    "es": "También puedes encontrar más productores musicales que pueden elaborar audios a tu medida, puedes verificar su trabajo previo en su perfil y verificar si es el personaje idóneo.",
+    "en": "You can also find more music producers who can create audio to your measure, you can verify their previous work on their profile and verify if they are the right person."
+  },
+  "content-creator_main_title":{
+    "es": "Soy creador de contenido, influencer, youtuber, podcaster. ¿Cómo puedo usar canciones de FILMTONO?",
+    "en": "I am a content creator, influencer, youtuber, podcaster. How can I use FILMTONO songs?"
+  },
+  "content-creator_text-1":{
+    "es": "Si tus contenidos multimedia están siendo cada vez mas profesionales, es seguro que buscas subir la calidad de la producción de tus audios.",
+    "en": "If your multimedia content is becoming more and more professional, you are surely looking to increase the quality of the production of your audios."
+  },
+  "content-creator_text-2":{
+    "es": "Es por esto que a través de FILMTONO podrás licencias canciones originales de artistas independientes. Audios y canciones que han pasado por un proceso de producción y masterización muy completo, para obtener audios que le darán un plus a tu video frente al resultado que puedes obtener usando cualquier audio gratuito disponible en las librerías.",
+    "en": "This is why through FILMTONO you can license original songs from independent artists. Audios and songs that have gone through a very complete production and mastering process, to obtain audios that will give a plus to your video compared to the result you can obtain using any free audio available in the libraries."
+  },
+  "content-creator_text-3":{
+    "es": "Las redes sociales como Youtube, Tik Tok entre otras plataformas, te premian cuando subes contenidos de mayor calidad.",
+    "en": "Social networks like Youtube, Tik Tok among other platforms, reward you when you upload higher quality content."
+  },
+  "content-creator_text-4":{
+    "es": "Por esta razón comprar una licencia de canciones originales de forma oficial directamente a sus propietarios, además de aportar a los artistas de la industria musical, hace que tu producción audiovisual tenga mas relevancia en términos de posicionamiento SEO en las diferentes plataformas streaming, podcaster, broadcast y redes sociales.",
+    "en": "For this reason, buying an official license for original songs directly from their owners, in addition to contributing to the artists in the music industry, makes your audiovisual production more relevant in terms of SEO positioning on the different streaming platforms, podcaster, broadcast and social networks."
+  },
+  "faq_section-1":{
+    "es": "Funcionamiento de FILMTONO",
+    "en": "Operation of FILMTONO"
+  },
+  "faq_question-1-1":{
+    "es": "¿Qué significa que FILMTONO es un DSP?",
+    "en": "What does it mean that FILMTONO is a DSP?"
+  },
+  "faq_answer-1-1":{
+    "es": "FILMTONO es una plataforma web service, un DIGITAL SERVICE PROVIDER creado para ayudar a quienes necesitan investigar y actualizarse en cuanto a catálogos independientes dentro de la industria musical, además de conectar directamente con los propietarios de las canciones, agregadores, editoriales, autores, compositores, productores y proveedores musicales independientes en varios países.",
+    "en": "FILMTONO is a web service platform, a DIGITAL SERVICE PROVIDER created to help those who need to research and update themselves in terms of independent catalogs within the music industry, in addition to connecting directly with the owners of the songs, aggregators, publishers, authors, composers, producers and independent music providers in several countries."
+  },
+  "faq_question-1-2":{
+    "es": "¿FILMTONO me ayuda en la investigación musical?",
+    "en": "Does FILMTONO help me in musical research?"
+  },
+  "faq_answer-1-2-1":{
+    "es": "Si deseas hacer una investigación entre los catálogos independientes de FILMTONO podrás encontrar canciones que cuentan con una información muy completa acerca de sus propietarios.",
+    "en": "If you want to do research among the independent catalogs of FILMTONO you will find songs that have very complete information about their owners."
+  },
+  "faq_answer-1-2-2":{
+    "es": "Hacemos una selección exhaustiva de canciones, de proveedores musicales que nos certifican la totalidad de los datos y la veracidad por cada canción, además de un compromiso social al reconocer el trabajo de los creadores a través del pago de licencias al 100% de sus propietarios. Logrando la data más fiel, más completa y verificada lo más directamente posible con sus propietarios.",
+    "en": "We make an exhaustive selection of songs, from music providers who certify us the totality of the data and the veracity for each song, in addition to a social commitment to recognize the work of the creators through the payment of licenses to 100% of their owners. Achieving the most faithful, most complete and verified data as directly as possible with its owners."
+  },
+  "faq_question-1-3":{
+    "es": "¿Qué proyectos puedo encargar a FILMTONO?",
+    "en": "What projects can I commission to FILMTONO?"
+  },
+  "faq_answer-1-3":{
+    "es": "Si tienes proyectos audiovisuales para los que deseas contratar la creación de música profesional o usar canciones originales, ejemplo: series, películas, documentales, cortos, podcast, broadcast, youtube, anuncios publicitarios, redes sociales para los cuales necesitas una licencia oficial firmada y verificada por sus propietarios, cuenta con FILMTONO para que tu proyecto tenga el aval y siga su curso de distribución, exhibición en el mercado y plataformas sin ningún problema.",
+    "en": "If you have audiovisual projects for which you want to hire the creation of professional music or use original songs, for example: series, films, documentaries, shorts, podcasts, broadcast, youtube, advertising, social networks for which you need an official license signed and verified by its owners, count on FILMTONO so that your project has the endorsement and follows its course of distribution, exhibition in the market and platforms without any problem."
+  },
+  "faq_question-1-4":{
+    "es": "¿A quienes me ayuda a conectar FILMTONO?",
+    "en": "Who does FILMTONO help me connect with?"
+  },
+  "faq_answer-1-4-1":{
+    "es": "FILMTONO te conecta con todas las entidades musicales necesarias y todos los propietarios de la canción que deseas usar en tu proyecto audiovisual, para que puedas obtener una licencia 100% legal y verificada.",
+    "en": "FILMTONO connects you with all the necessary music entities and all the owners of the song you want to use in your audiovisual project, so that you can obtain a 100% legal and verified license."
+  },
+  "faq_answer-1-4-2":{
+    "es": "Si es necesario directamente con su autor original, intérprete, productor musical, editorial, sello discográfico, agregador musical o sistema de monitoreo digital.",
+    "en": "If necessary directly with its original author, performer, music producer, publisher, record label, music aggregator or digital monitoring system."
+  },
+  "faq_section-2":{
+    "es": "Filmtono para proyectos audiovisuales",
+    "en": "Filmtono for audiovisual projects"
+  },
+  "faq_question-2-1":{
+    "es": "¿Cómo me registro para obtener ofertas de canciones?",
+    "en": "How do I register to get song offers?"
+  },
+  "faq_answer-2-1-1":{
+    "es": "Suscríbete como comprador de FILMTONO en la sección “Soy Music Supervisor” para obtener acceso a todas las canciones originales y la información sobre cómo obtener las licencias ágiles a través de la plataforma.",
+    "en": "Subscribe as a FILMTONO buyer in the “I am a Music Supervisor” section to get access to all original songs and information on how to obtain agile licenses through the platform."
+  },
+  "faq_answer-2-1-2":{
+    "es": "Descubre todas las canciones que consideramos Joyas Musicales y logra que otros también las descubran a través tuyo.",
+    "en": "Discover all the songs that we consider Musical Jewels and get others to discover them through you."
+  },
+  "faq_answer-2-1-3":{
+    "es": "Precio de la suscripción 25€ el mes, el año 300€ con los que recibirás notificaciones de música nueva, playlists musicales, puedes enviar solicitudes especiales y recibir soporte en línea para el proceso de licenciamiento.",
+    "en": "Subscription price 25€ per month, 300€ per year with which you will receive notifications of new music, music playlists, you can send special requests and receive online support for the licensing process."
+  },
+  "faq_section-3":{
+    "es": "Filmtono para directores de cine",
+    "en": "Filmtono for film directors"
+  },
+  "faq_question-3-1":{
+    "es": "¿FILMTONO me ayuda con la búsqueda de músico adecuado para mi filme?",
+    "en": "Does FILMTONO help me with the search for the right musician for my film?"
+  },
+  "faq_answer-3-1":{
+    "es": "Encuentra soporte con FILMTONO para investigar productores musicales especialistas en los diferentes géneros cinematográficos, músico experto en drama, músico experto en fantasía, músico experto en suspenso, músico experto en videojuegos, músico experto en podcast, entre otros.",
+    "en": "Find support with FILMTONO to investigate music producers specializing in different film genres, music expert in drama, music expert in fantasy, music expert in suspense, music expert in video games, music expert in podcast, among others."
+  },
+  "faq_question-3-2":{
+    "es": "¿Qué tipos de artistas se pueden encontrar en FILMTONO?",
+    "en": "What types of artists can be found in FILMTONO?"
+  },
+  "faq_answer-3-2-1":{
+    "es": "Los artistas que encontrarás en FILMTONO son artistas independientes, de sellos independientes en todas sus fases de carrera artística.",
+    "en": "The artists you will find in FILMTONO are independent artists, from independent labels in all phases of their artistic career."
+  },
+  "faq_answer-3-2-2":{
+    "es": "Para facilidad de administración hemos creado internamente estos tipos de artista según su reconocimiento:",
+    "en": "For ease of administration we have created these types of artists internally according to their recognition:"
+  },
+  "faq_answer-3-2-3":{
+    "es": "Artista Leyenda:",
+    "en": "Legend Artist:"
+  },
+  "faq_answer-3-2-4":{
+    "es": "Un artista leyenda según FILMTONO es aquel que ha marcado un hito en la historia musical de la gente a nivel mundial y el cual, a pesar de haber fallecido, sus canciones y su imagen sigue siendo muy valorada.",
+    "en": "A legend artist according to FILMTONO is one who has marked a milestone in people's musical history worldwide and who, despite having died, his songs and his image are still highly valued."
+  },
+  "faq_answer-3-2-5":{
+    "es": "Artista Super-estrella:",
+    "en": "Superstar Artist:"
+  },
+  "faq_answer-3-2-6":{
+    "es": "Un artista superstar según FILMTONO es un artista que ha logrado posicionarse a nivel internacional, con seguridad ha sido ganador de premios Grammy, Billboard, tiene audiencia fuerte en diferentes países, fans asiduos en diferentes mercados y muy probablemente alguno de sus videoclips o canciones son HITS en escuchas en la actualidad. Es un artista referenciado en diferentes idiomas por personas en distintos países.",
+    "en": "A superstar artist according to FILMTONO is an artist who has managed to position himself internationally, has surely won Grammy, Billboard awards, has a strong audience in different countries, regular fans in different markets and very likely some of his music videos or songs are HITS in listening today. It is an artist referenced in different languages by people in different countries."
+  },
+  "faq_answer-3-2-7":{
+    "es": "Artista Estrella:",
+    "en": "Star Artist:"
+  },
+  "faq_answer-3-2-8":{
+    "es": "Un artista Estrella tiene un alto reconocimiento en su país de origen, una gran base de oyentes, seguidores, premios, canciones muy escuchadas, además está en plan de desarrollo a nivel internacional. Busca oportunidades para posicionarse en nuevos mercados diferentes a su mercado natural.",
+    "en": "A Star Artist has high recognition in his country of origin, a large listener base, followers, awards, very listened songs, and is in the process of development internationally. Seeks opportunities to position itself in new markets different from its natural market."
+  },
+  "faq_answer-3-2-9":{
+    "es": "Artista Alto Nivel:",
+    "en": "High Level Artist:"
+  },
+  "faq_answer-3-2-10":{
+    "es": "Un artista de alto nivel según FILMTONO es el que ha logrado posicionarse a nivel nacional en su país de origen, tiene una gran base de oyentes y seguidores en todo el territorio que lo reconocen y al menos una de sus canciones es un HIT nacional o tiene un alto nivel de escuchas. Tiene referencias en la mayoría de las regiones de su país. Busca oportunidades nacionales o internacionales similares a la de su mercado natural para seguir fortaleciendo su proceso de crecimiento.",
+    "en": "A high-level artist according to FILMTONO is one who has managed to position himself nationally in his country of origin, has a large listener and follower base throughout the territory that recognizes him and at least one of his songs is a national HIT or has a high level of listening. It has references in most regions of its country. Seeks national or international opportunities similar to that of its natural market to continue strengthening its growth process."
+  },
+  "faq_answer-3-2-11":{
+    "es": "Artista de Crrecimiento Nacional:",
+    "en": "National Growth Artist:"
+  },
+  "faq_answer-3-2-12":{
+    "es": "Un artista nacional en crecimiento según FILMTONO es el que está logrando tener una base de oyentes y seguidores fuerte en varias regiones, referencias de youtubers, blogs, expertos musicales, curadores y está en búsqueda de fortalecerse nacionalmente. Probablemente tenga premios nacionales y visibilidad en medios nacionales, así como videoclips y escuchas muy buenas.",
+    "en": "A national growth artist according to FILMTONO is one who is managing to have a strong listener and follower base in several regions, references from youtubers, blogs, music experts, curators and is looking to strengthen nationally. It probably has national awards and visibility in national media, as well as very good music videos and listens."
+  },
+  "faq_answer-3-2-13":{
+    "es": "Artista en Desarrollo:",
+    "en": "Artist in Development:"
+  },
+  "faq_answer-3-2-14":{
+    "es": "Un artista en desarrollo nacional según FILMTONO, es aquel que ya se ha logrado posicionar en algún mercado, tiene una base fuerte de oyentes y seguidores en la zona, pero además se encuentra en proceso de abrir nuevos mercados en el país para posicionarse, se encuentra haciendo esfuerzos para darse a conocer y busca oportunidades de visibilidad nacional o en regiones que sean su objetivo para fortalecer.",
+    "en": "An artist in national development according to FILMTONO, is one who has already managed to position himself in some market, has a strong listener and follower base in the area, but is also in the process of opening new markets in the country to position himself, is making efforts to make himself known and seeks opportunities for national visibility or in regions that are his objective to strengthen."
+  },
+  "faq_answer-3-2-15":{
+    "es": "Artista Emergente:",
+    "en": "Emerging Artist:"
+  },
+  "faq_answer-3-2-16":{
+    "es": "Un artista emergente según FILMTONO, va desde aquel que está iniciando con su primer lanzamiento hasta uno que tiene un nivel de alto reconocimiento en su mercado natural o en su región o zona. Está construyendo una base de oyentes o seguidores, su red de curadores musicales, críticos musicales, periodistas, influencers, líderes en su región para que hagan parte de su crecimiento. Están en búsqueda de oportunidades que les de visibilidad regional, nacional o en una región que sea de su objetivo de fortalecimiento en la actualidad. Probablemente tengan premios en su ciudad o no, han ganado convocatorias e incentivos a talentos.",
+    "en": "An emerging artist according to FILMTONO, ranges from one who is starting with his first release to one who has a high level of recognition in his natural market or in his region or area. He is building a listener or follower base, his network of music curators, music critics, journalists, influencers, leaders in his region to be part of his growth. They are looking for opportunities that give them regional, national visibility or in a region that is their current strengthening objective. They probably have awards in their city or not, they have won calls and talent incentives."
+  },
+  "faq_question-3-3":{
+    "es": "¿Qué canciones puedo licenciar a través de FILMTONO?",
+    "en": "What songs can I license through FILMTONO?"
+  },
+  "faq_answer-3-3-1":{
+    "es": "PEn FILMTONO podrás encontrar canciones que están por descubrir hasta canciones posicionadas internacionalmente.",
+    "en": "In FILMTONO you can find songs that are yet to be discovered to internationally positioned songs."
+  },
+  "faq_answer-3-3-2":{
+    "es": "Para poder valorar cada canción de acuerdo a su nivel de reconocimiento, hemos creado una tabla de niveles con un indicador. A continuación, explicamos los valores:",
+    "en": "In order to assess each song according to its level of recognition, we have created a table of levels with an indicator. Below, we explain the values:"
+  },
+  "faq_section-4":{
+    "es": "Sobre las licencias",
+    "en": "About licenses"
+  },
+  "faq_question-4-1":{
+    "es": "Quiero usar una canción en mi película, en una serie de TV ¿Cómo se licencia a través de FILMTONO?",
+    "en": "I want to use a song in my movie, in a TV series. How is it licensed through FILMTONO?"
+  },
+  "faq_answer-4-1-1":{
+    "es": "Para licenciar canciones originales a través de FILMTONO, primero debes estar inscrito como comprador de licencias en cualquier categoría: Productor o Director de cine, Musicalizador, Music Supervisor etc.",
+    "en": "To license original songs through FILMTONO, you must first be registered as a license buyer in any category: Film Producer or Director, Musician, Music Supervisor etc."
+  },
+  "faq_answer-4-1-2":{
+    "es": "Sube la información de tu proyecto audiovisual, si es un nombre provisional o el definitivo está bien. Sinopsis, episodio y sobre todo las características, referentes o ideas de lo que buscas para este capítulo.",
+    "en": "Upload the information of your audiovisual project, if it is a provisional name or the final one is fine. Synopsis, episode and above all the characteristics, references or ideas of what you are looking for for this chapter."
+  },
+  "faq_answer-4-1-3":{
+    "es": "También puedes crear tus propias playlist con canciones preferidas que vayas encontrando en nuestra plataforma y apoyarte de los filtros y el buscador para hacer una búsqueda específica.",
+    "en": "You can also create your own playlists with favorite songs that you find on our platform and use the filters and the search engine to make a specific search."
+  },
+  "faq_answer-4-1-4":{
+    "es": "Haz la solicitud de la licencia cuando estés listo(a) y solicita el material que sea necesario. Y a partir de aquí debemos esperar la aprobación de los propietarios, si todo sale bien, obtendrás inmediatamente su respuesta.",
+    "en": "Make the license request when you are ready and request the material that is necessary. And from here we must wait for the approval of the owners, if everything goes well, you will immediately get their response."
+  },
+  "faq_answer-4-1-5":{
+    "es": "Para facilidad FILMTONO te presta un servicio de seguimiento para que todo el proceso de licenciamiento sea fidedigno, hasta que la licencia esté pagada y firmada por las partes.",
+    "en": "For ease FILMTONO provides you with a tracking service so that the entire licensing process is reliable, until the license is paid and signed by the parties."
+  },
+  "faq_question-4-2":{
+    "es": "¿Qué es una licencia de fijación o sincronización musical?",
+    "en": "What is a music fixing or synchronization license?"
+  },
+  "faq_answer-4-2":{
+    "es": "Una licencia es un documento legal en el cual el propietario o propietarios de la canción dejan expresa y claramente que otorgan un permiso para que puedas usarla como fondo musical o banda sonora de una producción audiovisual, sincronizarla o fijarla en una película, un documental, un video para youtube un comercial publicitario para televisión, distribución en plataformas y promoción.",
+    "en": "A license is a legal document in which the owner or owners of the song expressly and clearly grant permission for you to use it as background music or soundtrack for an audiovisual production, synchronize it or fix it in a film, a documentary, a video for youtube, a commercial for television, distribution on platforms and promotion."
+  },
+  "faq_question-4-3":{
+    "es": "¿Qué son las licencias ágiles?",
+    "en": "What are agile licenses?"
+  },
+  "faq_answer-4-3-1":{
+    "es": "Hemos llamado licencias ágiles a los permisos de uso de una canción, que puedes obtener a través de un trámite fácil.",
+    "en": "We have called agile licenses the permissions to use a song, which you can obtain through an easy process."
+  },
+  "faq_answer-4-3-2":{
+    "es": "FILMTONO facilita el proceso de licenciamiento gracias a su selección exahustiva de proveedores y canciones que contienen metadata completa. Es decir, se cuenta con todo un proceso de investigación previa de cada una de las canciones, verificando que esté la información de sus propietarios completa.",
+    "en": "FILMTONO facilitates the licensing process thanks to its exhaustive selection of providers and songs that contain complete metadata. That is, there is a whole process of previous investigation of each of the songs, verifying that the information of its owners is complete."
+  },
+  "faq_answer-4-3-3":{
+    "es": "En algunos casos solo se necesita de una autorización para las canciones “all in one”, las cuales suelen ser canciones originales de cantautores o dj´s, solistas pero también suelen ser producciones orquestales grandes con un solo propietario.",
+    "en": "In some cases, only an authorization is needed for the “all in one” songs, which are usually original songs by singer-songwriters or dj´s, soloists but they are also usually large orchestral productions with a single owner."
+  },
+  "faq_question-4-4":{
+    "es": "¿Puedo monetizar mis videos con una licencia de FILMTONO?",
+    "en": "Can I monetize my videos with a FILMTONO license?"
+  },
+  "faq_answer-4-4":{
+    "es": "Sí, el permiso de uso de una canción te permite publicar tu video con la canción de fondo y monetizarla, siempre y cuando el tipo de uso y en qué plataforma lo vas a realizar esté descrito en la licencia. Para el caso de Youtube y redes sociales, es importante que sepas que monetizas las reproducciones de tu video, mas no las de la canción.",
+    "en": "Yes, the permission to use a song allows you to publish your video with the background song and monetize it, as long as the type of use and on which platform you are going to perform it is described in the license. For the case of Youtube and social networks, it is important that you know that you monetize the views of your video, but not those of the song."
+  },
+  "faq_question-4-5":{
+    "es": "¿Cómo funcionan las Licencias Blockchain Vsus Licencias Tradicionales?",
+    "en": "How do Blockchain Licenses Vs Traditional Licenses work?"
+  },
+  "faq_answer-4-5-1":{
+    "es": "Los proyectos blockchain son independientes de la licencia tradicional. Es un extra que puede ayudar a que el proyecto audiovisual sea más interesante, abriendo la participación de la comunidad.",
+    "en": "Blockchain projects are independent of the traditional license. It is an extra that can help make the audiovisual project more interesting, opening up community participation."
+  },
+  "faq_answer-4-5-2":{
+    "es": "Para este primero debemos realizar la solicitud especial a través de correo electrónico a soundtracks@filmtono.com enviando los detalles del proyecto y la canción para la que deseamos crear una colección.",
+    "en": "For the first one, we must make the special request through email to soundtracks@filmtono.com sending the details of the project and the song for which we want to create a collection."
+  },
+  "faq_section-5":{
+    "es": "Sobre los precios de las licencias",
+    "en": "About license prices"
+  },
+  "faq_question-5-1":{
+    "es": "¿Cuánto cuesta una licencia de uso de una canción?",
+    "en": "How much does a song use license cost?"
+  },
+  "faq_answer-5-1":{
+    "es": "En cuanto al precio de un permiso de uso de una canción puede ser muy variable, pues es el propietario de la canción, el autor, propietario del máster o su representante editor o sello quien define el precio que puede tener una licencia, respecto al valor que tiene el trabajo realizado tanto por su autor e intérpretes como la producción del máster de audio. Son ellos quienes tienen la palabra definitiva y pueden calcular el costo en base a diferentes variables.",
+    "en": "As for the price of a song use permit, it can be very variable, since it is the owner of the song, the author, owner of the master or his representative editor or label who defines the price that a license may have, regarding the value that the work done by both its author and performers and the audio master production. They are the ones who have the final word and can calculate the cost based on different variables."
+  },
+  "faq_question-5-2":{
+    "es": "¿De qué depende el precio de una licencia musical?",
+    "en": "What does the price of a music license depend on?"
+  },
+  "faq_answer-5-2-1":{
+    "es": "Las variables que pueden afectar el precio de una licencia musical son en la mayor parte de los casos:",
+    "en": "The variables that can affect the price of a music license are in most cases:"
+  },
+  "faq_answer-5-2-2":{
+    "es": "El tipo de artista",
+    "en": "The type of artist"
+  },
+  "faq_answer-5-2-3":{
+    "es": "Si quieres ayudar a descubrir un nuevo artista es una gran idea ya que puedes obtener el máximo creativo y hasta verdaderas joyas a un precio justo por su trabajo. Si deseas tener una canción de un intérprete que está posicionado y sobre todo si es alguien muy reconocido en el medio musical entenderás que sus precios estarán a su nivel.",
+    "en": "If you want to help discover a new artist it is a great idea since you can get the maximum creative and even true jewels at a fair price for their work. If you want to have a song from an interpreter who is positioned and especially if he is someone very recognized in the music industry you will understand that their prices will be at their level."
+  },
+  "faq_answer-5-2-4":{
+    "es": "El nivel de reconocimiento de la canción",
+    "en": "The level of recognition of the song"
+  },
+  "faq_answer-5-2-5":{
+    "es": "La canción que eliges para sincronizar también es analizada dependiendo de su reconocimiento, pues como puede que sea una joya por descubrir, como también una canción que es muy conocida en una zona o segmento o tiene un reconocimiento internacional.",
+    "en": "The song you choose to synchronize is also analyzed depending on its recognition, as it may be a jewel to discover, as well as a song that is well known in an area or segment or has international recognition."
+  },
+  "faq_answer-5-2-6":{
+    "es": "El uso que se le dará a la canción dentro del proyecto",
+    "en": "The use that will be given to the song within the project"
+  },
+  "faq_answer-5-2-7":{
+    "es": "El precio de una licencia de uso de una canción depende si la vas a usar como cabezote, será una canción muy especial en un momento determinado, es la canción para los anuncios publicitarios, la editaras para la escena principal o si es una canción que se usa de ambientación.",
+    "en": "The price of a song use license depends on whether you are going to use it as a header, it will be a very special song at a certain moment, it is the song for advertising, you will edit it for the main scene or if it is a song that is used for setting."
+  },
+  "faq_question-5-3":{
+    "es": "¿Cuánto tiempo dura una licencia de FILMTONO?",
+    "en": "How long does a FILMTONO license last?"
+  },
+  "faq_answer-5-3":{
+    "es": "Las licencias son personalizadas, dependiendo de la duración del proyecto. A no ser de que se requiera una licencia indefinida se podrá solicitar a sus propietarios, para aprobación.",
+    "en": "Licenses are personalized, depending on the duration of the project. Unless an indefinite license is required, it can be requested from its owners, for approval."
+  },
+  "faq_question-5-4":{
+    "es": "¿Qué pasa si uso alguna de estas canciones sin solicitar la licencia?",
+    "en": "What happens if I use any of these songs without requesting the license?"
+  },
+  "faq_answer-5-4":{
+    "es": "Si usas canciones originales que están protegidas por la ley del derecho de autor sin el consentimiento oficial de sus propietarios, podrías obtener una demanda muy costosa por infringir una de las leyes mas importantes y protegidas universalmente como es la propiedad intelectual. Los autores, compositores, artistas y productores tienen además de entidades que gestionan sus derechos como lo son las PRO´S, editoriales que a su vez usan sistemas de monitoreo digital.",
+    "en": "If you use original songs that are protected by copyright law without the official consent of their owners, you could get a very expensive lawsuit for infringing one of the most important and universally protected laws such as intellectual property. Authors, composers, artists and producers have in addition to entities that manage their rights such as PRO´S, publishers that in turn use digital monitoring systems."
+  },
+  "faq_section-6":{
+    "es": "Para productores musicales y autores",
+    "en": "For music producers and authors"
+  },
+  "faq_question-6-1":{
+    "es": "¿Cómo puedo subir mis canciones a FILMTONO?",
+    "en": "How can I upload my songs to FILMTONO?"
+  },
+  "faq_answer-6-1":{
+    "es": "Debes realizar el registro como proveedor musical, leer el contrato con la plataforma y firmarlo si estás conforme. Posteriormente, enviaremos un correo electrónico para solicitar una videollamada para una verificación personalizada en la que te solicitaremos tu catálogo musical con toda la información de sus propietarios, registros autorales oficiales completa. Después de una revisión de cada una de tus canciones, devolveremos un correo con tu aceptación y podrás cargar directamente la información y data de las licencias que deseas ofrecer.",
+    "en": "You must register as a music provider, read the contract with the platform and sign it if you agree. Subsequently, we will send an email to request a video call for a personalized verification in which we will request your music catalog with all the information of its owners, complete official authorial records. After a review of each of your songs, we will return an email with your acceptance and you can directly upload the information and data of the licenses you want to offer."
+  },
+  "faq_question-6-2":{
+    "es": "¿Cómo me registro como proveedor musical?",
+    "en": "How do I register as a music provider?"
+  },
+  "faq_answer-6-2":{
+    "es": "Por favor ingresa a la sección “soy artista”, “soy sello discográfico” “soy agregador” o “soy productor musical” y regístrate en el formulario. Posteriormente, lee atentamente el contrato con nuestra plataforma y fírmalo para enviar una solicitud.",
+    "en": "Please enter the “I am an artist”, “I am a record label” “I am an aggregator” or “I am a music producer” section and register in the form. Subsequently, read the contract with our platform carefully and sign it to send a request."
+  },
+  "faq_question-6-3":{
+    "es": "¿Cuáles son las canciones que mas funcionan para licenciar?",
+    "en": "What are the songs that work best for licensing?"
+  },
+  "faq_answer-6-3":{
+    "es": "En general todos los estilos de canciones pueden ser funcionales dependiendo del tipo de proyecto y necesidades. Existen necesidades comunes en el cine como canciones que rememoran puntos específicos en la historia, canciones que pueden reforzar sentimientos, canciones que te ubican en una situación geográfica o en un escenario puntual, o simplemente canciones populares actuales que complementan una escena contemporánea. Canciones con gran producción musical, con videoclip o canciones con letras que describen, cuentan historias o son amplias en su mensaje.",
+    "en": "In general, all styles of songs can be functional depending on the type of project and needs. There are common needs in cinema such as songs that recall specific points in history, songs that can reinforce feelings, songs that place you in a geographical situation or in a specific scenario, or simply current popular songs that complement a contemporary scene. Songs with great musical production, with music video or songs with lyrics that describe, tell stories or are broad in their message."
+  },
+  "faq_question-6-4":{
+    "es": "¿Cómo apruebo las licencias que me han solicitado?",
+    "en": "How do I approve the licenses that have been requested of me?"
+  },
+  "faq_answer-6-4":{
+    "es": "Cuando hay interés por parte de una productora, verás una notificación en tu perfil como proveedor musical, así como te llegará un correo electrónico de notificación. En esta sección de notificaciones dentro de tu perfil podrías ver la información sobre el proyecto audiovisual y los detalles que ha comentado el interesado. Deberás leerlos al detalle y aprobarlo dentro de la plataforma, si ves que todo está bien. De lo contrario podrás enviar tus comentarios.",
+    "en": "When there is interest on the part of a production company, you will see a notification in your profile as a music provider, as well as you will receive an email notification. In this notifications section within your profile you could see the information about the audiovisual project and the details that the interested party has commented. You must read them in detail and approve it within the platform, if you see that everything is fine. Otherwise you can send your comments."
+  },
+  "faq_question-6-5":{
+    "es": "¿Cómo recibiré el pago de mis licencias?",
+    "en": "How will I receive payment for my licenses?"
+  },
+  "faq_answer-6-5":{
+    "es": "Configura todos los datos de pago a través de FILMTONO. Haremos un monitoreo y soporte para los pagos desde países con regulaciones especiales como lo es Estados Unidos.",
+    "en": "Set up all payment data through FILMTONO. We will monitor and support payments from countries with special regulations such as the United States."
+  },
+  "faq_section-7":{
+    "es": "Servicios adicionales",
+    "en": "Additional services"
+  },
+  "faq_question-7-1":{
+    "es": "¿Puedo comprar canciones a medida realizadas con IA?",
+    "en": "Can I buy tailor-made songs made with AI?"
+  },
+  "faq_answer-7-1-1":{
+    "es": "Las canciones creadas con inteligencia artificial pueden funcionar en algunos casos y puedes crear algunas en FILMTONO, de tal manera que puedas comprarlas y darle uso comercial. En este caso no se licencia porque no son creaciones protegidas.",
+    "en": "Songs created with artificial intelligence can work in some cases and you can create some in FILMTONO, so that you can buy them and give them commercial use. In this case it is not licensed because they are not protected creations."
+  },
+  "faq_answer-7-1-2":{
+    "es": "Sin embargo, advertimos que la calidad de producción de una creación con IA no es comparable a la calidad de una producción de alta calidad.",
+    "en": "However, we warn that the production quality of an AI creation is not comparable to the quality of a high-quality production."
+  },
+  "faq_question-7-2":{
+    "es": "¿Puedo solicitar formatos musicales 3D y otros archivos de audio?",
+    "en": "Can I request 3D music formats and other audio files?"
+  },
+  "faq_answer-7-2-1":{
+    "es": "Si requieres solicitar formatos de sonido más envolventes para los sistemas de sonido para cine en 3D, solicita los archivos de audio de alta calidad en formatos WAV y Mezclas 3D para Atmos, con el fin de que tengas acceso a archivos de altísima calidad sonora. Para las canciones que cuentan con producción 3D estarán marcadas con la etiqueta ADM.",
+    "en": "If you require requesting more immersive sound formats for 3D cinema sound systems, request high-quality audio files in WAV formats and 3D mixes for Atmos, so that you have access to very high-quality sound files. For songs that have 3D production will be marked with the ADM label."
+  },
+  "faq_answer-7-2-2":{
+    "es": "Para cada una de las canciones también puedes solicitar los stems para hacer uso de la canción sin voz o solo el sonido de la voz sin música. Los stems irán en conjunto con el archivo del máster oficial.",
+    "en": "For each of the songs you can also request the stems to use the song without voice or only the sound of the voice without music. The stems will go together with the official master file."
+  },
+  "faq_question-7-3":{
+    "es": "¿Puedo solicitar el cameo de un artista por medio de FILMTONO?",
+    "en": "Can I request a cameo from an artist through FILMTONO?"
+  },
+  "faq_answer-7-3":{
+    "es": "Sí en algunos casos, para esto fíjate en el perfil del artista. Si está marcado para cameos con una etiqueta podrás enviarnos una solicitud con la información del proyecto. De esta manera podremos mediar para proponer el proyecto al artista y darte respuesta.",
+    "en": "Yes in some cases, for this look at the artist's profile. If it is marked for cameos with a label you can send us a request with the project information. In this way we can mediate to propose the project to the artist and give you an answer."
+  },
+  "t-inempresarios":{
+    "es": "In Empresarios",
+    "en": "In Empresarios"
+  },
+  "p-required_fields":{
+    "es": "Los campos marcados con (*) son obligatorios",
+    "en": "The fields marked with (*) are required"
+  },
+  "t-personal_data":{
+    "es": "Datos Personales",
+    "en": "Personal Data"
+  },
+  "t-email":{
+    "es": "Email",
+    "en": "Email"
+  },
+  "t-type-user":{
+    "es": "Tipo de Usuario",
+    "en": "Type of User"
+  },
+  "t-user-without-type":{
+    "es": "Usuario sin tipo",
+    "en": "User without type"
+  },
+  "t-country":{
+    "es": "País",
+    "en": "Country"
+  },
+  "t-phone":{
+    "es": "Teléfono",
+    "en": "Phone"
+  },
+  "t-position":{
+    "es": "Cargo",
+    "en": "Position"
+  },
+  "t-profile-complete":{
+    "es": "Perfil completo",
+    "en": "Complete profile"
+  },
+  "t-profile-incomplete":{
+    "es": "Perfil incompleto",
+    "en": "Incomplete profile"
+  },
+  "t-complete_your_data":{
+    "es": "Completa tus datos",
+    "en": "Complete your data"
+  },
+  "t-confirmed":{
+    "es": "Usuario confirmado",
+    "en": "User confirmed"
+  },
+  "t-yes":{
+    "es": "Sí",
+    "en": "Yes"
+  },
+  "t-no":{
+    "es": "No",
+    "en": "No"
+  },
+  "t-contact_phone":{
+    "es": "Teléfono de contacto",
+    "en": "Contact phone"
+  },
+  "t-contact_country":{
+    "es": "País de contacto",
+    "en": "Contact country"
+  },
+  "t-about":{
+    "es": "Sobre Filmtono",
+    "en": "About Filmtono"
+  },
+  "t-faq":{
+    "es": "Preguntas Frecuentes",
+    "en": "Frequently Asked Questions"
+  },
+  "t-contact":{
+    "es": "Contacto",
+    "en": "Contact"
+  },
+  "t-terms-conditions":{
+    "es": "Términos y Condiciones",
+    "en": "Terms and Conditions"
+  },
+  "t-privacy":{
+    "es": "Política de Privacidad y Proteccoón de Datos",	
+    "en": "Privacy Policy and Data Protection"
+  },
+  "t-song-licensing":{
+    "es": "Licenciamiento de Canciones",
+    "en": "Song Licensing"
+  },
+  "i-name":{
+    "es": "Nombre",
+    "en": "Name"
+  },
+  "i-last_name":{
+    "es": "Apellido",
+    "en": "Last Name"
+  },
+  "i-email":{
+    "es": "Email",
+    "en": "Email"
+  },
+  "i-password":{
+    "es": "Contraseña",
+    "en": "Password"
+  },
+  "i-password_confirmation":{
+    "es": "Confirmar Contraseña",
+    "en": "Confirm Password"
+  },
+  "i-your_country":{
+    "es": "Tu País",
+    "en": "Your Country"
+  },
+  "i-country":{
+    "es": "País",
+    "en": "Country"
+  },
+  "i-select_country":{
+    "es": "Selecciona un país",
+    "en": "Select a country"
+  },
+  "i-phone":{
+    "es": "Teléfono",
+    "en": "Phone"
+  },
+  "i-position":{
+    "es": "Cargo en la empresa",
+    "en": "Position in the company"
+  },
+  "t-about_company":{
+    "es": "Sobre la Empresa",
+    "en": "About the Company"
+  },
+  "t-company_data":{
+    "es": "Datos de la Empresa",
+    "en": "Company Data"
+  },
+  "i-company_name":{
+    "es": "Nombre de la Empresa",
+    "en": "Company Name"
+  },
+  "i-fiscal_id":{
+    "es": "Identificación Fiscal",
+    "en": "Tax ID"
+  },
+  "i-address":{
+    "es": "Dirección",
+    "en": "Address"
+  },
+  "t-purchase_contact":{
+    "es": "Datos de Contacto para Compras",
+    "en": "Purchases Contact Data"
+  },
+  "t-purchase_name":{
+    "es": "Nombre de la persona encargada de compras",
+    "en": "Name of the person in charge of purchases"
+  },
+  "t-purchase_lastname":{
+    "es": "Apellido de la persona de compras",
+    "en": "Last name of the person in charge of purchases"
+  },
+  "t-purchase_email":{
+    "es": "Email de la persona encargada de compras",
+    "en": "Email of the person in charge of purchases"
+  },
+  "t-purchase_phone":{
+    "es": "Teléfono de la persona encargada de compras",
+    "en": "Phone of the person in charge of purchases"
+  },
+  "t-authorizations":{
+    "es": "Autorizaciones",
+    "en": "Authorizations"
+  },
+  "t-signs_authorizations":{
+    "es": "Firmas y Autorizaciones",
+    "en": "Signs and Authorizations"
+  },
+  "t-search-songs":{
+    "es": "Buscar Canciones",
+    "en": "Search Songs"
+  },
+  "t-search-songs_placeholder":{
+    "es": "Buscar por nombre, letra o palabra clave",
+    "en": "Search by name, lyrics or keyword"
+  },
+  "t-search-songs_artist":{
+    "es": "Artista",
+    "en": "Artist"
+  },
+  "t-search-songs_artist_placeholder":{
+    "es": "Buscar por artista",
+    "en": "Search by artist"
+  },
+  "t-search-songs_level":{
+    "es": "Nivel de la canción",
+    "en": "Song level"
+  },
+  "t-search-songs_level_placeholder":{
+    "es": "Buscar por nivel de la canción",
+    "en": "Search by song level"
+  },
+  "t-search-artist_level":{
+    "es": "Nivel del artista",
+    "en": "Artist level"
+  },
+  "t-search-artist_level_placeholder":{
+    "es": "Buscar por nivel del artista",
+    "en": "Search by artist level"
+  },
+  "t-search-songs_genre":{
+    "es": "Géneros musicales",
+    "en": "Music genres"
+  },
+  "t-search-songs_genre_placeholder":{
+    "es": "Buscar por género",
+    "en": "Search by genre"
+  },
+  "songs_category_title":{
+    "es": "Categorías",
+    "en": "Categories"
+  },
+  "t-search-songs_category":{
+    "es": "Buscar por Categoría",
+    "en": "Search by Category"
+  },
+  "t-search-songs_category_placeholder":{
+    "es": "Categorías",
+    "en": "Categories"
+  },
+  "t-search-songs_language":{
+    "es": "Idiomas",
+    "en": "Languages"
+  },
+  "t-search-songs_language_placeholder":{
+    "es": "Buscar por idioma",
+    "en": "Search by language"
+  },
+  "t-search-songs-instrument":{
+    "es": "Instrumentos",
+    "en": "Instrument"
+  },
+  "t-search-songs-instrument_placeholder":{
+    "es": "Buscar por instrumento",
+    "en": "Search by instrument"
+  },
+  "p-sign_music_contract":{
+    "es": "Firma el contrato de proveedor musical",
+    "en": "Sign the music supplier contract"
+  },
+  "p-info_music_contract":{
+    "es": "Este es el contrato para que puedas subir tu música y ofrecerla a través de FILMTONO.",
+    "en": "This is the contract so that you can upload your music and offer it through FILMTONO."
+  },
+  "b-read_sign":{
+    "es": "Leer y Firmar",
+    "en": "Read and Sign"
+  },
+  "p-sign_artistic_contract":{
+    "es": "Firma el contrato de proveedor artístico",
+    "en": "Sign the artistic supplier contract"
+  },
+  "p-info_artistic_contract":{
+    "es": "Este contrato es OPCIONAL para quienes deseen ofrecer los cameos del artista través de FILMTONO.",
+    "en": "This contract is OPTIONAL for those who wish to offer the artist's cameos through FILMTONO."
+  },
+  "t-terms_acceptance":{
+    "es": "Aceptación de términos, privacidad y confirmación de comunicaciones",
+    "en": "Acceptance of terms, privacy and confirmation of communications"
+  },
+  "t-film-director":{
+    "es": "Director de Cine",
+    "en": "Film Director"
+  },
+  "t-audiovisual-producer":{
+    "es": "Productor Audiovisual",
+    "en": "Audiovisual Producer"
+  },
+  "t-music-supervisor":{
+    "es": "Supervisor Musical",
+    "en": "Music Supervisor"
+  },
+  "t-content-creator":{
+    "es": "Creador de Contenido",
+    "en": "Content Creator"
+  },
+  "l-i_accept_terms":{
+    "es": "Acepto los",
+    "en": "I accept the"
+  },
+  "l-terms_conditions":{
+    "es": "Términos y Condiciones",
+    "en": "Terms and Conditions"
+  },
+  "l-i_accept_privacy":{
+    "es": "Acepto la",
+    "en": "I accept the"
+  },
+  "l-privacy_policy":{
+    "es": "Política de Privacidad",
+    "en": "Privacy Policy"
+  },
+  "l-accept_communications":{
+    "es": "Acepto recibir comunicaciones de FILMTONO",
+    "en": "I accept to receive communications from FILMTONO"
+  },
+  "b-previous":{
+    "es": "Anterior",
+    "en": "Previous"
+  },
+  "b-next":{
+    "es": "Siguiente",
+    "en": "Next"
+  },
+  "b-register":{
+    "es": "Registrarse",
+    "en": "Register"
+  },
+  "t-profile":{
+    "es": "Perfil",
+    "en": "Profile"
+  },
+  "t-labels":{
+    "es": "Sellos Discográficos",
+    "en": "Record Labels"
+  },
+  "t-category":{
+    "es": "Categoría",
+    "en": "Category"
+  },
+  "t-categories":{
+    "es": "Categorías",
+    "en": "Categories"
+  },
+  "t-genres":{
+    "es": "Géneros",
+    "en": "Genres"
+  },
+  "t-genre":{
+    "es": "Género",
+    "en": "Genre"
+  },
+  "t-languages":{
+    "es": "Idiomas",
+    "en": "Languages"
+  },
+  "t-upc":{
+    "es": "UPC",
+    "en": "UPC"
+  },
+  "t-label":{
+    "es": "Sello",
+    "en": "Label"
+  },
+  "t-artist":{
+    "es": "Artista",
+    "en": "Artist"
+  },
+  "t-publisher":{
+    "es": "Editorial",
+    "en": "Publisher"
+  },
+  "t-aggregator":{
+    "es": "Agregador",
+    "en": "Aggregator"
+  },
+  "t-artist_level":{
+    "es": "Nivel del Artista",
+    "en": "Artist Level"
+  },
+  "t-rec-date":{
+    "es": "Fecha de grabación",
+    "en": "Recording date"
+  },
+  "alert-error": {
+    "es": "Ha ocurrido un error. Por favor, intenta de nuevo",
+    "en": "An error has occurred. Please try again"
+  },
+  "alert-error-item-exists": {
+    "es": "El elemento ya existe",
+    "en": "The item already exists"
+  },
+  "search_by_name": {
+    "es": "Buscar por nombre",
+    "en": "Search by name"
+  },
+  "invalid_url": {
+    "es": "URL inválida",
+    "en": "Invalid URL"
+  },
+  "btn_play-all": {
+    "es": "Reproducir todo",
+    "en": "Play all"
+  },
+  "artist-title": {
+    "es": "Artista",
+    "en": "Artist"
+  },
+  "artist_no-songs": {
+    "es": "Este artista no tiene canciones aún",
+    "en": "This artist has no songs yet"
+  },
+  "version": {
+    "es": "Versión",
+    "en": "Version"
+  },
+  "isrc": {
+    "es": "ISRC",
+    "en": "ISRC"
+  },
+  "label": {
+    "es": "Sello",
+    "en": "Label"
+  },
+  "song_level": {
+    "es": "Nivel de la canción",
+    "en": "Song level"
+  },
+  "genre": {
+    "es": "Género",
+    "en": "Genre"
+  },
+  "categories": {
+    "es": "Categorías",
+    "en": "Categories"
+  },
+  "languages": {
+    "es": "Idiomas",
+    "en": "Languages"
+  },
+  "instruments": {
+    "es": "Instrumentos",
+    "en": "Instruments"
+  },
+  "keywords-title": {
+    "es": "Palabras clave",
+    "en": "Keywords"
+  },
+  "gensec":{
+    "es": "Géneros secundarios",
+    "en": "Secondary genres"
+  },
+  "lyrics": {
+    "es": "Letra",
+    "en": "Lyrics"
+  },
+  "writers": {
+    "es": "Escritores",
+    "en": "Writers"
+  },
+  "writers_property": {
+    "es": "Propiedad de los escritores",
+    "en": "Writers property"
+  },
+  "publishers_property": {
+    "es": "Propiedad de los editores",
+    "en": "Publishers property"
+  },
+  "phonogram_property": {
+    "es": "Propiedad del fonograma",
+    "en": "Phonogram property"
+  },
+  "collaborators": {
+    "es": "Colaboradores",
+    "en": "Collaborators"
+  },
+  "album-title": {
+    "es": "Álbum",
+    "en": "Album"
+  },
+  "artist_subtitle-songs": {
+    "es": "Canciones",
+    "en": "Songs"
+  },
+  "clear-filters": {
+    "es": "Limpiar filtros",
+    "en": "Clear filters"
+  },
+  "t-status":{
+    "es": "Estado",
+    "en": "Status"
+  },
+  "t-reconocimiento":{
+    "es": "Reconocimiento",
+    "en": "Recognition"
+  },
+  "t-song-level":{
+    "es": "Nivel de la canción",
+    "en": "Song level"
+  },
+  "t-legend": {
+    "es": "Leyenda",
+    "en": "Legend"
+  },
+  "t-value": {
+    "es": "Valor",
+    "en": "Value"
+  },
+  "t-superstar": {
+    "es": "Superestrella",
+    "en": "Superstar"
+  },
+  "t-star": {
+    "es": "Estrella",
+    "en": "Star"
+  },
+  "t-high-level": {
+    "es": "Alto nivel",
+    "en": "High level"
+  },
+  "t-national-growth": {
+    "es": "Crecimiento nacional",
+    "en": "National growth"
+  },
+  "t-development": {
+    "es": "Desarrollo",
+    "en": "Development"
+  },
+  "t-emerging": {
+    "es": "Emergente",
+    "en": "Emerging"
+  },
+  "t-legend-text":{
+    "es": "Su imagen es historia y sus hits siguen activos.",
+    "en": "His image is history and his hits are still active."
+  },
+  "t-superstar-text":{
+    "es": "Posicionado Internacionalmente.",
+    "en": "Internationally positioned."
+  },
+  "t-star-text":{
+    "es": "Posicionado nacionalmente y en desarrollo internacional.",
+    "en": "Positioned nationally and internationally in development."
+  },
+  "t-high-level-text":{
+    "es": "Posicionado nacionalmente, tiene hits nivel nacional actualmente.",
+    "en": "Positioned nationally, has national level hits currently."
+  },
+  "t-national-growth-text":{
+    "es": "Reconocimiento nacional.",
+    "en": "National recognition."
+  },
+  "t-development-text":{
+    "es": "Reconocimiento regional y en desarrollo nacional.",
+    "en": "Regional recognition and national development."
+  },
+  "t-emerging-text":{
+    "es": "Reconocimiento básico.",
+    "en": "Basic recognition."
+  },
+  "t-international-standard":{
+    "es": "Estándar Internacional",
+    "en": "International Standard"
+  },
+  "t-international-standard-level":{
+    "es": "Sigue estando en tops internacionales el último año, la interpretan estrellas internacionales.",
+    "en": "It is still in international tops the last year, it is interpreted by international stars."
+  },
+  "t-international-standard-value":{
+    "es": "A",
+    "en": "A"
+  },
+  "t-hit-internacional-novedad":{
+    "es": "Hit Internacional Novedad",
+    "en": "International Hit News"
+  },
+  "t-hit-internacional-novedad-level":{
+    "es": "Es un hit internacional de novedad, interpretado por estrellas internaTiene reconocimiento, oyentes fuertes a nivel internacional. Ha estado en top 20 en rankings internacionales el último año, tiene participación de estrellas internacionales.",
+    "en": "It is an international novelty hit, interpreted by international stars. It has recognition, strong listeners internationally. It has been in the top 20 in international rankings the last year, it has the participation of international stars."
+  },
+  "t-hit-internacional-novedad-value":{
+    "es": "B",
+    "en": "B"
+  },
+  "t-top-internacional":{
+    "es": "Top Internacional",
+    "en": "International Top"
+  },
+  "t-top-internacional-level":{
+    "es": "Tiene reconocimiento en otros países, ha sido top 20 en rankings internacionales, es colaboración con una estrella internacional, ha ganado premios, pero no necesariamente es hit del momento.",
+    "en": "It has recognition in other countries, has been top 20 in international rankings, is a collaboration with an international star, has won awards, but is not necessarily a hit of the moment."
+  },
+  "t-top-internacional-value":{
+    "es": "C",
+    "en": "C"
+  },
+  "t-estandar-nacional":{
+    "es": "Estándar Nacional",
+    "en": "National Standard"
+  },
+  "t-estandar-nacional-level":{
+    "es": "Tiene reconocimiento de una base de oyentes y seguidores fuerte a nivel nacional. Ha sido o es top 5 en listas nacionales, tiene participación con artistas de mayor nivel, ha ganado premios nacionales.",
+    "en": "It has recognition of a strong listener and follower base nationally. It has been or is top 5 in national lists, has participation with higher level artists, has won national awards."
+  },
+  "t-estandar-nacional-value":{
+    "es": "D",
+    "en": "D"
+  },
+  "t-top-nacional":{
+    "es": "Top Nacional",
+    "en": "National Top"
+  },
+  "t-top-nacional-level":{
+    "es": "Reconocimiento nacional, puede ser participación con un artista de mayor nivel.",
+    "en": "National recognition, may be participation with a higher level artist."
+  },
+  "t-top-nacional-value":{
+    "es": "E",
+    "en": "E"
+  },
+  "t-regional":{
+    "es": "Regional",
+    "en": "Regional"
+  },
+  "t-regional-level":{
+    "es": "Reconocimiento en un segmento regional.",
+    "en": "Recognition in a regional segment."
+  },
+  "t-regional-value":{
+    "es": "F",
+    "en": "F"
+  },
+  "t-por-descubrir":{
+    "es": "Por Descubrir",
+    "en": "To Discover"
+  },
+  "t-por-descubrir-level":{
+    "es": "Reconocimiento básico",
+    "en": "Basic recognition"
+  },
+  "t-por-descubrir-value":{
+    "es": "G",
+    "en": "G"
+  },
+  "t-search-songs_subcategory":{
+    "es": "Selecciona una categoría para ver las subcategorias",
+    "en": "Select a category to see the subcategories"
+  },
+  "t-property-of":{
+    "es": "Propiedad de",
+    "en": "Property of"
+  },
+  "t-message-sent":{
+    "es": "Mensaje enviado correctamente",
+    "en": "Message sent successfully"
+  }
+}

@@ -1,0 +1,82 @@
+@use 'sass:math';
+@use "../../base/variables" as v;
+@use "../../base/mixins" as m;
+
+.cards{
+    margin: v.$separate 0;
+    &__container{
+        display: grid;
+        gap: 2rem;
+        align-items: center;
+        @include m.phone{
+            grid-template-columns: repeat(auto-fit, minmax(32rem, 1fr));
+            gap: 3rem;
+        }
+        @include m.tablet{
+            grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
+            gap: 2rem;
+        }
+    }
+    &__link{
+        width: 100%;
+        @include m.tablet{
+            width: auto;
+            height: 100%;
+        }
+    }
+    &__card{
+        @include m.card;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 2rem;
+        padding: 2rem 3rem 2rem 2rem;
+        border-radius: .5rem;
+        height: 100%;
+        @include m.tablet{
+            width: auto;
+            height: 100%;
+        }
+    }
+    &__info{
+        margin-bottom: 1rem;
+        &--div{
+            display: flex;
+            flex-wrap: wrap;
+            column-gap: 0.5rem;
+            padding: 0.5rem 0;
+        }
+    }
+    &__img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: .5rem;
+        max-width: 25rem;
+    }
+    &__img--album{
+        height: 18rem;
+        width: 18rem;
+    }
+    &__label, &__text{
+        color: v.$white;
+        margin: 0;
+        &--span{
+            font-weight: v.$regular;
+            color: v.$yellow;
+        }
+    }
+    &__text{
+        word-break: break-word;
+        line-height: 1.4;
+    }
+    &__label{
+        font-weight: v.$bold;
+    }
+    &__actions{
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-top: auto;
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "input":{
+      "en": "You must complete this field",
+      "es": "Debes completar este campo"
+    },
+    "inputs":{
+      "en": "You must complete all required fields",
+      "es": "Debes completar todos los campos requeridos"
+    },
+    "select":{
+      "en": "You must select an option",
+      "es": "Debes seleccionar una opción"
+    },
+    "email":{
+      "en": "You must enter a valid email address",
+      "es": "Debes ingresar una dirección de correo válida"
+    },
+    "phone":{
+      "en": "You must enter a valid phone number",
+      "es": "Debes ingresar un número de teléfono válido"
+    },
+    "terms":{
+      "en": "You must accept the terms and conditions",
+      "es": "Debes aceptar los términos y condiciones"
+    },
+    "privacy":{
+      "en": "You must accept the privacy policy",
+      "es": "Debes aceptar la política de privacidad"
+    },
+    "signature":{
+      "en": "Signature",
+      "es": "Firma"
+    },
+    "signatureInfo":{
+      "en": "Please sign below using your mouse or finger:",
+      "es": "Por favor firma debajo usando tu ratón o dedo:"
+    },
+    "clear":{
+      "en": "Clear",
+      "es": "Borrar"
+    },
+    "signValidation":{
+      "en": "You must sign the contract",
+      "es": "Debes firmar el contrato"
+    },
+    "contract":{
+      "en": "You must sign the contract",
+      "es": "Debes firmar el contrato"
+    },
+    "confirm":{
+      "en": "Contract saved successfully!",
+      "es": "¡Contrato guardado correctamente!"
+    },
+    "register":{
+      "en": "Register",
+      "es": "Registrarse"
+    },
+    "name":{
+      "en": "Name",
+      "es": "Nombre"
+    },
+    "addArtist":{
+      "en": "Add Artist",
+      "es": "Agregar Artista"
+    },
+    "add":{
+      "en": "Add",
+      "es": "Agregar"
+    },
+    "artistSuccess":{
+      "en": "Artist added successfully!",
+      "es": "¡Artista agregado correctamente!"
+    },
+    "artistError":{
+      "en": "Error adding artist. Try again later.",
+      "es": "Error al agregar artista. Inténtalo de nuevo más tarde."
+    },
+    "next":{
+      "en": "Next",
+      "es": "Siguiente"
+    },
+    "save":{
+      "en": "Save",
+      "es": "Guardar"
+    },
+    "contracts_user-name":{
+      "es": "Usuario",
+      "en": "User"
+    },
+    "contracts_type":{
+      "es": "Tipo",
+      "en": "Type"
+    },
+    "contracts_type-music":{
+      "es": "Musical",
+      "en": "Musical"
+    },
+    "contracts_type-artistic":{
+      "es": "Artístico",
+      "en": "Artistic"
+    },
+    "contract_music":{
+      "es": "Contrato musical",
+      "en": "Music contract"
+    },
+    "contract_artistic":{
+      "es": "Contrato artístico",
+      "en": "Artistic contract"
+    },
+    "contracts_empresa":{
+      "es": "Empresa",
+      "en": "Company"
+    },
+    "contracts_fecha":{
+      "es": "Fecha",
+      "en": "Date"
+    },
+    "delete":{
+      "es": "Eliminar",
+      "en": "Delete"
+    },
+    "delete_item":{
+      "es": "¿Estás seguro que deseas eliminar este elemento?",
+      "en": "Are you sure you want to delete this item?"
+    },
+    "delete_confirmation":{
+      "es": "Esta acción no se puede deshacer",
+      "en": "This action cannot be undone"
+    },
+    "cancel":{
+      "es": "Cancelar",
+      "en": "Cancel"
+    },
+    "see-more":{
+      "es": "Ver más",
+      "en": "See more"
+    },
+    "profile-complete":{
+      "es": "Perfil completo",
+      "en": "Profile complete"
+    },
+    "profile-incomplete":{
+      "es": "Perfil incompleto",
+      "en": "Profile incomplete"
+    },
+    "confirmed":{
+      "es": "Confirmado",
+      "en": "Confirmed"
+    },
+    "not-confirmed":{
+      "es": "Sin confirmar",
+      "en": "Not confirmed"
+    },
+    "userLabel-type":{
+      "es": "Tipo de usuario",
+      "en": "User type"
+    },
+    "aggregator":{
+      "es": "Agregador",
+      "en": "Aggregator"
+    },
+    "publisher":{
+      "es": "Editorial",
+      "en": "Publisher"
+    },
+    "label":{
+      "es": "Sello discográfico",
+      "en": "Record label"
+    },
+    "label-name":{
+      "es": "Nombre del sello",
+      "en": "Label name"
+    },
+    "label-creation":{
+      "es": "Fecha de creación",
+      "en": "Creation date"
+    },
+    "company":{
+      "es": "Empresa",
+      "en": "Company"
+    },
+    "see-company":{
+      "es": "Ver empresa",
+      "en": "See company"
+    },
+    "user":{
+      "es": "Usuario",
+      "en": "User"
+    },
+    "see-user":{
+      "es": "Ver usuario",
+      "en": "See user"
+    },
+    "undefined":{
+      "es": "No definido",
+      "en": "Undefined"
+    },
+    "max-characters-exceeded":{
+      "es": "Se ha excedido el número máximo de caracteres",
+      "en": "The maximum number of characters has been exceeded"
+    },
+    "characters-remaining":{
+      "es": "Caracteres restantes",
+      "en": "Characters remaining"
+    },
+    "show-price":{
+      "es": "Precio del show",
+      "en": "Show price"
+    },
+    "url":{
+      "es": "URL inválida",
+      "en": "Invalid URL"
+    },
+    "banner-code":{
+      "es": "Código del banner",
+      "en": "Banner code"
+    },
+    "version":{
+      "es": "Versión",
+      "en": "Version"
+    },
+    "genre":{
+      "es": "Género",
+      "en": "Genre"
+    },
+    "genre-sec":{
+      "es": "Género secundario",
+      "en": "Secondary genre"
+    },
+    "categories":{
+      "es": "Categorías",
+      "en": "Categories"
+    },
+    "languages":{
+      "es": "Idiomas",
+      "en": "Languages"
+    },
+    "level":{
+      "es": "Nivel",
+      "en": "Level"
+    },
+    "approved":{
+      "es": "Aprobado",
+      "en": "Approved"
+    },
+    "pending-approval":{
+      "es": "Pendiente de aprobar",
+      "en": "Pending approval"
+    },
+    "active":{
+      "es": "Activo",
+      "en": "Active"
+    },
+    "inactive":{
+      "es": "Inactivo",
+      "en": "Inactive"
+    },
+    "activate":{
+      "es": "Activar",
+      "en": "Activate"
+    },
+    "deactivate":{
+      "es": "Desactivar",
+      "en": "Deactivate"
+    },
+    "selectSubcategory":{
+      "es": "Selecciona una subcategoría",
+      "en": "Select a subcategory"
+    },
+    "error":{
+      "es": "Error",
+      "en": "Error"
+    }
+}

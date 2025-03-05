@@ -1,0 +1,56 @@
+@use "sass:math";
+@use '../../base/variables' as v;
+@use '../../base/mixins' as m;
+
+.songs{
+    display: flex;
+    flex-direction: column;
+    background-color: v.$lightGray;
+    border-radius: 1rem;
+    margin: .7rem 0;
+    @include m.tablet{
+        margin: 1rem 0;
+    }
+
+    a{
+        color: v.$white;
+        background-color: v.$softGray;
+        padding: 0.5rem;
+        text-align: center;
+        width: 75%;
+        margin: 0 auto 0.5rem auto;
+        border-radius: 1rem;
+        &:hover{
+            background-color: v.$yellow;
+        }
+    }
+
+    .songs-btn, .firma-btn{
+        border: none;
+        color: v.$white;
+        display: grid;
+        padding: 1rem 0.5rem;
+        text-align: left;
+        place-items: self-start;       
+    }
+    .songs-btn{
+        grid-template-columns: 10% auto; 
+    }
+    .firma-btn{
+        grid-template-columns: auto 10%;
+        &:hover{
+            background-color: v.$yellow;
+            border-radius: 1rem;
+        }
+    }
+    
+    img{
+        filter: sepia(100%) grayscale(1) brightness(1);
+        margin: auto;
+        width: 1.5rem;
+    }
+    p{
+        padding: 0 1rem;
+        margin: 0.5rem;
+    }
+}
