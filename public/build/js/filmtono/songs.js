@@ -2,7 +2,6 @@ import { gridSongs,songsInput } from "./selectores.js";
 import { readLang, readJSON, eliminarItem, normalizeText, caps } from "../base/funciones.js";
 
 export async function consultaSongs(){
-    console.log('hola');
     //retrieve the URL of the current page with paarameters
     const url = new URL(window.location.href);
     const params = new URLSearchParams(url.search);

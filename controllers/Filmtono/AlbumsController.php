@@ -128,8 +128,6 @@ class AlbumsController{
             GROUP_CONCAT(DISTINCT gs.genero_es SEPARATOR \', \') AS gensec_es,
             GROUP_CONCAT(DISTINCT i.idioma_en SEPARATOR \', \') AS idioma_en,
             GROUP_CONCAT(DISTINCT i.idioma_es SEPARATOR \', \') AS idioma_es,
-            GROUP_CONCAT(DISTINCT ins.keyword_en SEPARATOR \', \') AS instrumentos_en,
-            GROUP_CONCAT(DISTINCT ins.keyword_es SEPARATOR \', \') AS instrumentos_es,
             GROUP_CONCAT(DISTINCT k.keyword_en SEPARATOR \', \') AS keywords_en,
             GROUP_CONCAT(DISTINCT k.keyword_es SEPARATOR \', \') AS keywords_es,
             l.letra,
@@ -164,10 +162,6 @@ class AlbumsController{
                 canc_idiomas ci ON c.id = ci.id_cancion
             LEFT JOIN 
                 idiomas i ON ci.id_idioma = i.id
-            LEFT JOIN
-                canc_instrumento cins ON c.id = cins.id_cancion
-            LEFT JOIN
-                keywords ins ON cins.id_instrumento = ins.id
             LEFT JOIN
                 canc_keywords ck ON c.id = ck.id_cancion
             LEFT JOIN
@@ -211,8 +205,6 @@ class AlbumsController{
              GROUP_CONCAT(DISTINCT gs.genero_es SEPARATOR \', \') AS gensec_es,
              GROUP_CONCAT(DISTINCT i.idioma_en SEPARATOR \', \') AS idioma_en,
              GROUP_CONCAT(DISTINCT i.idioma_es SEPARATOR \', \') AS idioma_es,
-             GROUP_CONCAT(DISTINCT ins.keyword_en SEPARATOR \', \') AS instrumentos_en,
-             GROUP_CONCAT(DISTINCT ins.keyword_es SEPARATOR \', \') AS instrumentos_es,
              GROUP_CONCAT(DISTINCT k.keyword_en SEPARATOR \', \') AS keywords_en,
              GROUP_CONCAT(DISTINCT k.keyword_es SEPARATOR \', \') AS keywords_es,
              l.letra,
@@ -247,10 +239,6 @@ class AlbumsController{
                  canc_idiomas ci ON c.id = ci.id_cancion
              LEFT JOIN 
                  idiomas i ON ci.id_idioma = i.id
-             LEFT JOIN
-                 canc_instrumento cins ON c.id = cins.id_cancion
-             LEFT JOIN
-                 keywords ins ON cins.id_instrumento = ins.id
              LEFT JOIN
                  canc_keywords ck ON c.id = ck.id_cancion
              LEFT JOIN
@@ -296,8 +284,6 @@ class AlbumsController{
             GROUP_CONCAT(DISTINCT gs.genero_es SEPARATOR \', \') AS gensec_es,
             GROUP_CONCAT(DISTINCT i.idioma_en SEPARATOR \', \') AS idioma_en,
             GROUP_CONCAT(DISTINCT i.idioma_es SEPARATOR \', \') AS idioma_es,
-            GROUP_CONCAT(DISTINCT ins.keyword_en SEPARATOR \', \') AS instrumentos_en,
-            GROUP_CONCAT(DISTINCT ins.keyword_es SEPARATOR \', \') AS instrumentos_es,
             GROUP_CONCAT(DISTINCT k.keyword_en SEPARATOR \', \') AS keywords_en,
             GROUP_CONCAT(DISTINCT k.keyword_es SEPARATOR \', \') AS keywords_es,
             l.letra,
@@ -332,10 +318,6 @@ class AlbumsController{
                 canc_idiomas ci ON c.id = ci.id_cancion
             LEFT JOIN 
                 idiomas i ON ci.id_idioma = i.id
-            LEFT JOIN
-                canc_instrumento cins ON c.id = cins.id_cancion
-            LEFT JOIN
-                keywords ins ON cins.id_instrumento = ins.id
             LEFT JOIN
                 canc_keywords ck ON c.id = ck.id_cancion
             LEFT JOIN
@@ -383,8 +365,6 @@ class AlbumsController{
              GROUP_CONCAT(DISTINCT gs.genero_es SEPARATOR \', \') AS gensec_es,
              GROUP_CONCAT(DISTINCT i.idioma_en SEPARATOR \', \') AS idioma_en,
              GROUP_CONCAT(DISTINCT i.idioma_es SEPARATOR \', \') AS idioma_es,
-             GROUP_CONCAT(DISTINCT ins.keyword_en SEPARATOR \', \') AS instrumentos_en,
-             GROUP_CONCAT(DISTINCT ins.keyword_es SEPARATOR \', \') AS instrumentos_es,
              GROUP_CONCAT(DISTINCT k.keyword_en SEPARATOR \', \') AS keywords_en,
              GROUP_CONCAT(DISTINCT k.keyword_es SEPARATOR \', \') AS keywords_es,
              l.letra,
@@ -419,10 +399,6 @@ class AlbumsController{
                  canc_idiomas ci ON c.id = ci.id_cancion
              LEFT JOIN 
                  idiomas i ON ci.id_idioma = i.id
-             LEFT JOIN
-                 canc_instrumento cins ON c.id = cins.id_cancion
-             LEFT JOIN
-                 keywords ins ON cins.id_instrumento = ins.id
              LEFT JOIN
                  canc_keywords ck ON c.id = ck.id_cancion
              LEFT JOIN
